@@ -1,0 +1,87 @@
+{
+  "Metallica": {
+    "name": "Metallica",
+    "id": "3996865",
+    "albums": [
+      {
+        "id": "1145497823",
+        "name": "Hardwired…To Self-Destruct",
+        "releaseDate": "2016-11-18",
+        "releaseYear": 2016
+      },
+      {
+        "id": "679166887",
+        "name": "Metallica Through the Never",
+        "releaseDate": "2013-09-24",
+        "releaseYear": 2013
+      },
+      {
+        "id": "467890760",
+        "name": "Lulu",
+        "releaseDate": "2011-11-01",
+        "releaseYear": 2011
+      },
+      {
+        "id": "579367503",
+        "name": "Death Magnetic",
+        "releaseDate": "2008-09-12",
+        "releaseYear": 2008
+      },
+      {
+        "id": "579378997",
+        "name": "St. Anger",
+        "releaseDate": "2003-06-05",
+        "releaseYear": 2003
+      },
+      {
+        "id": "579370472",
+        "name": "Garage, Inc.",
+        "releaseDate": "1998-11-23",
+        "releaseYear": 1998
+      },
+      {
+        "id": "579374216",
+        "name": "Reload",
+        "releaseDate": "1997-11-18",
+        "releaseYear": 1997
+      },
+      {
+        "id": "579371716",
+        "name": "Load",
+        "releaseDate": "1996-06-04",
+        "releaseYear": 1996
+      },
+      {
+        "id": "579372950",
+        "name": "Metallica",
+        "releaseDate": "1991-08-12",
+        "releaseYear": 1991
+      },
+      {
+        "id": "1433827883",
+        "name": "...And Justice for All",
+        "releaseDate": "1988-08-25",
+        "releaseYear": 1988
+      },
+      {
+        "id": "1275600311",
+        "name": "Master of Puppets",
+        "releaseDate": "1986-03-03",
+        "releaseYear": 1986
+      },
+      {
+        "id": "1103055744",
+        "name": "Ride the Lightning",
+        "releaseDate": "1984-07-27",
+        "releaseYear": 1984
+      },
+      {
+        "id": "1102908633",
+        "name": "Kill 'Em All",
+        "releaseDate": "1983-07-25",
+        "releaseYear": 1983
+      }
+    ],
+    "nextReleaseYear": 2019
+  }
+}

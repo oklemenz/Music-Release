@@ -1,0 +1,8 @@
+{
+  "host": "https://api.music.apple.com",
+  "version": "v1",
+  "resource": "catalog",
+  "storefront": "us",
+  "paging": 100,
+  "music-user-token": ""
+}
