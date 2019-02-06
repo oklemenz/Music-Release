@@ -1,0 +1,4477 @@
+{
+  "10 Years": {
+    "name": "10 Years",
+    "id": "63569098",
+    "albums": [
+      {
+        "id": "964076092",
+        "name": "From Birth to Burial",
+        "releaseDate": "2015-04-21",
+        "releaseYear": 2015
+      },
+      {
+        "id": "540460921",
+        "name": "Minus the Machine",
+        "releaseDate": "2012-08-07",
+        "releaseYear": 2012
+      },
+      {
+        "id": "386404455",
+        "name": "Feeding the Wolves",
+        "releaseDate": "2010-08-31",
+        "releaseYear": 2010
+      },
+      {
+        "id": "280043827",
+        "name": "Division",
+        "releaseDate": "2008-01-01",
+        "releaseYear": 2008
+      },
+      {
+        "id": "78251758",
+        "name": "The Autumn Effect",
+        "releaseDate": "2005-01-01",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2018
+  },
+  "12 Stones": {
+    "name": "12 Stones",
+    "id": "18262766",
+    "albums": [
+      {
+        "id": "1245988895",
+        "name": "Picture Perfect",
+        "releaseDate": "2017-07-14",
+        "releaseYear": 2017
+      },
+      {
+        "id": "606675171",
+        "name": "Beneath the Scars",
+        "releaseDate": "2013-02-26",
+        "releaseYear": 2013
+      },
+      {
+        "id": "888191816",
+        "name": "The Only Easy Day Was Yesterday",
+        "releaseDate": "2010-01-01",
+        "releaseYear": 2010
+      },
+      {
+        "id": "888171837",
+        "name": "Anthem For the Underdog",
+        "releaseDate": "2007-01-01",
+        "releaseYear": 2007
+      },
+      {
+        "id": "888199079",
+        "name": "Potter's Field",
+        "releaseDate": "2004-01-01",
+        "releaseYear": 2004
+      },
+      {
+        "id": "888526701",
+        "name": "12 Stones",
+        "releaseDate": "2002-04-23",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "3 Doors Down": {
+    "name": "3 Doors Down",
+    "id": "101604",
+    "albums": [
+      {
+        "id": "1073219309",
+        "name": "Us and the Night",
+        "releaseDate": "2016-03-11",
+        "releaseYear": 2016
+      },
+      {
+        "id": "443296275",
+        "name": "Time of My Life",
+        "releaseDate": "2011-07-15",
+        "releaseYear": 2011
+      },
+      {
+        "id": "280508706",
+        "name": "3 Doors Down",
+        "releaseDate": "2008-05-20",
+        "releaseYear": 2008
+      },
+      {
+        "id": "42281617",
+        "name": "Seventeen Days",
+        "releaseDate": "2005-02-08",
+        "releaseYear": 2005
+      },
+      {
+        "id": "352412",
+        "name": "Away from the Sun",
+        "releaseDate": "2002-11-11",
+        "releaseYear": 2002
+      },
+      {
+        "id": "101627",
+        "name": "The Better Life",
+        "releaseDate": "2000-02-08",
+        "releaseYear": 2000
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "A Blaze of Feather": {
+    "name": "A Blaze of Feather",
+    "id": "1230442691",
+    "albums": [
+      {
+        "id": "1244665675",
+        "name": "A Blaze of Feather",
+        "releaseDate": "2017-06-30",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1231422838",
+        "name": "EP 1",
+        "releaseDate": "2017-05-05",
+        "releaseYear": 2017
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": null,
+    "nextReleaseYear": null
+  },
+  "A Perfect Circle": {
+    "name": "A Perfect Circle",
+    "id": "652503",
+    "albums": [
+      {
+        "id": "1340651075",
+        "name": "Eat the Elephant",
+        "releaseDate": "2018-04-20",
+        "releaseYear": 2018
+      },
+      {
+        "id": "725040872",
+        "name": "Three Sixty",
+        "releaseDate": "2013-01-01",
+        "releaseYear": 2013
+      },
+      {
+        "id": "712750351",
+        "name": "aMOTION",
+        "releaseDate": "2004-11-16",
+        "releaseYear": 2004
+      },
+      {
+        "id": "724891475",
+        "name": "eMOTIVe",
+        "releaseDate": "2004-11-02",
+        "releaseYear": 2004
+      },
+      {
+        "id": "723637755",
+        "name": "Thirteenth Step",
+        "releaseDate": "2003-09-16",
+        "releaseYear": 2003
+      },
+      {
+        "id": "723435992",
+        "name": "Mer De Noms",
+        "releaseDate": "2000-05-23",
+        "releaseYear": 2000
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 5,
+    "nextReleaseYear": 2023
+  },
+  "Adelitas Way": {
+    "name": "Adelitas Way",
+    "id": "314795012",
+    "albums": [
+      {
+        "id": "1292104281",
+        "name": "Notorious",
+        "releaseDate": "2017-10-20",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1348075897",
+        "name": "Getaway",
+        "releaseDate": "2016-02-26",
+        "releaseYear": 2016
+      },
+      {
+        "id": "899693668",
+        "name": "Stuck",
+        "releaseDate": "2014-07-29",
+        "releaseYear": 2014
+      },
+      {
+        "id": "713042698",
+        "name": "Home School Valedictorian",
+        "releaseDate": "2011-06-03",
+        "releaseYear": 2011
+      },
+      {
+        "id": "713482073",
+        "name": "Adelitas Way",
+        "releaseDate": "2009-07-14",
+        "releaseYear": 2009
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
+  },
+  "Alter Bridge": {
+    "name": "Alter Bridge",
+    "id": "73789273",
+    "albums": [
+      {
+        "id": "1136055441",
+        "name": "The Last Hero",
+        "releaseDate": "2016-10-07",
+        "releaseYear": 2016
+      },
+      {
+        "id": "686789106",
+        "name": "Fortress",
+        "releaseDate": "2013-09-25",
+        "releaseYear": 2013
+      },
+      {
+        "id": "714628345",
+        "name": "AB III",
+        "releaseDate": "2010-10-08",
+        "releaseYear": 2010
+      },
+      {
+        "id": "265434876",
+        "name": "Blackbird",
+        "releaseDate": "2007-10-05",
+        "releaseYear": 2007
+      },
+      {
+        "id": "888187317",
+        "name": "One Day Remains",
+        "releaseDate": "2004-08-10",
+        "releaseYear": 2004
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Atomship": {
+    "name": "Atomship",
+    "id": "113770149",
+    "albums": [
+      {
+        "id": "888198538",
+        "name": "The Crash Of '47",
+        "releaseDate": "2004-01-01",
+        "releaseYear": 2004
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2007
+  },
+  "Ben Howard": {
+    "name": "Ben Howard",
+    "id": "432957499",
+    "albums": [
+      {
+        "id": "1364401352",
+        "name": "Noonday Dream",
+        "releaseDate": "2018-06-01",
+        "releaseYear": 2018
+      },
+      {
+        "id": "913681906",
+        "name": "I Forget Where We Were",
+        "releaseDate": "2014-10-20",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1152675985",
+        "name": "Every Kingdom",
+        "releaseDate": "2011-01-01",
+        "releaseYear": 2011
+      }
+    ],
+    "albumCount": 3,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2022
+  },
+  "Biffy Clyro": {
+    "name": "Biffy Clyro",
+    "id": "3024622",
+    "albums": [
+      {
+        "id": "1093554521",
+        "name": "Ellipsis",
+        "releaseDate": "2016-01-13",
+        "releaseYear": 2016
+      },
+      {
+        "id": "896635629",
+        "name": "Similarities",
+        "releaseDate": "2014-07-18",
+        "releaseYear": 2014
+      },
+      {
+        "id": "593640443",
+        "name": "Opposites",
+        "releaseDate": "2013-01-28",
+        "releaseYear": 2013
+      },
+      {
+        "id": "358926967",
+        "name": "Only Revolutions",
+        "releaseDate": "2010-01-18",
+        "releaseYear": 2010
+      },
+      {
+        "id": "263497052",
+        "name": "Puzzle",
+        "releaseDate": "2007-05-28",
+        "releaseYear": 2007
+      },
+      {
+        "id": "316135200",
+        "name": "Missing Pieces",
+        "releaseDate": "2007-05-28",
+        "releaseYear": 2007
+      },
+      {
+        "id": "3024829",
+        "name": "The Vertigo of Bliss",
+        "releaseDate": "2003-06-16",
+        "releaseYear": 2003
+      },
+      {
+        "id": "311187228",
+        "name": "Questions and Answers",
+        "releaseDate": "2003-05-26",
+        "releaseYear": 2003
+      },
+      {
+        "id": "1136817652",
+        "name": "Blackened Sky",
+        "releaseDate": "2002-03-11",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 9,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Billy Talent": {
+    "name": "Billy Talent",
+    "id": "1806816",
+    "albums": [
+      {
+        "id": "1163430837",
+        "name": "Dead Silence",
+        "releaseDate": "2016-10-20",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1110957316",
+        "name": "Afraid of Heights",
+        "releaseDate": "2016-07-29",
+        "releaseYear": 2016
+      },
+      {
+        "id": "938929048",
+        "name": "Hits",
+        "releaseDate": "2014-11-24",
+        "releaseYear": 2014
+      },
+      {
+        "id": "330820670",
+        "name": "Billy Talent III",
+        "releaseDate": "2009-09-22",
+        "releaseYear": 2009
+      },
+      {
+        "id": "160346607",
+        "name": "Billy Talent II",
+        "releaseDate": "2006-06-23",
+        "releaseYear": 2006
+      },
+      {
+        "id": "79565942",
+        "name": "Billy Talent",
+        "releaseDate": "2003-09-16",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Birds Of Tokyo": {
+    "name": "Birds Of Tokyo",
+    "id": "214854614",
+    "albums": [
+      {
+        "id": "1155415819",
+        "name": "BRACE",
+        "releaseDate": "2016-11-04",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1044974753",
+        "name": "Playlist",
+        "releaseDate": "2015-11-06",
+        "releaseYear": 2015
+      },
+      {
+        "id": "923028006",
+        "name": "March Fires",
+        "releaseDate": "2014-09-30",
+        "releaseYear": 2014
+      },
+      {
+        "id": "884916306",
+        "name": "Birds of Tokyo",
+        "releaseDate": "2010-07-23",
+        "releaseYear": 2010
+      },
+      {
+        "id": "283302978",
+        "name": "Universes",
+        "releaseDate": "2008-07-05",
+        "releaseYear": 2008
+      },
+      {
+        "id": "214854612",
+        "name": "Day One",
+        "releaseDate": "2007-02-03",
+        "releaseYear": 2007
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Boyce Avenue": {
+    "name": "Boyce Avenue",
+    "id": "251854427",
+    "albums": [
+      {
+        "id": "1203392177",
+        "name": "Road Less Traveled",
+        "releaseDate": "2017-01-23",
+        "releaseYear": 2017
+      },
+      {
+        "id": "658869575",
+        "name": "All We Have Left",
+        "releaseDate": "2013-06-18",
+        "releaseYear": 2013
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2021
+  },
+  "Boysetsfire": {
+    "name": "Boysetsfire",
+    "id": "272504711",
+    "albums": [
+      {
+        "id": "1034974511",
+        "name": "BoySetsFire",
+        "releaseDate": "2015-09-25",
+        "releaseYear": 2015
+      },
+      {
+        "id": "656469308",
+        "name": "While a Nation Sleeps...",
+        "releaseDate": "2013-01-01",
+        "releaseYear": 2013
+      },
+      {
+        "id": "1435668107",
+        "name": "Before the Eulogy",
+        "releaseDate": "2005-10-18",
+        "releaseYear": 2005
+      },
+      {
+        "id": "888185699",
+        "name": "Tomorrow Come Today",
+        "releaseDate": "2003-01-01",
+        "releaseYear": 2003
+      },
+      {
+        "id": "888171070",
+        "name": "After the Eulogy",
+        "releaseDate": "2000-01-01",
+        "releaseYear": 2000
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2019
+  },
+  "Breaking Benjamin": {
+    "name": "Breaking Benjamin",
+    "id": "3299379",
+    "albums": [
+      {
+        "id": "1337263399",
+        "name": "Ember",
+        "releaseDate": "2018-04-13",
+        "releaseYear": 2018
+      },
+      {
+        "id": "975950518",
+        "name": "Dark Before Dawn",
+        "releaseDate": "2015-06-23",
+        "releaseYear": 2015
+      },
+      {
+        "id": "332288664",
+        "name": "Dear Agony",
+        "releaseDate": "2009-09-29",
+        "releaseYear": 2009
+      },
+      {
+        "id": "171774379",
+        "name": "Phobia",
+        "releaseDate": "2006-08-08",
+        "releaseYear": 2006
+      },
+      {
+        "id": "328851409",
+        "name": "We Are Not Alone",
+        "releaseDate": "2004-06-29",
+        "releaseYear": 2004
+      },
+      {
+        "id": "327846747",
+        "name": "Saturate / We Are Not Alone / Phobia",
+        "releaseDate": "2004-06-29",
+        "releaseYear": 2004
+      },
+      {
+        "id": "119263131",
+        "name": "Saturate",
+        "releaseDate": "2002-08-27",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 7,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
+  },
+  "Bush": {
+    "name": "Bush",
+    "id": "154751",
+    "albums": [
+      {
+        "id": "1295165227",
+        "name": "Black and White Rainbows",
+        "releaseDate": "2017-10-13",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1331193518",
+        "name": "Razorblade Suitcase",
+        "releaseDate": "2016-12-16",
+        "releaseYear": 2016
+      },
+      {
+        "id": "911605911",
+        "name": "Man On the Run",
+        "releaseDate": "2014-10-20",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306260912",
+        "name": "The Science of Things",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306283987",
+        "name": "Deconstructed",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306255070",
+        "name": "Sixteen Stone",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "459537693",
+        "name": "The Sea of Memories",
+        "releaseDate": "2011-09-13",
+        "releaseYear": 2011
+      },
+      {
+        "id": "1306213129",
+        "name": "Zen X Four",
+        "releaseDate": "2005-11-15",
+        "releaseYear": 2005
+      },
+      {
+        "id": "357907440",
+        "name": "Golden State",
+        "releaseDate": "2001-10-23",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 9,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "Chevelle": {
+    "name": "Chevelle",
+    "id": "519486",
+    "albums": [
+      {
+        "id": "1112312335",
+        "name": "The North Corridor",
+        "releaseDate": "2016-07-08",
+        "releaseYear": 2016
+      },
+      {
+        "id": "824336135",
+        "name": "La Gárgola",
+        "releaseDate": "2014-03-28",
+        "releaseYear": 2014
+      },
+      {
+        "id": "481642215",
+        "name": "Hats Off to the Bull",
+        "releaseDate": "2011-12-02",
+        "releaseYear": 2011
+      },
+      {
+        "id": "325954846",
+        "name": "Sci-Fi Crimes",
+        "releaseDate": "2009-08-31",
+        "releaseYear": 2009
+      },
+      {
+        "id": "219398930",
+        "name": "Vena Sera",
+        "releaseDate": "2007-04-03",
+        "releaseYear": 2007
+      },
+      {
+        "id": "272025591",
+        "name": "This Type of Thinking",
+        "releaseDate": "2004-09-21",
+        "releaseYear": 2004
+      },
+      {
+        "id": "270139029",
+        "name": "Wonder What's Next",
+        "releaseDate": "2002-10-08",
+        "releaseYear": 2002
+      },
+      {
+        "id": "1168423380",
+        "name": "Point #1",
+        "releaseDate": "1999-05-04",
+        "releaseYear": 1999
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Cold": {
+    "name": "Cold",
+    "id": "435825401",
+    "albums": [
+      {
+        "id": "735200840",
+        "name": "Superfiction",
+        "releaseDate": "2011-07-19",
+        "releaseYear": 2011
+      },
+      {
+        "id": "79020834",
+        "name": "A Different Kind of Pain",
+        "releaseDate": "2005-08-29",
+        "releaseYear": 2005
+      },
+      {
+        "id": "417419900",
+        "name": "Year of the Spider",
+        "releaseDate": "2003-04-29",
+        "releaseYear": 2003
+      },
+      {
+        "id": "994659",
+        "name": "Stupid Girl",
+        "releaseDate": "2003-04-01",
+        "releaseYear": 2003
+      },
+      {
+        "id": "107666",
+        "name": "13 Ways to Bleed Onstage",
+        "releaseDate": "2000-09-12",
+        "releaseYear": 2000
+      },
+      {
+        "id": "133021",
+        "name": "Cold",
+        "releaseDate": "1997-01-01",
+        "releaseYear": 1997
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2015
+  },
+  "Creed": {
+    "name": "Creed",
+    "id": "2861519",
+    "albums": [
+      {
+        "id": "888536250",
+        "name": "Full Circle",
+        "releaseDate": "2009-10-27",
+        "releaseYear": 2009
+      },
+      {
+        "id": "888189581",
+        "name": "Weathered",
+        "releaseDate": "2001-11-20",
+        "releaseYear": 2001
+      },
+      {
+        "id": "888153416",
+        "name": "Human Clay",
+        "releaseDate": "1999-09-28",
+        "releaseYear": 1999
+      },
+      {
+        "id": "888158419",
+        "name": "My Own Prison",
+        "releaseDate": "1997-08-26",
+        "releaseYear": 1997
+      }
+    ],
+    "albumCount": 4,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2013
+  },
+  "Crown Colony": {
+    "name": "Crown Colony",
+    "id": "1001096254",
+    "albums": [
+      {
+        "id": "1267337508",
+        "name": "Arcadia",
+        "releaseDate": "2017-08-17",
+        "releaseYear": 2017
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "Daminen Rice": {
+    "name": "Daminen Rice",
+    "id": "2249490",
+    "albums": [
+      {
+        "id": "915616196",
+        "name": "My Favourite Faded Fantasy",
+        "releaseDate": "2014-11-10",
+        "releaseYear": 2014
+      },
+      {
+        "id": "203880553",
+        "name": "9",
+        "releaseDate": "2006-11-03",
+        "releaseYear": 2006
+      },
+      {
+        "id": "2249511",
+        "name": "O",
+        "releaseDate": "2002-02-01",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 3,
+    "avgReleaseYear": 6,
+    "nextReleaseYear": 2020
+  },
+  "Dave McPherson": {
+    "name": "Dave McPherson",
+    "id": "27424159",
+    "albums": [
+      {
+        "id": "929588176",
+        "name": "Journal of a Journey Buoy",
+        "releaseDate": "2014-11-03",
+        "releaseYear": 2014
+      },
+      {
+        "id": "643830728",
+        "name": "Dreamoirs",
+        "releaseDate": "2013-06-02",
+        "releaseYear": 2013
+      },
+      {
+        "id": "434582670",
+        "name": "The Hardship Diaries",
+        "releaseDate": "2011-05-15",
+        "releaseYear": 2011
+      }
+    ],
+    "albumCount": 3,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2016
+  },
+  "Dead Letter Circus": {
+    "name": "Dead Letter Circus",
+    "id": "255186729",
+    "albums": [
+      {
+        "id": "1403424547",
+        "name": "Dead Letter Circus",
+        "releaseDate": "2018-09-21",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1208415238",
+        "name": "The Endless Mile",
+        "releaseDate": "2017-05-12",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1035136341",
+        "name": "Aesthesis",
+        "releaseDate": "2015-08-14",
+        "releaseYear": 2015
+      },
+      {
+        "id": "775474365",
+        "name": "The Catalyst Fire",
+        "releaseDate": "2013-10-29",
+        "releaseYear": 2013
+      },
+      {
+        "id": "611628677",
+        "name": "This Is the Warning",
+        "releaseDate": "2013-03-11",
+        "releaseYear": 2013
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "Downplay": {
+    "name": "Downplay",
+    "id": "128459970",
+    "albums": [
+      {
+        "id": "669241721",
+        "name": "Stripped",
+        "releaseDate": "2013-07-02",
+        "releaseYear": 2013
+      },
+      {
+        "id": "533542965",
+        "name": "Radiocalypse",
+        "releaseDate": "2012-05-29",
+        "releaseYear": 2012
+      },
+      {
+        "id": "485979459",
+        "name": "Beyond the Machine",
+        "releaseDate": "2011-12-02",
+        "releaseYear": 2011
+      },
+      {
+        "id": "341192376",
+        "name": "Rise. Fall. Repeat.",
+        "releaseDate": "2009-11-17",
+        "releaseYear": 2009
+      },
+      {
+        "id": "270749273",
+        "name": "A Day Without Gravity",
+        "releaseDate": "2007-12-06",
+        "releaseYear": 2007
+      },
+      {
+        "id": "128459967",
+        "name": "Saturday",
+        "releaseDate": "2006-01-24",
+        "releaseYear": 2006
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 1,
+    "nextReleaseYear": 2014
+  },
+  "Earshot": {
+    "name": "Earshot",
+    "id": "152165",
+    "albums": [
+      {
+        "id": "15654582",
+        "name": "Two",
+        "releaseDate": "2004-06-22",
+        "releaseYear": 2004
+      },
+      {
+        "id": "299801716",
+        "name": "Letting Go",
+        "releaseDate": "2002-05-07",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2006
+  },
+  "Eddie Vedder": {
+    "name": "Eddie Vedder",
+    "id": "267320",
+    "albums": [
+      {
+        "id": "433985038",
+        "name": "Ukulele Songs",
+        "releaseDate": "2011-05-31",
+        "releaseYear": 2011
+      },
+      {
+        "id": "1285680645",
+        "name": "Into the Wild",
+        "releaseDate": "2007-09-18",
+        "releaseYear": 2007
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2015
+  },
+  "Emarosa": {
+    "name": "Emarosa",
+    "id": "252144676",
+    "albums": [
+      {
+        "id": "1106626995",
+        "name": "131",
+        "releaseDate": "2016-07-08",
+        "releaseYear": 2016
+      },
+      {
+        "id": "904818486",
+        "name": "Versus",
+        "releaseDate": "2014-09-05",
+        "releaseYear": 2014
+      },
+      {
+        "id": "377836336",
+        "name": "Emarosa",
+        "releaseDate": "2010-06-29",
+        "releaseYear": 2010
+      },
+      {
+        "id": "363563728",
+        "name": "Relativity",
+        "releaseDate": "2008-07-08",
+        "releaseYear": 2008
+      },
+      {
+        "id": "252144674",
+        "name": "This Is Your Way Out",
+        "releaseDate": "2007-05-01",
+        "releaseYear": 2007
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Evanescence": {
+    "name": "Evanescence",
+    "id": "42102393",
+    "albums": [
+      {
+        "id": "1281271863",
+        "name": "Synthesis",
+        "releaseDate": "2017-11-08",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1203520468",
+        "name": "Lost Whispers",
+        "releaseDate": "2016-12-09",
+        "releaseYear": 2016
+      },
+      {
+        "id": "888184535",
+        "name": "Evanescence",
+        "releaseDate": "2011-10-07",
+        "releaseYear": 2011
+      },
+      {
+        "id": "888172775",
+        "name": "The Open Door",
+        "releaseDate": "2006-09-25",
+        "releaseYear": 2006
+      },
+      {
+        "id": "888149707",
+        "name": "Fallen",
+        "releaseDate": "2003-03-04",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2021
+  },
+  "Evans Blue": {
+    "name": "Evans Blue",
+    "id": "102861586",
+    "albums": [
+      {
+        "id": "1426475490",
+        "name": "Letters from the Dead",
+        "releaseDate": "2016-04-15",
+        "releaseYear": 2016
+      },
+      {
+        "id": "514733693",
+        "name": "Graveyard of Empires",
+        "releaseDate": "2012-04-17",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1426471900",
+        "name": "EvansBlue",
+        "releaseDate": "2010-07-27",
+        "releaseYear": 2010
+      },
+      {
+        "id": "259847722",
+        "name": "The Pursuit Begins When This Portrayal of Life Ends",
+        "releaseDate": "2007-07-24",
+        "releaseYear": 2007
+      },
+      {
+        "id": "122061374",
+        "name": "The Melody and the Energetic Nature of Volume",
+        "releaseDate": "2006-02-21",
+        "releaseYear": 2006
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Feist": {
+    "name": "Feist",
+    "id": "13453308",
+    "albums": [
+      {
+        "id": "1214542133",
+        "name": "Pleasure",
+        "releaseDate": "2017-04-28",
+        "releaseYear": 2017
+      },
+      {
+        "id": "458489513",
+        "name": "Metals",
+        "releaseDate": "2011-01-01",
+        "releaseYear": 2011
+      },
+      {
+        "id": "1236272182",
+        "name": "The Reminder",
+        "releaseDate": "2007-05-01",
+        "releaseYear": 2007
+      },
+      {
+        "id": "152379903",
+        "name": "Open Season",
+        "releaseDate": "2006-01-01",
+        "releaseYear": 2006
+      },
+      {
+        "id": "278765960",
+        "name": "Let It Die",
+        "releaseDate": "2004-01-01",
+        "releaseYear": 2004
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "Finger Eleven": {
+    "name": "Finger Eleven",
+    "id": "96318432",
+    "albums": [
+      {
+        "id": "999975916",
+        "name": "Five Crooked Lines",
+        "releaseDate": "2015-07-31",
+        "releaseYear": 2015
+      },
+      {
+        "id": "888200391",
+        "name": "Life Turns Electric",
+        "releaseDate": "2010-01-01",
+        "releaseYear": 2010
+      },
+      {
+        "id": "888167276",
+        "name": "Them vs. You vs. Me",
+        "releaseDate": "2007-01-01",
+        "releaseYear": 2007
+      },
+      {
+        "id": "888152737",
+        "name": "Finger Eleven",
+        "releaseDate": "2003-01-01",
+        "releaseYear": 2003
+      },
+      {
+        "id": "893801854",
+        "name": "The Greyest of Blue Skies",
+        "releaseDate": "2000-07-25",
+        "releaseYear": 2000
+      },
+      {
+        "id": "888201996",
+        "name": "Tip",
+        "releaseDate": "1998-01-01",
+        "releaseYear": 1998
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2018
+  },
+  "Five.Bolt.Main": {
+    "name": "Five.Bolt.Main",
+    "id": "123074305",
+    "albums": [
+      {
+        "id": "1076130353",
+        "name": "Venting",
+        "releaseDate": "2005-09-13",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2008
+  },
+  "Flaw": {
+    "name": "Flaw",
+    "id": "88311",
+    "albums": [
+      {
+        "id": "1122318406",
+        "name": "Divided We Fall",
+        "releaseDate": "2016-08-19",
+        "releaseYear": 2016
+      },
+      {
+        "id": "6931344",
+        "name": "Endangered Species",
+        "releaseDate": "2004-01-01",
+        "releaseYear": 2004
+      },
+      {
+        "id": "1449303392",
+        "name": "Through The Eyes",
+        "releaseDate": "2001-10-30",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 3,
+    "avgReleaseYear": 8,
+    "nextReleaseYear": 2024
+  },
+  "Green Day": {
+    "name": "Green Day",
+    "id": "954266",
+    "albums": [
+      {
+        "id": "1140560324",
+        "name": "Revolution Radio",
+        "releaseDate": "2016-10-07",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1160081479",
+        "name": "Demolicious",
+        "releaseDate": "2014-04-19",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1156539533",
+        "name": "¡Tré!",
+        "releaseDate": "2012-12-07",
+        "releaseYear": 2012
+      },
+      {
+        "id": "581055251",
+        "name": "Uno . . . Dos . . . Tré!",
+        "releaseDate": "2012-12-07",
+        "releaseYear": 2012
+      },
+      {
+        "id": "569284187",
+        "name": "¡Dos!",
+        "releaseDate": "2012-11-09",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1156547094",
+        "name": "¡Uno!",
+        "releaseDate": "2012-09-21",
+        "releaseYear": 2012
+      },
+      {
+        "id": "366916135",
+        "name": "American Idiot",
+        "releaseDate": "2010-04-13",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1156538220",
+        "name": "21st Century Breakdown",
+        "releaseDate": "2009-05-15",
+        "releaseYear": 2009
+      },
+      {
+        "id": "256746336",
+        "name": "Working Class Hero",
+        "releaseDate": "2007-05-31",
+        "releaseYear": 2007
+      },
+      {
+        "id": "5132779",
+        "name": "Shenanigans",
+        "releaseDate": "2002-07-01",
+        "releaseYear": 2002
+      },
+      {
+        "id": "1160990427",
+        "name": "International Superhits!",
+        "releaseDate": "2001-11-13",
+        "releaseYear": 2001
+      },
+      {
+        "id": "1160081195",
+        "name": "Warning",
+        "releaseDate": "2000-10-03",
+        "releaseYear": 2000
+      },
+      {
+        "id": "1159778204",
+        "name": "Nimrod",
+        "releaseDate": "1997-10-13",
+        "releaseYear": 1997
+      },
+      {
+        "id": "1160079960",
+        "name": "Insomniac",
+        "releaseDate": "1995-10-10",
+        "releaseYear": 1995
+      },
+      {
+        "id": "1160081985",
+        "name": "Dookie",
+        "releaseDate": "1994-01-28",
+        "releaseYear": 1994
+      },
+      {
+        "id": "210274067",
+        "name": "Kerplunk!",
+        "releaseDate": "1991-12-17",
+        "releaseYear": 1991
+      },
+      {
+        "id": "210332704",
+        "name": "1,039 / Smoothed Out Slappy Hours",
+        "releaseDate": "1991-04-19",
+        "releaseYear": 1991
+      }
+    ],
+    "albumCount": 17,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Hoobastank": {
+    "name": "Hoobastank",
+    "id": "415242",
+    "albums": [
+      {
+        "id": "1362548221",
+        "name": "Push Pull",
+        "releaseDate": "2018-05-25",
+        "releaseYear": 2018
+      },
+      {
+        "id": "302711308",
+        "name": "Fo",
+        "releaseDate": "2008-01-01",
+        "releaseYear": 2008
+      },
+      {
+        "id": "1449912365",
+        "name": "Every Man For Himself",
+        "releaseDate": "2006-05-08",
+        "releaseYear": 2006
+      },
+      {
+        "id": "1235889139",
+        "name": "The Reason",
+        "releaseDate": "2004-04-27",
+        "releaseYear": 2004
+      },
+      {
+        "id": "415267",
+        "name": "Hoobastank",
+        "releaseDate": "2001-11-20",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2022
+  },
+  "Hurt": {
+    "name": "Hurt",
+    "id": "2517297",
+    "albums": [
+      {
+        "id": "714906890",
+        "name": "The Crux",
+        "releaseDate": "2012-05-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "513705048",
+        "name": "The Re-Consumation",
+        "releaseDate": "2012-03-27",
+        "releaseYear": 2012
+      },
+      {
+        "id": "310599374",
+        "name": "Goodbye to the Machine",
+        "releaseDate": "2009-04-07",
+        "releaseYear": 2009
+      },
+      {
+        "id": "716170523",
+        "name": "Vol. II",
+        "releaseDate": "2007-09-25",
+        "releaseYear": 2007
+      },
+      {
+        "id": "723523305",
+        "name": "Vol. 1",
+        "releaseDate": "2006-03-21",
+        "releaseYear": 2006
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2014
+  },
+  "Iced Earth": {
+    "name": "Iced Earth",
+    "id": "18030030",
+    "albums": [
+      {
+        "id": "1221495863",
+        "name": "Incorruptible",
+        "releaseDate": "2017-06-16",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1089149821",
+        "name": "Plagues of Babylon",
+        "releaseDate": "2014-01-21",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1045281091",
+        "name": "Dystopia",
+        "releaseDate": "2012-11-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1119635598",
+        "name": "The Blessed and the Damned",
+        "releaseDate": "2004-07-27",
+        "releaseYear": 2004
+      },
+      {
+        "id": "1045695756",
+        "name": "Days of Purgatory",
+        "releaseDate": "2003",
+        "releaseYear": 2003
+      },
+      {
+        "id": "1045657795",
+        "name": "Horror Show",
+        "releaseDate": "2001",
+        "releaseYear": 2001
+      },
+      {
+        "id": "1045626556",
+        "name": "Something Wicked This Way Comes",
+        "releaseDate": "1998",
+        "releaseYear": 1998
+      },
+      {
+        "id": "1045610534",
+        "name": "Burnt Offerings",
+        "releaseDate": "1997",
+        "releaseYear": 1997
+      },
+      {
+        "id": "1119632197",
+        "name": "The Dark Saga",
+        "releaseDate": "1996",
+        "releaseYear": 1996
+      },
+      {
+        "id": "1119632172",
+        "name": "Night of the Stormrider",
+        "releaseDate": "1991",
+        "releaseYear": 1991
+      },
+      {
+        "id": "1045560453",
+        "name": "Iced Earth",
+        "releaseDate": "1991",
+        "releaseYear": 1991
+      }
+    ],
+    "albumCount": 11,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "Imagine Dragons": {
+    "name": "Imagine Dragons",
+    "id": "358714030",
+    "albums": [
+      {
+        "id": "1437948883",
+        "name": "Origins",
+        "releaseDate": "2018-11-09",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1411625594",
+        "name": "Evolve",
+        "releaseDate": "2017-06-23",
+        "releaseYear": 2017
+      },
+      {
+        "id": "950797707",
+        "name": "Smoke + Mirrors",
+        "releaseDate": "2015-02-13",
+        "releaseYear": 2015
+      },
+      {
+        "id": "555694735",
+        "name": "Night Visions",
+        "releaseDate": "2012-09-04",
+        "releaseYear": 2012
+      }
+    ],
+    "albumCount": 4,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "In Dynamics": {
+    "name": "In Dynamics",
+    "id": "935242801",
+    "albums": [
+      {
+        "id": "1129165428",
+        "name": "Everything I See",
+        "releaseDate": "2016-07-18",
+        "releaseYear": 2016
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "InMe": {
+    "name": "InMe",
+    "id": "72086807",
+    "albums": [
+      {
+        "id": "983522661",
+        "name": "Trilogy: Dawn",
+        "releaseDate": "2015-05-04",
+        "releaseYear": 2015
+      },
+      {
+        "id": "497351226",
+        "name": "The Pride",
+        "releaseDate": "2012-02-19",
+        "releaseYear": 2012
+      },
+      {
+        "id": "328915470",
+        "name": "Herald Moth",
+        "releaseDate": "2009-09-13",
+        "releaseYear": 2009
+      },
+      {
+        "id": "220375884",
+        "name": "Caught: White Butterfly",
+        "releaseDate": "2007-01-01",
+        "releaseYear": 2007
+      },
+      {
+        "id": "962395026",
+        "name": "Overgrown Eden",
+        "releaseDate": "2006-06-05",
+        "releaseYear": 2006
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2017
+  },
+  "Incubus": {
+    "name": "Incubus",
+    "id": "465707",
+    "albums": [
+      {
+        "id": "1214441697",
+        "name": "8",
+        "releaseDate": "2017-04-21",
+        "releaseYear": 2017
+      },
+      {
+        "id": "571750225",
+        "name": "The Essential Incubus",
+        "releaseDate": "2012-10-30",
+        "releaseYear": 2012
+      },
+      {
+        "id": "439057262",
+        "name": "If Not Now, When?",
+        "releaseDate": "2011-07-06",
+        "releaseYear": 2011
+      },
+      {
+        "id": "322981206",
+        "name": "Monuments and Melodies",
+        "releaseDate": "2009-06-30",
+        "releaseYear": 2009
+      },
+      {
+        "id": "204771647",
+        "name": "Light Grenades",
+        "releaseDate": "2006-11-22",
+        "releaseYear": 2006
+      },
+      {
+        "id": "391706971",
+        "name": "A Crow Left of the Murder...",
+        "releaseDate": "2004-02-03",
+        "releaseYear": 2004
+      },
+      {
+        "id": "271792608",
+        "name": "Morning View",
+        "releaseDate": "2001-10-22",
+        "releaseYear": 2001
+      },
+      {
+        "id": "187454164",
+        "name": "Make Yourself",
+        "releaseDate": "1999-10-26",
+        "releaseYear": 1999
+      },
+      {
+        "id": "193536087",
+        "name": "S.C.I.E.N.C.E.",
+        "releaseDate": "1997-09-09",
+        "releaseYear": 1997
+      }
+    ],
+    "albumCount": 9,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "Jars Of Clay": {
+    "name": "Jars Of Clay",
+    "id": "1500683",
+    "albums": [
+      {
+        "id": "901950071",
+        "name": "20",
+        "releaseDate": "2014-08-19",
+        "releaseYear": 2014
+      },
+      {
+        "id": "824967180",
+        "name": "Inlandia",
+        "releaseDate": "2014-03-04",
+        "releaseYear": 2014
+      },
+      {
+        "id": "684305876",
+        "name": "Inland",
+        "releaseDate": "2013-08-27",
+        "releaseYear": 2013
+      },
+      {
+        "id": "394012846",
+        "name": "The Shelter",
+        "releaseDate": "2010-10-04",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1047794708",
+        "name": "The Long Fall Back to Earth",
+        "releaseDate": "2009-04-21",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1231839430",
+        "name": "Peace Is Here: Christmas Reflections by Jars of Clay",
+        "releaseDate": "2008-11-26",
+        "releaseYear": 2008
+      },
+      {
+        "id": "1231150871",
+        "name": "Christmas Songs",
+        "releaseDate": "2007-10-01",
+        "releaseYear": 2007
+      },
+      {
+        "id": "262572041",
+        "name": "The Essential Jars of Clay",
+        "releaseDate": "2007-09-04",
+        "releaseYear": 2007
+      },
+      {
+        "id": "256244916",
+        "name": "Good Monsters",
+        "releaseDate": "2007-03-19",
+        "releaseYear": 2007
+      },
+      {
+        "id": "269440847",
+        "name": "Redemption Songs",
+        "releaseDate": "2005-03-22",
+        "releaseYear": 2005
+      },
+      {
+        "id": "269441418",
+        "name": "Who We Are Instead",
+        "releaseDate": "2003-11-04",
+        "releaseYear": 2003
+      },
+      {
+        "id": "256245464",
+        "name": "The Eleventh Hour",
+        "releaseDate": "2002-03-05",
+        "releaseYear": 2002
+      },
+      {
+        "id": "253108934",
+        "name": "If I Left the Zoo",
+        "releaseDate": "1999-11-09",
+        "releaseYear": 1999
+      },
+      {
+        "id": "309732023",
+        "name": "Much Afraid",
+        "releaseDate": "1997-09-16",
+        "releaseYear": 1997
+      },
+      {
+        "id": "309887579",
+        "name": "Jars of Clay",
+        "releaseDate": "1995-10-24",
+        "releaseYear": 1995
+      },
+      {
+        "id": "299614211",
+        "name": "Furthermore: From the Studio, From the Stage",
+        "releaseDate": "1995-10-01",
+        "releaseYear": 1995
+      }
+    ],
+    "albumCount": 16,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2016
+  },
+  "Jimmy Eat World": {
+    "name": "Jimmy Eat World",
+    "id": "3446973",
+    "albums": [
+      {
+        "id": "1147844543",
+        "name": "Integrity Blues",
+        "releaseDate": "2016-10-21",
+        "releaseYear": 2016
+      },
+      {
+        "id": "636268673",
+        "name": "Damage",
+        "releaseDate": "2013-06-10",
+        "releaseYear": 2013
+      },
+      {
+        "id": "392926763",
+        "name": "Invented",
+        "releaseDate": "2010-09-28",
+        "releaseYear": 2010
+      },
+      {
+        "id": "266018139",
+        "name": "Chase This Light",
+        "releaseDate": "2007-10-16",
+        "releaseYear": 2007
+      },
+      {
+        "id": "26515767",
+        "name": "Futures",
+        "releaseDate": "2004-10-19",
+        "releaseYear": 2004
+      },
+      {
+        "id": "278780762",
+        "name": "Bleed American",
+        "releaseDate": "2001-07-24",
+        "releaseYear": 2001
+      },
+      {
+        "id": "718997679",
+        "name": "Clarity",
+        "releaseDate": "1999-02-23",
+        "releaseYear": 1999
+      },
+      {
+        "id": "727497248",
+        "name": "Static Prevails",
+        "releaseDate": "1996-07-23",
+        "releaseYear": 1996
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Karnivool": {
+    "name": "Karnivool",
+    "id": "85099785",
+    "albums": [
+      {
+        "id": "1176796358",
+        "name": "Asymmetry",
+        "releaseDate": "2013-07-23",
+        "releaseYear": 2013
+      },
+      {
+        "id": "354735862",
+        "name": "Sound Awake",
+        "releaseDate": "2010-02-16",
+        "releaseYear": 2010
+      },
+      {
+        "id": "417616539",
+        "name": "Themata",
+        "releaseDate": "2005-03-14",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 3,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2017
+  },
+  "Kevin Matisyn": {
+    "name": "Kevin Matisyn",
+    "id": "510146405",
+    "albums": [
+      {
+        "id": "791282005",
+        "name": "Alice Ofelia Kira",
+        "releaseDate": "2014-01-07",
+        "releaseYear": 2014
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2017
+  },
+  "Kings Of Leon": {
+    "name": "Kings Of Leon",
+    "id": "1883403",
+    "albums": [
+      {
+        "id": "1151618558",
+        "name": "WALLS",
+        "releaseDate": "2016-10-14",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1435640185",
+        "name": "Mechanical Bull",
+        "releaseDate": "2013-09-20",
+        "releaseYear": 2013
+      },
+      {
+        "id": "457503067",
+        "name": "Come Around Sundown",
+        "releaseDate": "2010-10-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "290302885",
+        "name": "Only By the Night",
+        "releaseDate": "2008-09-19",
+        "releaseYear": 2008
+      },
+      {
+        "id": "1436364863",
+        "name": "Because of the Times",
+        "releaseDate": "2007-04-02",
+        "releaseYear": 2007
+      },
+      {
+        "id": "1107320733",
+        "name": "Aha Shake Heartbreak",
+        "releaseDate": "2005-02-22",
+        "releaseYear": 2005
+      },
+      {
+        "id": "1435820262",
+        "name": "Youth and Young Manhood",
+        "releaseDate": "2003-08-19",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 7,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Live": {
+    "name": "Live",
+    "id": "61027",
+    "albums": [
+      {
+        "id": "155809212",
+        "name": "Songs from Black Mountain",
+        "releaseDate": "2006-04-12",
+        "releaseYear": 2006
+      },
+      {
+        "id": "1354719",
+        "name": "Birds of Pray",
+        "releaseDate": "2003-01-01",
+        "releaseYear": 2003
+      },
+      {
+        "id": "992743454",
+        "name": "V",
+        "releaseDate": "2001-01-01",
+        "releaseYear": 2001
+      },
+      {
+        "id": "64417",
+        "name": "The Distance to Here",
+        "releaseDate": "1999-01-01",
+        "releaseYear": 1999
+      },
+      {
+        "id": "62605",
+        "name": "Secret Samadhi",
+        "releaseDate": "1997-02-18",
+        "releaseYear": 1997
+      },
+      {
+        "id": "61056",
+        "name": "Throwing Copper",
+        "releaseDate": "1994-04-19",
+        "releaseYear": 1994
+      },
+      {
+        "id": "306943",
+        "name": "Mental Jewelry",
+        "releaseDate": "1991-01-01",
+        "releaseYear": 1991
+      }
+    ],
+    "albumCount": 7,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2009
+  },
+  "Livingston": {
+    "name": "Livingston",
+    "id": "2083407",
+    "albums": [
+      {
+        "id": "1448361596",
+        "name": "Animal",
+        "releaseDate": "2014-09-19",
+        "releaseYear": 2014
+      },
+      {
+        "id": "312479410",
+        "name": "Livingston",
+        "releaseDate": "2009-04-01",
+        "releaseYear": 2009
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": 5,
+    "nextReleaseYear": 2019
+  },
+  "Matthew Good": {
+    "name": "Matthew Good",
+    "id": "13429416",
+    "albums": [
+      {
+        "id": "1277896178",
+        "name": "Something Like a Storm",
+        "releaseDate": "2017-10-20",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1023974894",
+        "name": "Chaotic Neutral",
+        "releaseDate": "2015-09-25",
+        "releaseYear": 2015
+      },
+      {
+        "id": "897736160",
+        "name": "Old Fighters",
+        "releaseDate": "2013-12-03",
+        "releaseYear": 2013
+      },
+      {
+        "id": "690286870",
+        "name": "Arrows of Desire",
+        "releaseDate": "2013-01-01",
+        "releaseYear": 2013
+      },
+      {
+        "id": "433912708",
+        "name": "Lights of Endangered Species",
+        "releaseDate": "2011-05-31",
+        "releaseYear": 2011
+      },
+      {
+        "id": "329089358",
+        "name": "Vancouver",
+        "releaseDate": "2009-10-06",
+        "releaseYear": 2009
+      },
+      {
+        "id": "259585384",
+        "name": "Hospital Music",
+        "releaseDate": "2007-07-29",
+        "releaseYear": 2007
+      },
+      {
+        "id": "158236056",
+        "name": "In a Coma: 1995-2005",
+        "releaseDate": "2006-05-25",
+        "releaseYear": 2006
+      },
+      {
+        "id": "259590990",
+        "name": "White Light Rock & Roll Review",
+        "releaseDate": "2004-06-08",
+        "releaseYear": 2004
+      },
+      {
+        "id": "28920690",
+        "name": "White Light Rock and Roll Review",
+        "releaseDate": "2004-01-01",
+        "releaseYear": 2004
+      },
+      {
+        "id": "259588991",
+        "name": "Avalanche",
+        "releaseDate": "2003-03-04",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 11,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
+  },
+  "Megadeth": {
+    "name": "Megadeth",
+    "id": "488289",
+    "albums": [
+      {
+        "id": "1043547823",
+        "name": "Dystopia",
+        "releaseDate": "2016-01-22",
+        "releaseYear": 2016
+      },
+      {
+        "id": "652297022",
+        "name": "Super Collider",
+        "releaseDate": "2013-06-04",
+        "releaseYear": 2013
+      },
+      {
+        "id": "469258704",
+        "name": "TH1RT3EN",
+        "releaseDate": "2011-11-01",
+        "releaseYear": 2011
+      },
+      {
+        "id": "326880587",
+        "name": "Endgame",
+        "releaseDate": "2009-09-15",
+        "releaseYear": 2009
+      },
+      {
+        "id": "721262479",
+        "name": "Anthology: Set the World Afire",
+        "releaseDate": "2008-09-30",
+        "releaseYear": 2008
+      },
+      {
+        "id": "719003408",
+        "name": "Warchest",
+        "releaseDate": "2007-10-02",
+        "releaseYear": 2007
+      },
+      {
+        "id": "253304078",
+        "name": "United Abominations",
+        "releaseDate": "2007-05-15",
+        "releaseYear": 2007
+      },
+      {
+        "id": "1143702970",
+        "name": "The System Has Failed",
+        "releaseDate": "2004-09-14",
+        "releaseYear": 2004
+      },
+      {
+        "id": "1143266675",
+        "name": "The World Needs a Hero",
+        "releaseDate": "2001-05-15",
+        "releaseYear": 2001
+      },
+      {
+        "id": "724934886",
+        "name": "Risk",
+        "releaseDate": "1999-08-31",
+        "releaseYear": 1999
+      },
+      {
+        "id": "723975910",
+        "name": "Cryptic Writings",
+        "releaseDate": "1997-06-17",
+        "releaseYear": 1997
+      },
+      {
+        "id": "724387905",
+        "name": "Hidden Treasures",
+        "releaseDate": "1995-07-18",
+        "releaseYear": 1995
+      },
+      {
+        "id": "723943316",
+        "name": "Youthanasia",
+        "releaseDate": "1994-11-01",
+        "releaseYear": 1994
+      },
+      {
+        "id": "725812243",
+        "name": "Countdown to Extinction",
+        "releaseDate": "1992-07-14",
+        "releaseYear": 1992
+      },
+      {
+        "id": "1109508817",
+        "name": "Rust In Peace",
+        "releaseDate": "1990-09-24",
+        "releaseYear": 1990
+      },
+      {
+        "id": "1449179279",
+        "name": "Way Back When",
+        "releaseDate": "1990",
+        "releaseYear": 1990
+      },
+      {
+        "id": "724243486",
+        "name": "So Far, So Good... So What!",
+        "releaseDate": "1988-01-19",
+        "releaseYear": 1988
+      },
+      {
+        "id": "715624797",
+        "name": "Peace Sells... But Who's Buying?",
+        "releaseDate": "1986-09-19",
+        "releaseYear": 1986
+      },
+      {
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "releaseDate": "1985-06-12",
+        "releaseYear": 1985
+      },
+      {
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
+        "releaseDate": "1985-06-12",
+        "releaseYear": 1985
+      }
+    ],
+    "albumCount": 20,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Metallica": {
+    "name": "Metallica",
+    "id": "3996865",
+    "albums": [
+      {
+        "id": "1145497823",
+        "name": "Hardwired…To Self-Destruct",
+        "releaseDate": "2016-11-18",
+        "releaseYear": 2016
+      },
+      {
+        "id": "679166887",
+        "name": "Metallica Through the Never",
+        "releaseDate": "2013-09-24",
+        "releaseYear": 2013
+      },
+      {
+        "id": "467890760",
+        "name": "Lulu",
+        "releaseDate": "2011-11-01",
+        "releaseYear": 2011
+      },
+      {
+        "id": "579367503",
+        "name": "Death Magnetic",
+        "releaseDate": "2008-09-12",
+        "releaseYear": 2008
+      },
+      {
+        "id": "579378997",
+        "name": "St. Anger",
+        "releaseDate": "2003-06-05",
+        "releaseYear": 2003
+      },
+      {
+        "id": "579370472",
+        "name": "Garage, Inc.",
+        "releaseDate": "1998-11-23",
+        "releaseYear": 1998
+      },
+      {
+        "id": "579374216",
+        "name": "Reload",
+        "releaseDate": "1997-11-18",
+        "releaseYear": 1997
+      },
+      {
+        "id": "579371716",
+        "name": "Load",
+        "releaseDate": "1996-06-04",
+        "releaseYear": 1996
+      },
+      {
+        "id": "579372950",
+        "name": "Metallica",
+        "releaseDate": "1991-08-12",
+        "releaseYear": 1991
+      },
+      {
+        "id": "1433827883",
+        "name": "...And Justice for All",
+        "releaseDate": "1988-08-25",
+        "releaseYear": 1988
+      },
+      {
+        "id": "1339451124",
+        "name": "The $5.98 E.P.: Garage Days Re-Revisited",
+        "releaseDate": "1987-08-21",
+        "releaseYear": 1987
+      },
+      {
+        "id": "1275600311",
+        "name": "Master of Puppets",
+        "releaseDate": "1986-03-03",
+        "releaseYear": 1986
+      },
+      {
+        "id": "1103055744",
+        "name": "Ride the Lightning",
+        "releaseDate": "1984-07-27",
+        "releaseYear": 1984
+      },
+      {
+        "id": "1102908633",
+        "name": "Kill 'Em All",
+        "releaseDate": "1983-07-25",
+        "releaseYear": 1983
+      }
+    ],
+    "albumCount": 14,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Muse": {
+    "name": "Muse",
+    "id": "1093360",
+    "albums": [
+      {
+        "id": "1434242247",
+        "name": "Simulation Theory",
+        "releaseDate": "2018-11-09",
+        "releaseYear": 2018
+      },
+      {
+        "id": "973555620",
+        "name": "Drones",
+        "releaseDate": "2015-06-05",
+        "releaseYear": 2015
+      },
+      {
+        "id": "992626782",
+        "name": "Six Studio Albums",
+        "releaseDate": "2015-05-15",
+        "releaseYear": 2015
+      },
+      {
+        "id": "563015686",
+        "name": "The 2nd Law",
+        "releaseDate": "2012-09-28",
+        "releaseYear": 2012
+      },
+      {
+        "id": "991509751",
+        "name": "The Resistance",
+        "releaseDate": "2009-09-11",
+        "releaseYear": 2009
+      },
+      {
+        "id": "992221994",
+        "name": "Black Holes and Revelations",
+        "releaseDate": "2006-06-19",
+        "releaseYear": 2006
+      },
+      {
+        "id": "991510292",
+        "name": "Absolution",
+        "releaseDate": "2003-09-15",
+        "releaseYear": 2003
+      },
+      {
+        "id": "138270199",
+        "name": "Hullabaloo Soundtrack",
+        "releaseDate": "2002-06-04",
+        "releaseYear": 2002
+      },
+      {
+        "id": "992088658",
+        "name": "Origin of Symmetry",
+        "releaseDate": "2001-07-17",
+        "releaseYear": 2001
+      },
+      {
+        "id": "991516209",
+        "name": "Showbiz",
+        "releaseDate": "1999-09-07",
+        "releaseYear": 1999
+      }
+    ],
+    "albumCount": 10,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "NEEDTOBREATHE": {
+    "name": "NEEDTOBREATHE",
+    "id": "113247214",
+    "albums": [
+      {
+        "id": "1096811069",
+        "name": "H A R D L O V E",
+        "releaseDate": "2016-07-15",
+        "releaseYear": 2016
+      },
+      {
+        "id": "794126187",
+        "name": "Rivers In the Wasteland",
+        "releaseDate": "2014-04-15",
+        "releaseYear": 2014
+      },
+      {
+        "id": "459958416",
+        "name": "The Reckoning",
+        "releaseDate": "2011-09-20",
+        "releaseYear": 2011
+      },
+      {
+        "id": "325838077",
+        "name": "The Outsiders",
+        "releaseDate": "2009-08-25",
+        "releaseYear": 2009
+      },
+      {
+        "id": "262075351",
+        "name": "The Heat",
+        "releaseDate": "2007-08-28",
+        "releaseYear": 2007
+      },
+      {
+        "id": "135127520",
+        "name": "Daylight",
+        "releaseDate": "2006-04-04",
+        "releaseYear": 2006
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Nada Surf": {
+    "name": "Nada Surf",
+    "id": "193835",
+    "albums": [
+      {
+        "id": "1060672639",
+        "name": "You Know Who You Are",
+        "releaseDate": "2016-03-04",
+        "releaseYear": 2016
+      },
+      {
+        "id": "718911211",
+        "name": "The Stars Are Indifferent to Astronomy",
+        "releaseDate": "2012-01-24",
+        "releaseYear": 2012
+      },
+      {
+        "id": "373811659",
+        "name": "If I Had a Hi-Fi",
+        "releaseDate": "2010-06-08",
+        "releaseYear": 2010
+      },
+      {
+        "id": "718840528",
+        "name": "Lucky",
+        "releaseDate": "2008-02-05",
+        "releaseYear": 2008
+      },
+      {
+        "id": "721860074",
+        "name": "The Weight Is a Gift",
+        "releaseDate": "2005-09-20",
+        "releaseYear": 2005
+      },
+      {
+        "id": "718801567",
+        "name": "Let Go",
+        "releaseDate": "2003-02-04",
+        "releaseYear": 2003
+      },
+      {
+        "id": "341713549",
+        "name": "The Proximity Effect",
+        "releaseDate": "1998-09-22",
+        "releaseYear": 1998
+      },
+      {
+        "id": "300958622",
+        "name": "High / Low",
+        "releaseDate": "1996-06-18",
+        "releaseYear": 1996
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Nonpoint": {
+    "name": "Nonpoint",
+    "id": "39213",
+    "albums": [
+      {
+        "id": "1397016868",
+        "name": "X",
+        "releaseDate": "2018-08-24",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1227126857",
+        "name": "Miracle",
+        "releaseDate": "2017-04-13",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1110484131",
+        "name": "The Poison Red",
+        "releaseDate": "2016-07-08",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1126646116",
+        "name": "The Return",
+        "releaseDate": "2014-09-30",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1127112199",
+        "name": "Nonpoint",
+        "releaseDate": "2012-10-09",
+        "releaseYear": 2012
+      },
+      {
+        "id": "417617934",
+        "name": "Vengeance",
+        "releaseDate": "2007-11-06",
+        "releaseYear": 2007
+      },
+      {
+        "id": "83316316",
+        "name": "To the Pain",
+        "releaseDate": "2005-11-08",
+        "releaseYear": 2005
+      },
+      {
+        "id": "19441449",
+        "name": "Recoil",
+        "releaseDate": "2004-07-13",
+        "releaseYear": 2004
+      },
+      {
+        "id": "39238",
+        "name": "Development",
+        "releaseDate": "2002-01-01",
+        "releaseYear": 2002
+      },
+      {
+        "id": "66840",
+        "name": "Statement",
+        "releaseDate": "2001-01-01",
+        "releaseYear": 2001
+      },
+      {
+        "id": "23945616",
+        "name": "Separate Yourself",
+        "releaseDate": "1998-12-08",
+        "releaseYear": 1998
+      }
+    ],
+    "albumCount": 11,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "Papa Roach": {
+    "name": "Papa Roach",
+    "id": "3445763",
+    "albums": [
+      {
+        "id": "1439662793",
+        "name": "Who Do You Trust?",
+        "releaseDate": "2019-01-18",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
+        "id": "1215407593",
+        "name": "Crooked Teeth",
+        "releaseDate": "2017-05-19",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1242676291",
+        "name": "F.E.A.R.",
+        "releaseDate": "2015-01-27",
+        "releaseYear": 2015
+      },
+      {
+        "id": "1242676772",
+        "name": "The Connection",
+        "releaseDate": "2012-10-02",
+        "releaseYear": 2012
+      },
+      {
+        "id": "308323826",
+        "name": "Metamorphosis",
+        "releaseDate": "2009-03-24",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1019844257",
+        "name": "Getting Away With Murder",
+        "releaseDate": "2004-08-31",
+        "releaseYear": 2004
+      },
+      {
+        "id": "1019843018",
+        "name": "Lovehatetragedy",
+        "releaseDate": "2002-05-31",
+        "releaseYear": 2002
+      },
+      {
+        "id": "1450006102",
+        "name": "Infest",
+        "releaseDate": "2001-04-25",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2022
+  },
+  "Parabelle": {
+    "name": "Parabelle",
+    "id": "324439679",
+    "albums": [
+      {
+        "id": "1164979795",
+        "name": "The Kill Plan",
+        "releaseDate": "2016-10-25",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1169200337",
+        "name": "A Summit Borderline",
+        "releaseDate": "2016-10-25",
+        "releaseYear": 2016
+      },
+      {
+        "id": "631012629",
+        "name": "Air",
+        "releaseDate": "2013-04-16",
+        "releaseYear": 2013
+      },
+      {
+        "id": "552606255",
+        "name": "Your Starry Eyes Will Never Make Us Even",
+        "releaseDate": "2012-08-21",
+        "releaseYear": 2012
+      },
+      {
+        "id": "403423915",
+        "name": "Reassembling the Icons",
+        "releaseDate": "2010-11-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "324439668",
+        "name": "A Summit Borderline/a Drop Oceanic",
+        "releaseDate": "2009-07-06",
+        "releaseYear": 2009
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Passenger": {
+    "name": "Passenger",
+    "id": "396255033",
+    "albums": [
+      {
+        "id": "1385238435",
+        "name": "Runaway",
+        "releaseDate": "2018-08-31",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1252032972",
+        "name": "The Boy Who Cried Wolf",
+        "releaseDate": "2017-07-28",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1124241267",
+        "name": "Young as the Morning, Old as the Sea",
+        "releaseDate": "2016-09-23",
+        "releaseYear": 2016
+      },
+      {
+        "id": "976668065",
+        "name": "Whispers II",
+        "releaseDate": "2015-04-20",
+        "releaseYear": 2015
+      },
+      {
+        "id": "844364331",
+        "name": "Whispers",
+        "releaseDate": "2014-06-10",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1231153273",
+        "name": "All the Little Lights",
+        "releaseDate": "2012-06-29",
+        "releaseYear": 2012
+      },
+      {
+        "id": "390666710",
+        "name": "Flight of the Crow",
+        "releaseDate": "2010-09-24",
+        "releaseYear": 2010
+      },
+      {
+        "id": "378755769",
+        "name": "Divers & Submarines",
+        "releaseDate": "2010-06-30",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1247035145",
+        "name": "Wide Eyes Blind Love",
+        "releaseDate": "2009-11-20",
+        "releaseYear": 2009
+      },
+      {
+        "id": "700922333",
+        "name": "Wicked Man's Rest",
+        "releaseDate": "2007-09-17",
+        "releaseYear": 2007
+      }
+    ],
+    "albumCount": 10,
+    "avgReleaseYear": 1,
+    "nextReleaseYear": 2019
+  },
+  "Pearl Jam": {
+    "name": "Pearl Jam",
+    "id": "467464",
+    "albums": [
+      {
+        "id": "791394126",
+        "name": "Mt. View, CA 1-June-2003",
+        "releaseDate": "2014-05-26",
+        "releaseYear": 2014
+      },
+      {
+        "id": "665391109",
+        "name": "Lightning Bolt",
+        "releaseDate": "2013-10-15",
+        "releaseYear": 2013
+      },
+      {
+        "id": "460395267",
+        "name": "Pearl Jam Twenty",
+        "releaseDate": "2011-09-19",
+        "releaseYear": 2011
+      },
+      {
+        "id": "332149169",
+        "name": "Backspacer",
+        "releaseDate": "2009-09-20",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1309693160",
+        "name": "Pearl Jam",
+        "releaseDate": "2006-05-02",
+        "releaseYear": 2006
+      },
+      {
+        "id": "527179977",
+        "name": "Lost Dogs",
+        "releaseDate": "2003-11-11",
+        "releaseYear": 2003
+      },
+      {
+        "id": "193238667",
+        "name": "Riot Act",
+        "releaseDate": "2002-11-12",
+        "releaseYear": 2002
+      },
+      {
+        "id": "688730679",
+        "name": "Binaural",
+        "releaseDate": "2000-05-16",
+        "releaseYear": 2000
+      },
+      {
+        "id": "395769893",
+        "name": "Yield",
+        "releaseDate": "1998-02-03",
+        "releaseYear": 1998
+      },
+      {
+        "id": "157478390",
+        "name": "No Code",
+        "releaseDate": "1996-08-27",
+        "releaseYear": 1996
+      },
+      {
+        "id": "426356461",
+        "name": "Vitalogy",
+        "releaseDate": "1994-11-22",
+        "releaseYear": 1994
+      },
+      {
+        "id": "426656353",
+        "name": "Vs.",
+        "releaseDate": "1993-10-19",
+        "releaseYear": 1993
+      },
+      {
+        "id": "685575665",
+        "name": "Ten",
+        "releaseDate": "1991-08-27",
+        "releaseYear": 1991
+      }
+    ],
+    "albumCount": 13,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2016
+  },
+  "Prime Circle": {
+    "name": "Prime Circle",
+    "id": "256057443",
+    "albums": [
+      {
+        "id": "1265761279",
+        "name": "If You Don't You Never Will",
+        "releaseDate": "2017-09-15",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1096506205",
+        "name": "Let the Night In",
+        "releaseDate": "2016-05-13",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1281466389",
+        "name": "Evidence",
+        "releaseDate": "2012-11-12",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1270749608",
+        "name": "Jekyll & Hyde",
+        "releaseDate": "2010-09-09",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1270674434",
+        "name": "All Or Nothing",
+        "releaseDate": "2008-06-24",
+        "releaseYear": 2008
+      },
+      {
+        "id": "594564535",
+        "name": "Living in a Crazy World",
+        "releaseDate": "2006",
+        "releaseYear": 2006
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
+  },
+  "Ra": {
+    "name": "Ra",
+    "id": "92738",
+    "albums": [
+      {
+        "id": "1158803471",
+        "name": "Earthcall",
+        "releaseDate": "2016-09-28",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1078294595",
+        "name": "Wake",
+        "releaseDate": "2016-01-15",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1017995085",
+        "name": "Rising",
+        "releaseDate": "2015-06-25",
+        "releaseYear": 2015
+      },
+      {
+        "id": "719181034",
+        "name": "Critical Mass",
+        "releaseDate": "2013-10-14",
+        "releaseYear": 2013
+      },
+      {
+        "id": "579601263",
+        "name": "Unearthly",
+        "releaseDate": "2012-11-18",
+        "releaseYear": 2012
+      },
+      {
+        "id": "399275750",
+        "name": "Black Sheep",
+        "releaseDate": "2010-10-19",
+        "releaseYear": 2010
+      },
+      {
+        "id": "397682877",
+        "name": "Black Sun",
+        "releaseDate": "2010-10-10",
+        "releaseYear": 2010
+      },
+      {
+        "id": "385930423",
+        "name": "Nasty",
+        "releaseDate": "2010-09-06",
+        "releaseYear": 2010
+      },
+      {
+        "id": "367283355",
+        "name": "One",
+        "releaseDate": "2010-04-10",
+        "releaseYear": 2010
+      },
+      {
+        "id": "351484928",
+        "name": "Now to Be Right",
+        "releaseDate": "2010-02-20",
+        "releaseYear": 2010
+      },
+      {
+        "id": "336016108",
+        "name": "9th",
+        "releaseDate": "2009-10-11",
+        "releaseYear": 2009
+      },
+      {
+        "id": "720511871",
+        "name": "Ev.panic Redone",
+        "releaseDate": "2007-07-09",
+        "releaseYear": 2007
+      },
+      {
+        "id": "208155507",
+        "name": "Ghetto Graduate",
+        "releaseDate": "2006-11-01",
+        "releaseYear": 2006
+      },
+      {
+        "id": "70751644",
+        "name": "Duality",
+        "releaseDate": "2005-01-01",
+        "releaseYear": 2005
+      },
+      {
+        "id": "58802407",
+        "name": "Raoul Loves You",
+        "releaseDate": "2004-10-27",
+        "releaseYear": 2004
+      },
+      {
+        "id": "92763",
+        "name": "From One",
+        "releaseDate": "2002-10-22",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 16,
+    "avgReleaseYear": 1,
+    "nextReleaseYear": 2017
+  },
+  "Red": {
+    "name": "Red",
+    "id": "214135551",
+    "albums": [
+      {
+        "id": "1285526524",
+        "name": "Gone",
+        "releaseDate": "2017-10-27",
+        "releaseYear": 2017
+      },
+      {
+        "id": "961259509",
+        "name": "of Beauty and Rage",
+        "releaseDate": "2015-02-20",
+        "releaseYear": 2015
+      },
+      {
+        "id": "862673909",
+        "name": "Release the Panic: Recalibrated",
+        "releaseDate": "2014-04-25",
+        "releaseYear": 2014
+      },
+      {
+        "id": "582359716",
+        "name": "Release the Panic",
+        "releaseDate": "2013-02-01",
+        "releaseYear": 2013
+      },
+      {
+        "id": "416155893",
+        "name": "Until We Have Faces",
+        "releaseDate": "2011-02-01",
+        "releaseYear": 2011
+      },
+      {
+        "id": "327414153",
+        "name": "Innocence & Instinct",
+        "releaseDate": "2009-08-24",
+        "releaseYear": 2009
+      },
+      {
+        "id": "373429738",
+        "name": "End of Silence",
+        "releaseDate": "2006-06-06",
+        "releaseYear": 2006
+      }
+    ],
+    "albumCount": 7,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
+  },
+  "Red Hot Chili Peppers": {
+    "name": "Red Hot Chili Peppers",
+    "id": "889780",
+    "albums": [
+      {
+        "id": "1109250450",
+        "name": "The Getaway",
+        "releaseDate": "2016-06-17",
+        "releaseYear": 2016
+      },
+      {
+        "id": "938467544",
+        "name": "What Hits!?",
+        "releaseDate": "2014-11-17",
+        "releaseYear": 2014
+      },
+      {
+        "id": "450747622",
+        "name": "I'm With You",
+        "releaseDate": "2011-08-29",
+        "releaseYear": 2011
+      },
+      {
+        "id": "945562992",
+        "name": "Stadium Arcadium",
+        "releaseDate": "2006-05-09",
+        "releaseYear": 2006
+      },
+      {
+        "id": "945578420",
+        "name": "By the Way",
+        "releaseDate": "2002-07-09",
+        "releaseYear": 2002
+      },
+      {
+        "id": "948446127",
+        "name": "Californication",
+        "releaseDate": "1999-06-08",
+        "releaseYear": 1999
+      },
+      {
+        "id": "948454039",
+        "name": "One Hot Minute",
+        "releaseDate": "1995-09-12",
+        "releaseYear": 1995
+      },
+      {
+        "id": "945581828",
+        "name": "Blood Sugar Sex Magik",
+        "releaseDate": "1991-09-24",
+        "releaseYear": 1991
+      },
+      {
+        "id": "635343671",
+        "name": "Mother's Milk",
+        "releaseDate": "1989-08-16",
+        "releaseYear": 1989
+      },
+      {
+        "id": "635338338",
+        "name": "The Uplift Mofo Party Plan",
+        "releaseDate": "1987-09-29",
+        "releaseYear": 1987
+      },
+      {
+        "id": "635340314",
+        "name": "Freaky Styley",
+        "releaseDate": "1985-08-16",
+        "releaseYear": 1985
+      },
+      {
+        "id": "635001065",
+        "name": "Red Hot Chili Peppers",
+        "releaseDate": "1984-08-10",
+        "releaseYear": 1984
+      }
+    ],
+    "albumCount": 12,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Rise Against": {
+    "name": "Rise Against",
+    "id": "16252655",
+    "albums": [
+      {
+        "id": "1388910724",
+        "name": "The Ghost Note Symphonies, Vol. 1",
+        "releaseDate": "2018-07-27",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1227121310",
+        "name": "Wolves",
+        "releaseDate": "2017-06-09",
+        "releaseYear": 2017
+      },
+      {
+        "id": "889774279",
+        "name": "The Black Market",
+        "releaseDate": "2014-07-11",
+        "releaseYear": 2014
+      },
+      {
+        "id": "888842577",
+        "name": "Endgame",
+        "releaseDate": "2011-03-15",
+        "releaseYear": 2011
+      },
+      {
+        "id": "888800113",
+        "name": "Appeal to Reason",
+        "releaseDate": "2008-10-07",
+        "releaseYear": 2008
+      },
+      {
+        "id": "888900026",
+        "name": "The Sufferer & the Witness",
+        "releaseDate": "2006-07-04",
+        "releaseYear": 2006
+      },
+      {
+        "id": "888801256",
+        "name": "Siren Song of the Counter Culture",
+        "releaseDate": "2004-08-10",
+        "releaseYear": 2004
+      },
+      {
+        "id": "635052539",
+        "name": "RPM10",
+        "releaseDate": "2003-04-08",
+        "releaseYear": 2003
+      },
+      {
+        "id": "291793862",
+        "name": "The Unraveling",
+        "releaseDate": "2001-04-24",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 9,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "Ryan Star": {
+    "name": "Ryan Star",
+    "id": "162820139",
+    "albums": [
+      {
+        "id": "1084056749",
+        "name": "A N G E L S + a N I M a L S",
+        "releaseDate": "2014-01-13",
+        "releaseYear": 2014
+      },
+      {
+        "id": "381876737",
+        "name": "11:59",
+        "releaseDate": "2010-08-03",
+        "releaseYear": 2010
+      },
+      {
+        "id": "76949683",
+        "name": "Songs from the Eye of an Elephant",
+        "releaseDate": "2005-07-13",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 3,
+    "avgReleaseYear": 5,
+    "nextReleaseYear": 2019
+  },
+  "Saint Asonia": {
+    "name": "Saint Asonia",
+    "id": "994032832",
+    "albums": [
+      {
+        "id": "1010805294",
+        "name": "Saint Asonia",
+        "releaseDate": "2015-07-31",
+        "releaseYear": 2015
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2018
+  },
+  "Seether": {
+    "name": "Seether",
+    "id": "92713141",
+    "albums": [
+      {
+        "id": "1206175430",
+        "name": "Poison the Parish",
+        "releaseDate": "2017-05-12",
+        "releaseYear": 2017
+      },
+      {
+        "id": "865685373",
+        "name": "Isolate and Medicate",
+        "releaseDate": "2014-07-01",
+        "releaseYear": 2014
+      },
+      {
+        "id": "888942103",
+        "name": "Seether: 2002-2013",
+        "releaseDate": "2013-10-29",
+        "releaseYear": 2013
+      },
+      {
+        "id": "897645650",
+        "name": "Holding Onto Strings Better Left to Fray",
+        "releaseDate": "2011-05-17",
+        "releaseYear": 2011
+      },
+      {
+        "id": "888528860",
+        "name": "Finding Beauty in Negative Spaces",
+        "releaseDate": "2007-10-23",
+        "releaseYear": 2007
+      },
+      {
+        "id": "888162130",
+        "name": "Karma and Effect",
+        "releaseDate": "2005-05-24",
+        "releaseYear": 2005
+      },
+      {
+        "id": "888207582",
+        "name": "Disclaimer II",
+        "releaseDate": "2004-06-15",
+        "releaseYear": 2004
+      },
+      {
+        "id": "888171661",
+        "name": "Disclaimer",
+        "releaseDate": "2002-08-20",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
+  },
+  "Sevendust": {
+    "name": "Sevendust",
+    "id": "13125174",
+    "albums": [
+      {
+        "id": "1355510081",
+        "name": "All I See Is War",
+        "releaseDate": "2018-05-11",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1022058361",
+        "name": "Kill the Flaw",
+        "releaseDate": "2015-10-02",
+        "releaseYear": 2015
+      },
+      {
+        "id": "835790280",
+        "name": "Time Travelers & Bonfires",
+        "releaseDate": "2014-04-15",
+        "releaseYear": 2014
+      },
+      {
+        "id": "596121821",
+        "name": "Black Out the Sun",
+        "releaseDate": "2013-03-26",
+        "releaseYear": 2013
+      },
+      {
+        "id": "371528206",
+        "name": "Sevendust",
+        "releaseDate": "2010-06-21",
+        "releaseYear": 2010
+      },
+      {
+        "id": "361717151",
+        "name": "Cold Day Memory",
+        "releaseDate": "2010-04-20",
+        "releaseYear": 2010
+      },
+      {
+        "id": "276798187",
+        "name": "Chapter VII: Hope & Sorrow",
+        "releaseDate": "2008-04-01",
+        "releaseYear": 2008
+      },
+      {
+        "id": "270909009",
+        "name": "Retrospective, Vol. 2",
+        "releaseDate": "2007-12-11",
+        "releaseYear": 2007
+      },
+      {
+        "id": "216663739",
+        "name": "Alpha",
+        "releaseDate": "2007-03-06",
+        "releaseYear": 2007
+      },
+      {
+        "id": "218656093",
+        "name": "Next",
+        "releaseDate": "2005-10-11",
+        "releaseYear": 2005
+      },
+      {
+        "id": "311276737",
+        "name": "Seasons - Clean",
+        "releaseDate": "2003-10-07",
+        "releaseYear": 2003
+      },
+      {
+        "id": "311283083",
+        "name": "Seasons",
+        "releaseDate": "2003-10-07",
+        "releaseYear": 2003
+      },
+      {
+        "id": "311287762",
+        "name": "Animosity",
+        "releaseDate": "2001-11-13",
+        "releaseYear": 2001
+      },
+      {
+        "id": "311283715",
+        "name": "Home",
+        "releaseDate": "1999-08-24",
+        "releaseYear": 1999
+      }
+    ],
+    "albumCount": 14,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "Shinedown": {
+    "name": "Shinedown",
+    "id": "1883858",
+    "albums": [
+      {
+        "id": "1352572887",
+        "name": "ATTENTION ATTENTION",
+        "releaseDate": "2018-05-04",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1025208842",
+        "name": "Threat to Survival",
+        "releaseDate": "2015-09-18",
+        "releaseYear": 2015
+      },
+      {
+        "id": "499945669",
+        "name": "Amaryllis",
+        "releaseDate": "2012-03-23",
+        "releaseYear": 2012
+      },
+      {
+        "id": "406008437",
+        "name": "Diamond Eyes",
+        "releaseDate": "2010-06-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "339589646",
+        "name": "The Sight of Madness",
+        "releaseDate": "2008-06-24",
+        "releaseYear": 2008
+      },
+      {
+        "id": "403180313",
+        "name": "The Sound of Madness",
+        "releaseDate": "2008-06-24",
+        "releaseYear": 2008
+      },
+      {
+        "id": "80809491",
+        "name": "Us and Them",
+        "releaseDate": "2005-10-04",
+        "releaseYear": 2005
+      },
+      {
+        "id": "1883883",
+        "name": "Leave a Whisper",
+        "releaseDate": "2003-05-27",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
+  },
+  "Sick Puppies": {
+    "name": "Sick Puppies",
+    "id": "160711176",
+    "albums": [
+      {
+        "id": "1104502012",
+        "name": "Fury",
+        "releaseDate": "2016-05-20",
+        "releaseYear": 2016
+      },
+      {
+        "id": "646978647",
+        "name": "Connect",
+        "releaseDate": "2013-01-01",
+        "releaseYear": 2013
+      },
+      {
+        "id": "712988292",
+        "name": "Polar Opposite",
+        "releaseDate": "2011-03-01",
+        "releaseYear": 2011
+      },
+      {
+        "id": "716753510",
+        "name": "Tri-Polar",
+        "releaseDate": "2010-10-26",
+        "releaseYear": 2010
+      },
+      {
+        "id": "712156995",
+        "name": "Dressed Up As Life",
+        "releaseDate": "2007-04-03",
+        "releaseYear": 2007
+      },
+      {
+        "id": "1065680443",
+        "name": "Welcome To the Real World",
+        "releaseDate": "2001-09-03",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2019
+  },
+  "Silverchair": {
+    "name": "Silverchair",
+    "id": "463123",
+    "albums": [
+      {
+        "id": "977670791",
+        "name": "Frogstomp 20th Anniversary",
+        "releaseDate": "2015-03-27",
+        "releaseYear": 2015
+      },
+      {
+        "id": "259021699",
+        "name": "Young Modern",
+        "releaseDate": "2007-07-24",
+        "releaseYear": 2007
+      },
+      {
+        "id": "263510933",
+        "name": "Diorama",
+        "releaseDate": "2002-03-31",
+        "releaseYear": 2002
+      },
+      {
+        "id": "192818079",
+        "name": "Neon Ballroom",
+        "releaseDate": "1999-03-08",
+        "releaseYear": 1999
+      },
+      {
+        "id": "313361775",
+        "name": "Freak Show",
+        "releaseDate": "1997-01-31",
+        "releaseYear": 1997
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 5,
+    "nextReleaseYear": 2020
+  },
+  "Silversun Pickups": {
+    "name": "Silversun Pickups",
+    "id": "74752665",
+    "albums": [
+      {
+        "id": "1018026467",
+        "name": "Better Nature",
+        "releaseDate": "2015-09-25",
+        "releaseYear": 2015
+      },
+      {
+        "id": "952846052",
+        "name": "Neck of the Woods",
+        "releaseDate": "2012-05-08",
+        "releaseYear": 2012
+      },
+      {
+        "id": "952842269",
+        "name": "Swoon",
+        "releaseDate": "2009-04-14",
+        "releaseYear": 2009
+      },
+      {
+        "id": "952837622",
+        "name": "Carnavas",
+        "releaseDate": "2006-07-25",
+        "releaseYear": 2006
+      },
+      {
+        "id": "952835376",
+        "name": "Pikul",
+        "releaseDate": "2005-07-26",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2018
+  },
+  "Sinch": {
+    "name": "Sinch",
+    "id": "51951970",
+    "albums": [
+      {
+        "id": "516612389",
+        "name": "Hive Mind",
+        "releaseDate": "2012-03-20",
+        "releaseYear": 2012
+      },
+      {
+        "id": "349433495",
+        "name": "Subdivisions",
+        "releaseDate": "2006-08-26",
+        "releaseYear": 2006
+      },
+      {
+        "id": "336178987",
+        "name": "Clearing the Channel",
+        "releaseDate": "2005-03-22",
+        "releaseYear": 2005
+      },
+      {
+        "id": "214475784",
+        "name": "Sinch",
+        "releaseDate": "2002-07-29",
+        "releaseYear": 2002
+      },
+      {
+        "id": "200359436",
+        "name": "Diatribe",
+        "releaseDate": "1998",
+        "releaseYear": 1998
+      },
+      {
+        "id": "199913720",
+        "name": "The Strychnine",
+        "releaseDate": "1996",
+        "releaseYear": 1996
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2015
+  },
+  "Skillet": {
+    "name": "Skillet",
+    "id": "1750802",
+    "albums": [
+      {
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1114195788",
+        "name": "Unleashed",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "662457451",
+        "name": "Rise",
+        "releaseDate": "2013-06-25",
+        "releaseYear": 2013
+      },
+      {
+        "id": "382465219",
+        "name": "The Early Years",
+        "releaseDate": "2010-07-27",
+        "releaseYear": 2010
+      },
+      {
+        "id": "668404134",
+        "name": "Awake",
+        "releaseDate": "2009-08-25",
+        "releaseYear": 2009
+      },
+      {
+        "id": "668404397",
+        "name": "Comatose",
+        "releaseDate": "2006-10-03",
+        "releaseYear": 2006
+      },
+      {
+        "id": "668450293",
+        "name": "Collide",
+        "releaseDate": "2003-11-18",
+        "releaseYear": 2003
+      },
+      {
+        "id": "158907885",
+        "name": "Alien Youth",
+        "releaseDate": "2001-08-28",
+        "releaseYear": 2001
+      },
+      {
+        "id": "493084488",
+        "name": "Invincible",
+        "releaseDate": "2000-02-01",
+        "releaseYear": 2000
+      },
+      {
+        "id": "158905652",
+        "name": "Hey You, I Love Your Soul",
+        "releaseDate": "1998-04-21",
+        "releaseYear": 1998
+      },
+      {
+        "id": "158905040",
+        "name": "Skillet",
+        "releaseDate": "1996-11-05",
+        "releaseYear": 1996
+      }
+    ],
+    "albumCount": 11,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Skunk Anansie": {
+    "name": "Skunk Anansie",
+    "id": "5796114",
+    "albums": [
+      {
+        "id": "1058987521",
+        "name": "Anarchytecture",
+        "releaseDate": "2016-01-15",
+        "releaseYear": 2016
+      },
+      {
+        "id": "562877647",
+        "name": "Black Traffic",
+        "releaseDate": "2012-09-17",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1154807997",
+        "name": "Wonderlustre",
+        "releaseDate": "2010-09-13",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1235075017",
+        "name": "Post Orgasmic Chill",
+        "releaseDate": "1999-03-22",
+        "releaseYear": 1999
+      }
+    ],
+    "albumCount": 4,
+    "avgReleaseYear": 6,
+    "nextReleaseYear": 2022
+  },
+  "Smile Empty Soul": {
+    "name": "Smile Empty Soul",
+    "id": "1883765",
+    "albums": [
+      {
+        "id": "1365151313",
+        "name": "Oblivion",
+        "releaseDate": "2018-05-25",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1117689499",
+        "name": "More Anxiety",
+        "releaseDate": "2016-05-24",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1439964572",
+        "name": "Chemicals",
+        "releaseDate": "2013-10-29",
+        "releaseYear": 2013
+      },
+      {
+        "id": "518790534",
+        "name": "3'S",
+        "releaseDate": "2012-05-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1367199463",
+        "name": "Consciousness",
+        "releaseDate": "2009-08-25",
+        "releaseYear": 2009
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "Snow Patrol": {
+    "name": "Snow Patrol",
+    "id": "5327254",
+    "albums": [
+      {
+        "id": "1354800246",
+        "name": "Wildness",
+        "releaseDate": "2018-05-25",
+        "releaseYear": 2018
+      },
+      {
+        "id": "480035632",
+        "name": "Fallen Empires",
+        "releaseDate": "2011-11-11",
+        "releaseYear": 2011
+      },
+      {
+        "id": "336380105",
+        "name": "Up to Now",
+        "releaseDate": "2009-11-06",
+        "releaseYear": 2009
+      },
+      {
+        "id": "293264853",
+        "name": "A Hundred Million Suns",
+        "releaseDate": "2008-01-01",
+        "releaseYear": 2008
+      },
+      {
+        "id": "209700167",
+        "name": "Eyes Open",
+        "releaseDate": "2006-05-01",
+        "releaseYear": 2006
+      },
+      {
+        "id": "1444528855",
+        "name": "Final Straw",
+        "releaseDate": "2004-03-30",
+        "releaseYear": 2004
+      },
+      {
+        "id": "516530430",
+        "name": "When It's All Over We Still Have to Clear Up",
+        "releaseDate": "2001-03-05",
+        "releaseYear": 2001
+      },
+      {
+        "id": "516527355",
+        "name": "Songs for Polarbears",
+        "releaseDate": "1998-08-25",
+        "releaseYear": 1998
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
+  },
+  "Solstate": {
+    "name": "Solstate",
+    "id": "57942894",
+    "albums": [
+      {
+        "id": "1445425250",
+        "name": "Winter Solstice – Gentle and Slow Piano Music and Christmas Traditionals for Winter Time",
+        "releaseDate": "2018-12-03",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1411897920",
+        "name": "Asleep at the River - Soothing Music to Reconcile Sleep",
+        "releaseDate": "2018-07-13",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1316036237",
+        "name": "Winter Solstice – Inspirational and Emotional Music for Christmas, Christmas Classic Piano Songs",
+        "releaseDate": "2017-11-20",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1210440975",
+        "name": "Mind Relaxation: Musica For Loving Kindness Meditation",
+        "releaseDate": "2017-02-28",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1186623414",
+        "name": "Winter Solstice – Peaceful and Slow Songs for Winter Time & Christmas Eve",
+        "releaseDate": "2016-12-13",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1064418444",
+        "name": "Winter Solstice – Amazing Classical & Ambient Music, Inspirational Songs, Vocals & Instrumentals",
+        "releaseDate": "2015-11-30",
+        "releaseYear": 2015
+      },
+      {
+        "id": "407798477",
+        "name": "The Save the Peaks Compilation",
+        "releaseDate": "2010-09-01",
+        "releaseYear": 2010
+      },
+      {
+        "id": "57943247",
+        "name": "The Fall of Rome",
+        "releaseDate": "2005-03-08",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
+  },
+  "Stage": {
+    "name": "Stage",
+    "id": "585837319",
+    "albums": [
+      {
+        "id": "1260528980",
+        "name": "Morse Code",
+        "releaseDate": "2017-07-21",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1434889049",
+        "name": "Remember Me",
+        "releaseDate": "2014-03-25",
+        "releaseYear": 2014
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "Staind": {
+    "name": "Staind",
+    "id": "613161",
+    "albums": [
+      {
+        "id": "450802075",
+        "name": "Staind",
+        "releaseDate": "2011-09-13",
+        "releaseYear": 2011
+      },
+      {
+        "id": "287525873",
+        "name": "The Illusion of Progress",
+        "releaseDate": "2008-08-19",
+        "releaseYear": 2008
+      },
+      {
+        "id": "76774384",
+        "name": "Chapter V",
+        "releaseDate": "2005-08-09",
+        "releaseYear": 2005
+      },
+      {
+        "id": "1291016",
+        "name": "14 Shades of Grey",
+        "releaseDate": "2003-05-20",
+        "releaseYear": 2003
+      },
+      {
+        "id": "263065030",
+        "name": "Break the Cycle",
+        "releaseDate": "2001-05-22",
+        "releaseYear": 2001
+      },
+      {
+        "id": "79566834",
+        "name": "Dysfunction",
+        "releaseDate": "1999-04-13",
+        "releaseYear": 1999
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2013
+  },
+  "Starset": {
+    "name": "Starset",
+    "id": "669248603",
+    "albums": [
+      {
+        "id": "1423748662",
+        "name": "Vessels 2.0",
+        "releaseDate": "2018-09-28",
+        "releaseYear": 2018
+      },
+      {
+        "id": "1183118057",
+        "name": "Vessels",
+        "releaseDate": "2017-01-20",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1126985184",
+        "name": "Transmissions",
+        "releaseDate": "2014-07-08",
+        "releaseYear": 2014
+      }
+    ],
+    "albumCount": 3,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "System Of A Down": {
+    "name": "System Of A Down",
+    "id": "462715",
+    "albums": [
+      {
+        "id": "159457194",
+        "name": "Hypnotize",
+        "releaseDate": "2005-11-18",
+        "releaseYear": 2005
+      },
+      {
+        "id": "187472331",
+        "name": "Mezmerize",
+        "releaseDate": "2005-05-17",
+        "releaseYear": 2005
+      },
+      {
+        "id": "193126473",
+        "name": "Steal This Album!",
+        "releaseDate": "2002-11-26",
+        "releaseYear": 2002
+      },
+      {
+        "id": "273714443",
+        "name": "Toxicity",
+        "releaseDate": "2001-08-27",
+        "releaseYear": 2001
+      },
+      {
+        "id": "205999137",
+        "name": "System of a Down",
+        "releaseDate": "1998-06-30",
+        "releaseYear": 1998
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2007
+  },
+  "Tantric": {
+    "name": "Tantric",
+    "id": "1248961",
+    "albums": [
+      {
+        "id": "1419791809",
+        "name": "Mercury Retrograde",
+        "releaseDate": "2018-10-05",
+        "releaseYear": 2018
+      },
+      {
+        "id": "918881973",
+        "name": "Blue Room Archives",
+        "releaseDate": "2014-09-30",
+        "releaseYear": 2014
+      },
+      {
+        "id": "699378524",
+        "name": "37 Channels",
+        "releaseDate": "2013-09-17",
+        "releaseYear": 2013
+      },
+      {
+        "id": "324575232",
+        "name": "Mind Control",
+        "releaseDate": "2009-08-04",
+        "releaseYear": 2009
+      },
+      {
+        "id": "302141731",
+        "name": "The End Begins",
+        "releaseDate": "2009-01-13",
+        "releaseYear": 2009
+      },
+      {
+        "id": "5559828",
+        "name": "After We Go",
+        "releaseDate": "2004-02-24",
+        "releaseYear": 2004
+      },
+      {
+        "id": "302303711",
+        "name": "Tantric",
+        "releaseDate": "2001-02-13",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 7,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
+  },
+  "The Exies": {
+    "name": "The Exies",
+    "id": "1365197",
+    "albums": [
+      {
+        "id": "1242684496",
+        "name": "A Modern Way of Living with the Truth",
+        "releaseDate": "2007-05-08",
+        "releaseYear": 2007
+      },
+      {
+        "id": "723757245",
+        "name": "Head For the Door",
+        "releaseDate": "2004-11-30",
+        "releaseYear": 2004
+      },
+      {
+        "id": "712722550",
+        "name": "Inertia",
+        "releaseDate": "2003-01-07",
+        "releaseYear": 2003
+      },
+      {
+        "id": "713228116",
+        "name": "The Exies",
+        "releaseDate": "2000-03-28",
+        "releaseYear": 2000
+      }
+    ],
+    "albumCount": 4,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2009
+  },
+  "The Killers": {
+    "name": "The Killers",
+    "id": "6483093",
+    "albums": [
+      {
+        "id": "1263606236",
+        "name": "Wonderful Wonderful",
+        "releaseDate": "2017-09-22",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1175478594",
+        "name": "Don't Waste Your Wishes",
+        "releaseDate": "2016-11-18",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1262012942",
+        "name": "Direct Hits",
+        "releaseDate": "2013-11-11",
+        "releaseYear": 2013
+      },
+      {
+        "id": "553379542",
+        "name": "Battle Born",
+        "releaseDate": "2012-09-14",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1261997571",
+        "name": "Day & Age",
+        "releaseDate": "2008-11-18",
+        "releaseYear": 2008
+      },
+      {
+        "id": "1262001748",
+        "name": "Sawdust",
+        "releaseDate": "2007-11-09",
+        "releaseYear": 2007
+      },
+      {
+        "id": "1262013445",
+        "name": "Sam’s Town",
+        "releaseDate": "2006-09-27",
+        "releaseYear": 2006
+      },
+      {
+        "id": "1262010695",
+        "name": "Hot Fuss",
+        "releaseDate": "2004-06-07",
+        "releaseYear": 2004
+      }
+    ],
+    "albumCount": 8,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
+  },
+  "The Offspring": {
+    "name": "The Offspring",
+    "id": "2820865",
+    "albums": [
+      {
+        "id": "1178163762",
+        "name": "Days Go By",
+        "releaseDate": "2012-06-26",
+        "releaseYear": 2012
+      },
+      {
+        "id": "1376395426",
+        "name": "Happy Hour!",
+        "releaseDate": "2010-08-04",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1178163376",
+        "name": "Rise and Fall, Rage and Grace",
+        "releaseDate": "2008-06-17",
+        "releaseYear": 2008
+      },
+      {
+        "id": "1177843958",
+        "name": "Splinter",
+        "releaseDate": "2003-11-27",
+        "releaseYear": 2003
+      },
+      {
+        "id": "1177846614",
+        "name": "Conspiracy of One",
+        "releaseDate": "2000-11-14",
+        "releaseYear": 2000
+      },
+      {
+        "id": "1177856806",
+        "name": "Americana",
+        "releaseDate": "1998-11-17",
+        "releaseYear": 1998
+      },
+      {
+        "id": "1177846267",
+        "name": "Ixnay on the Hombre",
+        "releaseDate": "1997-02-04",
+        "releaseYear": 1997
+      },
+      {
+        "id": "272782170",
+        "name": "Smash",
+        "releaseDate": "1994-04-08",
+        "releaseYear": 1994
+      },
+      {
+        "id": "272122632",
+        "name": "Ignition",
+        "releaseDate": "1992-10-16",
+        "releaseYear": 1992
+      },
+      {
+        "id": "839091155",
+        "name": "The Offspring",
+        "releaseDate": "1989-06-15",
+        "releaseYear": 1989
+      }
+    ],
+    "albumCount": 10,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2015
+  },
+  "The Strive": {
+    "name": "The Strive",
+    "id": "473710556",
+    "albums": [
+      {
+        "id": "1447316864",
+        "name": "Modern Pace",
+        "releaseDate": "2018-12-10",
+        "releaseYear": 2018
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
+  },
+  "Thirty Seconds To Mars": {
+    "name": "Thirty Seconds To Mars",
+    "id": "2307416",
+    "albums": [
+      {
+        "id": "1343625887",
+        "name": "AMERICA",
+        "releaseDate": "2018-04-06",
+        "releaseYear": 2018
+      },
+      {
+        "id": "620572548",
+        "name": "LOVE LUST FAITH + DREAMS",
+        "releaseDate": "2013-05-17",
+        "releaseYear": 2013
+      },
+      {
+        "id": "1137158102",
+        "name": "This Is War",
+        "releaseDate": "2009-12-08",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1137155382",
+        "name": "A Beautiful Lie",
+        "releaseDate": "2005-08-16",
+        "releaseYear": 2005
+      },
+      {
+        "id": "1137159646",
+        "name": "30 Seconds To Mars",
+        "releaseDate": "2002-01-01",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2022
+  },
+  "Three Days Grace": {
+    "name": "Three Days Grace",
+    "id": "1973668",
+    "albums": [
+      {
+        "id": "1337775276",
+        "name": "Outsider",
+        "releaseDate": "2018-03-09",
+        "releaseYear": 2018
+      },
+      {
+        "id": "967339615",
+        "name": "Human",
+        "releaseDate": "2015-03-31",
+        "releaseYear": 2015
+      },
+      {
+        "id": "551032244",
+        "name": "Transit of Venus",
+        "releaseDate": "2012-10-02",
+        "releaseYear": 2012
+      },
+      {
+        "id": "330253758",
+        "name": "Life Starts Now",
+        "releaseDate": "2009-09-22",
+        "releaseYear": 2009
+      },
+      {
+        "id": "273432048",
+        "name": "Never Too Late",
+        "releaseDate": "2008-02-12",
+        "releaseYear": 2008
+      },
+      {
+        "id": "266221870",
+        "name": "One-X",
+        "releaseDate": "2006-06-13",
+        "releaseYear": 2006
+      },
+      {
+        "id": "298376467",
+        "name": "Three Days Grace",
+        "releaseDate": "2003-07-22",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 7,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
+  },
+  "Trapt": {
+    "name": "Trapt",
+    "id": "799259",
+    "albums": [
+      {
+        "id": "1124670249",
+        "name": "DNA",
+        "releaseDate": "2016-08-19",
+        "releaseYear": 2016
+      },
+      {
+        "id": "778271065",
+        "name": "Reborn",
+        "releaseDate": "2014-01-01",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1242706341",
+        "name": "No Apologies",
+        "releaseDate": "2010-10-12",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1242695631",
+        "name": "Only Through the Pain",
+        "releaseDate": "2008-08-05",
+        "releaseYear": 2008
+      },
+      {
+        "id": "79574100",
+        "name": "Someone In Control",
+        "releaseDate": "2005-01-01",
+        "releaseYear": 2005
+      },
+      {
+        "id": "464547662",
+        "name": "Headstrong",
+        "releaseDate": "2003-09-23",
+        "releaseYear": 2003
+      },
+      {
+        "id": "301126016",
+        "name": "Trapt",
+        "releaseDate": "2002-11-05",
+        "releaseYear": 2002
+      }
+    ],
+    "albumCount": 7,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  },
+  "Weezer": {
+    "name": "Weezer",
+    "id": "115234",
+    "albums": [
+      {
+        "id": "1450270988",
+        "name": "Weezer",
+        "releaseDate": "2019-01-24",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
+        "id": "1270328038",
+        "name": "Pacific Daydream",
+        "releaseDate": "2017-10-27",
+        "releaseYear": 2017
+      },
+      {
+        "id": "913747488",
+        "name": "Everything Will Be Alright In the End",
+        "releaseDate": "2014-10-07",
+        "releaseYear": 2014
+      },
+      {
+        "id": "397399117",
+        "name": "Death to False Metal",
+        "releaseDate": "2010-11-02",
+        "releaseYear": 2010
+      },
+      {
+        "id": "390309709",
+        "name": "Hurley",
+        "releaseDate": "2010-09-14",
+        "releaseYear": 2010
+      },
+      {
+        "id": "339279379",
+        "name": "Blue / Green / Red",
+        "releaseDate": "2009-11-17",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1136786785",
+        "name": "Raditude",
+        "releaseDate": "2009-11-03",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1136791383",
+        "name": "Make Believe",
+        "releaseDate": "2005-05-10",
+        "releaseYear": 2005
+      },
+      {
+        "id": "1137158533",
+        "name": "Maladroit",
+        "releaseDate": "2002-05-14",
+        "releaseYear": 2002
+      },
+      {
+        "id": "1136783477",
+        "name": "Pinkerton",
+        "releaseDate": "1996-09-24",
+        "releaseYear": 1996
+      }
+    ],
+    "albumCount": 10,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2022
+  },
+  "William Fitzsimmons": {
+    "name": "William Fitzsimmons",
+    "id": "213326316",
+    "albums": [
+      {
+        "id": "1402812327",
+        "name": "Mission Bell",
+        "releaseDate": "2018-09-21",
+        "releaseYear": 2018
+      },
+      {
+        "id": "982840200",
+        "name": "Pittsburgh",
+        "releaseDate": "2015-05-12",
+        "releaseYear": 2015
+      },
+      {
+        "id": "789177929",
+        "name": "Lions",
+        "releaseDate": "2014-02-18",
+        "releaseYear": 2014
+      },
+      {
+        "id": "700388404",
+        "name": "Jack Kerouac's Tristessa: Abridged Reading by William Fitzsimmons",
+        "releaseDate": "2013-09-17",
+        "releaseYear": 2013
+      },
+      {
+        "id": "478679159",
+        "name": "Gold in the Shadow",
+        "releaseDate": "2011-12-20",
+        "releaseYear": 2011
+      },
+      {
+        "id": "372268622",
+        "name": "Derivatives",
+        "releaseDate": "2010-05-10",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1127423619",
+        "name": "The Sparrow and the Crow",
+        "releaseDate": "2008-09-30",
+        "releaseYear": 2008
+      },
+      {
+        "id": "213326312",
+        "name": "Goodnight",
+        "releaseDate": "2006-01-01",
+        "releaseYear": 2006
+      },
+      {
+        "id": "213326981",
+        "name": "Until When We Are Ghosts",
+        "releaseDate": "2005-01-01",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 9,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2020
+  },
+  "Yellowcard": {
+    "name": "Yellowcard",
+    "id": "2307230",
+    "albums": [
+      {
+        "id": "1120749893",
+        "name": "Yellowcard",
+        "releaseDate": "2016-09-30",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1126626274",
+        "name": "Lift a Sail",
+        "releaseDate": "2014-10-07",
+        "releaseYear": 2014
+      },
+      {
+        "id": "536427102",
+        "name": "Southern Air",
+        "releaseDate": "2012-08-14",
+        "releaseYear": 2012
+      },
+      {
+        "id": "485528147",
+        "name": "When You're Through Thinking, Say Yes",
+        "releaseDate": "2011-03-22",
+        "releaseYear": 2011
+      },
+      {
+        "id": "720098622",
+        "name": "Paper Walls",
+        "releaseDate": "2007-07-17",
+        "releaseYear": 2007
+      },
+      {
+        "id": "724535035",
+        "name": "Lights and Sounds",
+        "releaseDate": "2006-01-24",
+        "releaseYear": 2006
+      },
+      {
+        "id": "301809643",
+        "name": "Where We Stand",
+        "releaseDate": "2004-03-30",
+        "releaseYear": 2004
+      },
+      {
+        "id": "725821947",
+        "name": "Ocean Avenue",
+        "releaseDate": "2003-07-22",
+        "releaseYear": 2003
+      },
+      {
+        "id": "471507381",
+        "name": "One for the Kids",
+        "releaseDate": "2001-04-17",
+        "releaseYear": 2001
+      }
+    ],
+    "albumCount": 9,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
+  }
+}

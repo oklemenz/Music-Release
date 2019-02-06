@@ -4,7 +4,8 @@
   "description": "Music Releases",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "sync": "node index sync"
   },
   "dependencies": {
     "jsonwebtoken": "^8.3.0",

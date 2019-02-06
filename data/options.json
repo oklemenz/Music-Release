@@ -1,0 +1,13 @@
+{
+  "sync": false,
+  "host": "https://api.music.apple.com",
+  "version": "v1",
+  "resource": "catalog",
+  "storefront": "us",
+  "music-user-token": "",
+  "private-key": "assets/AuthKey_U7J55H2C86.p8",
+  "team-id": "6N277JA649",
+  "key-id": "U7J55H2C86",
+  "paging": 100,
+  "defaultReleaseYears": 3
+}

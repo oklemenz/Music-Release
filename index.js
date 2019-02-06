@@ -1,92 +1,58 @@
 'use strict';
 
-const BANDS = 'bands.json';
-const MUSIC = 'music.json';
+const BANDS = './data/bands.json';
+const MUSIC = './data/music.json';
 
 const fs = require('fs');
+
+const options = require('./data/options');
+const nameStopWords = require('./data/stopwords');
 const appleMusic = require('./apple-music');
 
-const bands = require(`./${BANDS}`);
-const music = require(`./${MUSIC}`);
+const bands = require(BANDS);
+const music = require(MUSIC);
 
-const NAME_TERM_BLACKLIST = [
-    'Video', 'Acoustic', 'Live', '- EP', 'E.P.'
-];
+async function processMusic() {
+    bands.sort();
+    if (options.sync) {
+        await bands.reduce(async (promise, bandName) => {
+            await promise;
+            let band = music[bandName];
+            if (!band) {
+                band = {name: bandName};
+                music[bandName] = band;
+            }
+            await fillId(band);
+            await fillAlbums(band);
+        }, Promise.resolve());
+    }
+    calcNewAlbums();
+    calcNextAlbumExpected();
+    logNewAlbums();
+    console.log();
+    logNextAlbumExpected();
+}
 
-async function process() {
-    await Promise.all(bands.map(async (bandName) => {
-        let band = music[bandName];
-        if (!band) {
-            band = {name: bandName};
-            music[bandName] = band;
-        }
-        await fillId(band);
-        await fillAlbums(band);
-    }));
-
-    console.log('# New Albums:');
-    bands.map((bandName) => {
-        const band = music[bandName];
-        reportNewAlbums(band);
-    });
-
-    console.log('\n');
-
-    console.log('# Next Album expected:');
-    bands.map((bandName) => {
-        const band = music[bandName];
-        reportNextAlbumExpected(band);
-    });
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function fillId(band) {
     if (!band.id) {
         band.id = await appleMusic.searchArtist(band.name);
     }
-}
-
-function reportNewAlbums(band) {
-    band.albums.forEach((album) => {
-        if (album.new) {
-            console.log(`  ${band.name} - ${album.name}`);
-        }
-    });
-}
-
-function reportNextAlbumExpected(band) {
-    if (band.albums.length === 0) {
-        return;
+    if (!band.id) {
+        throw new Error(`Cannot find band '${band.name}' in catalog`);
     }
-    const currentYear = (new Date()).getFullYear();
-    const diffs = [];
-    let previousValue;
-    band.albums.map((album) => {
-        return album.releaseYear;
-    }).sort().reverse().forEach((value) => {
-        if (previousValue) {
-            diffs.push(previousValue - value);
-        }
-        previousValue = value;
-    });
-    const lastAlbum = band.albums[0];
-    let nextReleaseYear = lastAlbum.releaseYear + Math.round(diffs.reduce((sum, value) => {
-        return sum + value;
-    }, 0) / diffs.length);
-    if (nextReleaseYear < currentYear) {
-        nextReleaseYear = currentYear;
-    }
-    band.nextReleaseYear = nextReleaseYear;
-    console.log(`  ${band.name} - ${nextReleaseYear}`);
 }
 
 async function fillAlbums(band) {
-    const currentYear = (new Date()).getFullYear();
     band.albums = band.albums || [];
     const albums = await appleMusic.fetchArtistAlbums(band.id);
     albums.filter((album) => {
         return !album.attributes.isSingle && album.attributes.isComplete &&
-            !NAME_TERM_BLACKLIST.find((term) => {
-                return album.attributes.name.includes(term);
+            !nameStopWords.find((term) => {
+                return album.attributes.name.toLowerCase().includes(term.toLowerCase());
             });
     }).sort((a, b) => {
         return a.attributes.releaseDate < b.attributes.releaseDate ? 1 : -1;
@@ -106,18 +72,12 @@ async function fillAlbums(band) {
             releaseYear: parseInt(album.attributes.releaseDate.substr(0, 4))
         };
         if (existingAlbum) {
-            if (albumData.releaseYear !== currentYear) {
-                delete existingAlbum.new;
-            }
             Object.assign(existingAlbum, albumData);
         } else {
             if (band.albums.find((album) => {
-                return album.name === albumName;
+                return album.name.toLowerCase() === albumName.toLowerCase();
             })) {
                 return;
-            }
-            if (albumData.releaseYear === currentYear) {
-                albumData.new = true;
             }
             band.albums.push(albumData);
         }
@@ -127,11 +87,108 @@ async function fillAlbums(band) {
     });
 }
 
+function calcNewAlbums() {
+    const currentYear = (new Date()).getFullYear();
+    Object.keys(music).forEach((bandName) => {
+        const band = music[bandName];
+        band.albums.forEach((album) => {
+            if (album.releaseYear === currentYear) {
+                album.new = true;
+            } else {
+                delete album.new;
+            }
+        });
+        band.albumCount = band.albums.length;
+    });
+}
+
+function calcNextAlbumExpected() {
+    Object.keys(music).forEach((bandName) => {
+        const band = music[bandName];
+        if (band.albums.length === 0) {
+            band.avgReleaseYear = 0;
+            band.nextReleaseYear = 0;
+            return;
+        } else if (band.albums.length === 1) {
+            band.avgReleaseYear = options.defaultReleaseYears;
+            band.nextReleaseYear = band.albums[0].releaseYear + band.avgReleaseYear;
+            return;
+        }
+        const diffs = [];
+        let previousValue;
+        [...new Set(band.albums.map((album) => {
+            return album.releaseYear;
+        }).sort().reverse())].forEach((value) => {
+            if (previousValue) {
+                diffs.push(previousValue - value);
+            }
+            previousValue = value;
+        });
+        band.avgReleaseYear = Math.round(diffs.reduce((sum, value) => {
+            return sum + value;
+        }, 0) / diffs.length);
+        band.nextReleaseYear = band.albums[0].releaseYear + band.avgReleaseYear;
+    });
+}
+
+function logNewAlbums() {
+    console.log('# New Albums:');
+    Object.keys(music).forEach((bandName) => {
+        const band = music[bandName];
+        band.albums.forEach((album) => {
+            if (album.new) {
+                console.log(`  ${band.name} - ${album.name}`);
+            }
+        });
+    });
+}
+
+function logNextAlbumExpected() {
+    const currentYear = (new Date()).getFullYear();
+    const groupYear = {};
+    Object.keys(music).forEach((bandName) => {
+        const band = music[bandName];
+        groupYear[band.nextReleaseYear] = groupYear[band.nextReleaseYear] || [];
+        groupYear[band.nextReleaseYear].push(bandName);
+    });
+    Object.keys(groupYear).forEach((year) => {
+        groupYear[year].sort();
+    });
+
+    console.log('# Next Album expected:');
+    Object.keys(groupYear).filter(year => year >= currentYear).sort().forEach((year) => {
+        console.log(`## ${year}: `);
+        groupYear[year].forEach((bandName) => {
+            console.log(`    ${bandName}`);
+        });
+    });
+
+    console.log();
+
+    console.log('# Album Overdue:');
+    Object.keys(groupYear).filter(year => year < currentYear).sort().reverse().forEach((year) => {
+        console.log(`## ${year}: `);
+        groupYear[year].forEach((bandName) => {
+            console.log(`    ${bandName}`);
+        });
+    });
+
+}
+
+function writeBands() {
+    fs.writeFileSync(BANDS, JSON.stringify(bands, null, 2));
+}
+
 function writeMusic() {
     fs.writeFileSync(MUSIC, JSON.stringify(music, null, 2));
 }
 
-process().then(() => {
+options.sync = process.argv[2] === 'sync';
+processMusic().then(() => {
+    writeBands();
     writeMusic();
-    console.log('finished');
+    console.log();
+    console.log('Done!');
+}).catch((error) => {
+    console.log(error);
 });

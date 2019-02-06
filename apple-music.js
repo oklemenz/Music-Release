@@ -5,7 +5,7 @@ const url = require('url');
 const request = require('request-promise-native');
 const jsonWebToken = require('jsonwebtoken');
 
-const options = require('./options');
+const options = require('./data/options');
 
 let API_JWT;
 let API_ENDPOINT;
@@ -13,9 +13,9 @@ let API_HEADERS;
 
 function jwt() {
     if (!API_JWT) {
-        const privateKey = fs.readFileSync('assets/AuthKey_U7J55H2C86.p8').toString();
-        const teamId = '6N277JA649'; // your 10 character apple team id, found in https://developer.apple.com/account/#/membership/
-        const keyId = 'U7J55H2C86'; // your 10 character generated music key id. more info https://help.apple.com/developer-account/#/dev646934554
+        const privateKey = fs.readFileSync(options['private-key']).toString();
+        const teamId = options['team-id']; // your 10 character apple team id, found in https://developer.apple.com/account/#/membership/
+        const keyId = options['key-id']; // your 10 character generated music key id. more info https://help.apple.com/developer-account/#/dev646934554
         API_JWT = jsonWebToken.sign({}, privateKey, {
             algorithm: 'ES256',
             expiresIn: '180d',
