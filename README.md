@@ -9,3 +9,8 @@ npm start
 ```
 npm start sync
 ```
+
+## Fetch Music User Token with MusicKit
+```
+npm run server
+```

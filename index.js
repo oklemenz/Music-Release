@@ -9,11 +9,11 @@ const options = require('./data/options');
 const nameStopWords = require('./data/stopwords');
 const appleMusic = require('./apple-music');
 
-const bands = require(BANDS);
-const music = require(MUSIC);
+let bands = require(BANDS);
+let music = require(MUSIC);
 
 async function processMusic() {
-    bands.sort();
+    bands = [...new Set(bands)].sort();
     if (options.sync) {
         await bands.reduce(async (promise, bandName) => {
             await promise;

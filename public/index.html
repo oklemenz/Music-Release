@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8>
+  <link rel="shortcut icon" href="#" />
+  <title>Apple Music Client</title>
+</head>
+<body>
+  <h3>MusicKit:</h3>
+  <label>Type (eg 'album' 'song')</label>
+  <input id="type-input" type="text" value="album">
+  <br>
+  <label>id</label>
+  <input id="id-input" type="text" value="995414732">
+  <br>
+  <button id="add-to-q-btn">Add to Queue</button>
+  <br>
+  <button id="play-btn">Play</button>
+  <button id="pause-btn">Pause</button>
+  <br>
+  <div>
+    <h3>Music User Token:</h3>
+    <button id="login-btn">Login to Apple Music</button>
+    <button id="copy-btn">Copy To Clipboard</button>
+    <br><br>
+    <span id="music-user-token"></span>
+  </div>
+  <br>
+  <script src="https://js-cdn.music.apple.com/musickit/v1/musickit.js"></script>
+  <script type="text/javascript" src="/index.js"></script>
+</body>
+</html>

@@ -78,6 +78,7 @@ async function fetchArtistAlbums(artistId) {
 }
 
 module.exports = {
+    jwt,
     searchArtist,
     fetchArtist,
     fetchArtistAlbums
