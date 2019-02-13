@@ -272,6 +272,81 @@
     "avgReleaseYear": 3,
     "nextReleaseYear": 2019
   },
+  "Anberlin": {
+    "name": "Anberlin",
+    "id": "16269045",
+    "albums": [
+      {
+        "id": "998774432",
+        "name": "Devotion",
+        "releaseDate": "2015-06-09",
+        "releaseYear": 2015
+      },
+      {
+        "id": "875862108",
+        "name": "Lowborn",
+        "releaseDate": "2014-07-22",
+        "releaseYear": 2014
+      },
+      {
+        "id": "714698841",
+        "name": "Dancing Between the Fibers of Time",
+        "releaseDate": "2012-03-23",
+        "releaseYear": 2012
+      },
+      {
+        "id": "560578373",
+        "name": "Vital",
+        "releaseDate": "2012-01-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "387708409",
+        "name": "Dark Is the Way, Light Is a Place",
+        "releaseDate": "2010-09-07",
+        "releaseYear": 2010
+      },
+      {
+        "id": "344737568",
+        "name": "New Surrender",
+        "releaseDate": "2009-01-01",
+        "releaseYear": 2009
+      },
+      {
+        "id": "714815279",
+        "name": "Lost Songs",
+        "releaseDate": "2007-11-20",
+        "releaseYear": 2007
+      },
+      {
+        "id": "714887381",
+        "name": "Blueprints for City Friendships: The Anberlin Anthology",
+        "releaseDate": "2007-03-12",
+        "releaseYear": 2007
+      },
+      {
+        "id": "724680592",
+        "name": "Cities",
+        "releaseDate": "2007-02-20",
+        "releaseYear": 2007
+      },
+      {
+        "id": "724255907",
+        "name": "Never Take Friendship Personal",
+        "releaseDate": "2005-01-17",
+        "releaseYear": 2005
+      },
+      {
+        "id": "724469774",
+        "name": "Blueprints For the Black Market",
+        "releaseDate": "2003-04-24",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 11,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2017
+  },
   "Atomship": {
     "name": "Atomship",
     "id": "113770149",
@@ -578,6 +653,27 @@
     "avgReleaseYear": 3,
     "nextReleaseYear": 2021
   },
+  "Burn Season": {
+    "name": "Burn Season",
+    "id": "80031785",
+    "albums": [
+      {
+        "id": "418346900",
+        "name": "This Long Time Coming",
+        "releaseDate": "2011-01-27",
+        "releaseYear": 2011
+      },
+      {
+        "id": "80031864",
+        "name": "Burn Season",
+        "releaseDate": "2005-10-11",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": 6,
+    "nextReleaseYear": 2017
+  },
   "Bush": {
     "name": "Bush",
     "id": "154751",
@@ -589,12 +685,6 @@
         "releaseYear": 2017
       },
       {
-        "id": "1331193518",
-        "name": "Razorblade Suitcase",
-        "releaseDate": "2016-12-16",
-        "releaseYear": 2016
-      },
-      {
         "id": "911605911",
         "name": "Man On the Run",
         "releaseDate": "2014-10-20",
@@ -603,12 +693,6 @@
       {
         "id": "1306260912",
         "name": "The Science of Things",
-        "releaseDate": "2014-10-14",
-        "releaseYear": 2014
-      },
-      {
-        "id": "1306283987",
-        "name": "Deconstructed",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -635,11 +719,23 @@
         "name": "Golden State",
         "releaseDate": "2001-10-23",
         "releaseYear": 2001
+      },
+      {
+        "id": "1306283987",
+        "name": "Deconstructed",
+        "releaseDate": "1997-11-11",
+        "releaseYear": 1997
+      },
+      {
+        "id": "1331193518",
+        "name": "Razorblade Suitcase",
+        "releaseDate": "1996-11-19",
+        "releaseYear": 1996
       }
     ],
     "albumCount": 9,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2020
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2021
   },
   "Chevelle": {
     "name": "Chevelle",
@@ -697,6 +793,21 @@
     "albumCount": 8,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2018
+  },
+  "Chris Volz": {
+    "name": "Chris Volz",
+    "id": "26222708",
+    "albums": [
+      {
+        "id": "1076005172",
+        "name": "Redemption",
+        "releaseDate": "2007-09-11",
+        "releaseYear": 2007
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2010
   },
   "Cold": {
     "name": "Cold",
@@ -884,6 +995,45 @@
     "avgReleaseYear": 2,
     "nextReleaseYear": 2020
   },
+  "Die Happy": {
+    "name": "Die Happy",
+    "id": "19322418",
+    "albums": [
+      {
+        "id": "816244891",
+        "name": "Everlove",
+        "releaseDate": "2014-02-28",
+        "releaseYear": 2014
+      },
+      {
+        "id": "448494887",
+        "name": "Red Box",
+        "releaseDate": "2011-01-01",
+        "releaseYear": 2011
+      },
+      {
+        "id": "200310382",
+        "name": "No Nuts No Glory",
+        "releaseDate": "2006-10-20",
+        "releaseYear": 2006
+      },
+      {
+        "id": "386367326",
+        "name": "Die Happy, Vol. ll",
+        "releaseDate": "1993",
+        "releaseYear": 1993
+      },
+      {
+        "id": "386352545",
+        "name": "Die Happy",
+        "releaseDate": "1992",
+        "releaseYear": 1992
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 6,
+    "nextReleaseYear": 2020
+  },
   "Downplay": {
     "name": "Downplay",
     "id": "128459970",
@@ -976,6 +1126,13 @@
     "id": "252144676",
     "albums": [
       {
+        "id": "1439380906",
+        "name": "Peach Club",
+        "releaseDate": "2019-02-08",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1106626995",
         "name": "131",
         "releaseDate": "2016-07-08",
@@ -1006,9 +1163,9 @@
         "releaseYear": 2007
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2021
   },
   "Evanescence": {
     "name": "Evanescence",
@@ -1213,6 +1370,108 @@
     "albumCount": 3,
     "avgReleaseYear": 8,
     "nextReleaseYear": 2024
+  },
+  "Foo Fighters": {
+    "name": "Foo Fighters",
+    "id": "6906197",
+    "albums": [
+      {
+        "id": "1249068417",
+        "name": "Concrete and Gold",
+        "releaseDate": "2017-09-15",
+        "releaseYear": 2017
+      },
+      {
+        "id": "910701272",
+        "name": "Sonic Highways",
+        "releaseDate": "2014-11-10",
+        "releaseYear": 2014
+      },
+      {
+        "id": "456563917",
+        "name": "Wasting Light",
+        "releaseDate": "2011-04-12",
+        "releaseYear": 2011
+      },
+      {
+        "id": "262743410",
+        "name": "Echoes, Silence, Patience & Grace",
+        "releaseDate": "2007-09-25",
+        "releaseYear": 2007
+      },
+      {
+        "id": "300855107",
+        "name": "In Your Honor",
+        "releaseDate": "2005-06-14",
+        "releaseYear": 2005
+      },
+      {
+        "id": "538257183",
+        "name": "One By One",
+        "releaseDate": "2003-05-19",
+        "releaseYear": 2003
+      },
+      {
+        "id": "278229648",
+        "name": "There Is Nothing Left to Lose",
+        "releaseDate": "1999-11-02",
+        "releaseYear": 1999
+      },
+      {
+        "id": "362133451",
+        "name": "The Colour and the Shape",
+        "releaseDate": "1997-05-20",
+        "releaseYear": 1997
+      },
+      {
+        "id": "258512042",
+        "name": "Foo Fighters",
+        "releaseDate": "1995-07-04",
+        "releaseYear": 1995
+      }
+    ],
+    "albumCount": 9,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
+  },
+  "Fuel": {
+    "name": "Fuel",
+    "id": "510215",
+    "albums": [
+      {
+        "id": "798026619",
+        "name": "Puppet Strings",
+        "releaseDate": "2014-03-03",
+        "releaseYear": 2014
+      },
+      {
+        "id": "260731392",
+        "name": "Angels & Devils",
+        "releaseDate": "2007-08-07",
+        "releaseYear": 2007
+      },
+      {
+        "id": "185439414",
+        "name": "Natural Selection",
+        "releaseDate": "2003-09-23",
+        "releaseYear": 2003
+      },
+      {
+        "id": "203911934",
+        "name": "Something Like Human",
+        "releaseDate": "2000-09-19",
+        "releaseYear": 2000
+      },
+      {
+        "id": "158719169",
+        "name": "Sunburn",
+        "releaseDate": "1998-03-31",
+        "releaseYear": 1998
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2018
   },
   "Green Day": {
     "name": "Green Day",
@@ -1440,20 +1699,14 @@
       {
         "id": "1045657795",
         "name": "Horror Show",
-        "releaseDate": "2001",
+        "releaseDate": "2001-06-26",
         "releaseYear": 2001
       },
       {
         "id": "1045626556",
         "name": "Something Wicked This Way Comes",
-        "releaseDate": "1998",
+        "releaseDate": "1998-07-07",
         "releaseYear": 1998
-      },
-      {
-        "id": "1045610534",
-        "name": "Burnt Offerings",
-        "releaseDate": "1997",
-        "releaseYear": 1997
       },
       {
         "id": "1119632197",
@@ -1462,10 +1715,16 @@
         "releaseYear": 1996
       },
       {
+        "id": "1045610534",
+        "name": "Burnt Offerings",
+        "releaseDate": "1995-04-18",
+        "releaseYear": 1995
+      },
+      {
         "id": "1119632172",
         "name": "Night of the Stormrider",
-        "releaseDate": "1991",
-        "releaseYear": 1991
+        "releaseDate": "1992",
+        "releaseYear": 1992
       },
       {
         "id": "1045560453",
@@ -1883,6 +2142,75 @@
     "avgReleaseYear": 2,
     "nextReleaseYear": 2018
   },
+  "Linkin Park": {
+    "name": "Linkin Park",
+    "id": "148662",
+    "albums": [
+      {
+        "id": "1204427627",
+        "name": "One More Light",
+        "releaseDate": "2017-05-19",
+        "releaseYear": 2017
+      },
+      {
+        "id": "904467019",
+        "name": "The Hunting Party: Acapellas + Instrumentals",
+        "releaseDate": "2014-06-16",
+        "releaseYear": 2014
+      },
+      {
+        "id": "873395041",
+        "name": "The Hunting Party",
+        "releaseDate": "2014-06-13",
+        "releaseYear": 2014
+      },
+      {
+        "id": "701162375",
+        "name": "RECHARGED",
+        "releaseDate": "2013-10-25",
+        "releaseYear": 2013
+      },
+      {
+        "id": "561418360",
+        "name": "LIVING THINGS",
+        "releaseDate": "2012-06-25",
+        "releaseYear": 2012
+      },
+      {
+        "id": "528969611",
+        "name": "A Thousand Suns",
+        "releaseDate": "2010-09-10",
+        "releaseYear": 2010
+      },
+      {
+        "id": "528972236",
+        "name": "Minutes to Midnight",
+        "releaseDate": "2007-05-14",
+        "releaseYear": 2007
+      },
+      {
+        "id": "528435845",
+        "name": "Meteora",
+        "releaseDate": "2003-03-25",
+        "releaseYear": 2003
+      },
+      {
+        "id": "593244103",
+        "name": "Reanimation",
+        "releaseDate": "2002-07-29",
+        "releaseYear": 2002
+      },
+      {
+        "id": "528436018",
+        "name": "Hybrid Theory",
+        "releaseDate": "2000-10-24",
+        "releaseYear": 2000
+      }
+    ],
+    "albumCount": 10,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
+  },
   "Live": {
     "name": "Live",
     "id": "61027",
@@ -1954,6 +2282,90 @@
     "albumCount": 2,
     "avgReleaseYear": 5,
     "nextReleaseYear": 2019
+  },
+  "Mando Diao": {
+    "name": "Mando Diao",
+    "id": "23533743",
+    "albums": [
+      {
+        "id": "1214964095",
+        "name": "Good Times",
+        "releaseDate": "2017-05-12",
+        "releaseYear": 2017
+      },
+      {
+        "id": "1300587556",
+        "name": "Give Me Fire",
+        "releaseDate": "2009",
+        "releaseYear": 2009
+      },
+      {
+        "id": "693238753",
+        "name": "Never Seen the Light of Day",
+        "releaseDate": "2007-10-22",
+        "releaseYear": 2007
+      },
+      {
+        "id": "828257063",
+        "name": "Ode To Ochrasy",
+        "releaseDate": "2007-04-24",
+        "releaseYear": 2007
+      },
+      {
+        "id": "828003027",
+        "name": "Hurricane Bar",
+        "releaseDate": "2005-03-08",
+        "releaseYear": 2005
+      },
+      {
+        "id": "836718300",
+        "name": "Bring 'Em In",
+        "releaseDate": "2003-08-26",
+        "releaseYear": 2003
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2021
+  },
+  "Matchbox Twenty": {
+    "name": "Matchbox Twenty",
+    "id": "711111",
+    "albums": [
+      {
+        "id": "554536818",
+        "name": "North",
+        "releaseDate": "2012-09-04",
+        "releaseYear": 2012
+      },
+      {
+        "id": "580695760",
+        "name": "Exile On Mainstream",
+        "releaseDate": "2007-10-02",
+        "releaseYear": 2007
+      },
+      {
+        "id": "580000525",
+        "name": "More Than You Think You Are",
+        "releaseDate": "2002-11-19",
+        "releaseYear": 2002
+      },
+      {
+        "id": "579997746",
+        "name": "Mad Season",
+        "releaseDate": "2000-05-23",
+        "releaseYear": 2000
+      },
+      {
+        "id": "580695794",
+        "name": "Yourself or Someone Like You",
+        "releaseDate": "1996-10-01",
+        "releaseYear": 1996
+      }
+    ],
+    "albumCount": 5,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2016
   },
   "Matthew Good": {
     "name": "Matthew Good",
@@ -2321,6 +2733,21 @@
     "avgReleaseYear": 2,
     "nextReleaseYear": 2020
   },
+  "MyBalloon": {
+    "name": "MyBalloon",
+    "id": "376269554",
+    "albums": [
+      {
+        "id": "388667911",
+        "name": "Maximum Balloon",
+        "releaseDate": "2010-01-01",
+        "releaseYear": 2010
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2013
+  },
   "NEEDTOBREATHE": {
     "name": "NEEDTOBREATHE",
     "id": "113247214",
@@ -2422,6 +2849,51 @@
     "albumCount": 8,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2019
+  },
+  "Nirvana": {
+    "name": "Nirvana",
+    "id": "112018",
+    "albums": [
+      {
+        "id": "426538955",
+        "name": "With the Lights Out",
+        "releaseDate": "2004-11-23",
+        "releaseYear": 2004
+      },
+      {
+        "id": "1413920644",
+        "name": "Nirvana",
+        "releaseDate": "2002-10-29",
+        "releaseYear": 2002
+      },
+      {
+        "id": "706008781",
+        "name": "In Utero",
+        "releaseDate": "1993-09-21",
+        "releaseYear": 1993
+      },
+      {
+        "id": "1434917065",
+        "name": "Incesticide",
+        "releaseDate": "1992-01-01",
+        "releaseYear": 1992
+      },
+      {
+        "id": "485495703",
+        "name": "Nevermind",
+        "releaseDate": "1991-09-24",
+        "releaseYear": 1991
+      },
+      {
+        "id": "669728060",
+        "name": "Bleach",
+        "releaseDate": "1989-06-15",
+        "releaseYear": 1989
+      }
+    ],
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2007
   },
   "Nonpoint": {
     "name": "Nonpoint",
@@ -2548,13 +3020,28 @@
       {
         "id": "1450006102",
         "name": "Infest",
-        "releaseDate": "2001-04-25",
-        "releaseYear": 2001
+        "releaseDate": "2000-04-25",
+        "releaseYear": 2000
       }
     ],
     "albumCount": 8,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2022
+  },
+  "Papercut Massacre": {
+    "name": "Papercut Massacre",
+    "id": "311994949",
+    "albums": [
+      {
+        "id": "888793658",
+        "name": "If These Scars Could Talk",
+        "releaseDate": "2009-01-01",
+        "releaseYear": 2009
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2012
   },
   "Parabelle": {
     "name": "Parabelle",
@@ -2969,12 +3456,6 @@
         "releaseYear": 2016
       },
       {
-        "id": "938467544",
-        "name": "What Hits!?",
-        "releaseDate": "2014-11-17",
-        "releaseYear": 2014
-      },
-      {
         "id": "450747622",
         "name": "I'm With You",
         "releaseDate": "2011-08-29",
@@ -3003,6 +3484,12 @@
         "name": "One Hot Minute",
         "releaseDate": "1995-09-12",
         "releaseYear": 1995
+      },
+      {
+        "id": "938467544",
+        "name": "What Hits!?",
+        "releaseDate": "1992-09-29",
+        "releaseYear": 1992
       },
       {
         "id": "945581828",
@@ -3143,6 +3630,27 @@
     "albumCount": 1,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2018
+  },
+  "Scott Stapp": {
+    "name": "Scott Stapp",
+    "id": "89148602",
+    "albums": [
+      {
+        "id": "1169821972",
+        "name": "Proof of Life",
+        "releaseDate": "2013-11-05",
+        "releaseYear": 2013
+      },
+      {
+        "id": "1169810618",
+        "name": "The Great Divide",
+        "releaseDate": "2005-11-22",
+        "releaseYear": 2005
+      }
+    ],
+    "albumCount": 2,
+    "avgReleaseYear": 8,
+    "nextReleaseYear": 2021
   },
   "Seether": {
     "name": "Seether",
@@ -3995,6 +4503,21 @@
     "albumCount": 4,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2009
+  },
+  "The Februarys": {
+    "name": "The Februarys",
+    "id": "216049443",
+    "albums": [
+      {
+        "id": "396211219",
+        "name": "We'll Find Our Own Way Home",
+        "releaseDate": "2010-10-01",
+        "releaseYear": 2010
+      }
+    ],
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2013
   },
   "The Killers": {
     "name": "The Killers",

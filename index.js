@@ -13,7 +13,6 @@ let bands = require(BANDS);
 let music = require(MUSIC);
 
 async function processMusic() {
-    bands = [...new Set(bands)].sort();
     if (options.sync) {
         await bands.reduce(async (promise, bandName) => {
             await promise;
@@ -176,10 +175,15 @@ function logNextAlbumExpected() {
 }
 
 function writeBands() {
+    bands = [...new Set(bands)].sort();
     fs.writeFileSync(BANDS, JSON.stringify(bands, null, 2));
 }
 
 function writeMusic() {
+    music = Object.keys(music).sort().reduce((result, bandName) => {
+        result[bandName] = music[bandName];
+        return result;
+    }, {});
     fs.writeFileSync(MUSIC, JSON.stringify(music, null, 2));
 }
 
