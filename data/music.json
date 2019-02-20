@@ -2798,6 +2798,13 @@
     "id": "193835",
     "albums": [
       {
+        "id": "1450991412",
+        "name": "North 6th Street",
+        "releaseDate": "2019-01-15",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1060672639",
         "name": "You Know Who You Are",
         "releaseDate": "2016-03-04",
@@ -2846,9 +2853,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Nirvana": {
     "name": "Nirvana",
