@@ -520,12 +520,6 @@
         "releaseYear": 2014
       },
       {
-        "id": "884916306",
-        "name": "Birds of Tokyo",
-        "releaseDate": "2010-07-23",
-        "releaseYear": 2010
-      },
-      {
         "id": "283302978",
         "name": "Universes",
         "releaseDate": "2008-07-05",
@@ -536,6 +530,12 @@
         "name": "Day One",
         "releaseDate": "2007-02-03",
         "releaseYear": 2007
+      },
+      {
+        "id": "884916306",
+        "name": "Birds of Tokyo",
+        "releaseDate": "2005-10-10",
+        "releaseYear": 2005
       }
     ],
     "albumCount": 6,
