@@ -14,3 +14,9 @@ npm start sync
 ```
 npm run server
 ```
+
+## Process Music User Library
+
+```
+npm run library
+```

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
+    "library": "node library",
     "sync": "node index sync",
     "server": "node server"
   },
