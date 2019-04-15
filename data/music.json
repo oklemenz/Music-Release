@@ -520,6 +520,12 @@
         "releaseYear": 2014
       },
       {
+        "id": "884916306",
+        "name": "Birds of Tokyo",
+        "releaseDate": "2010-07-23",
+        "releaseYear": 2010
+      },
+      {
         "id": "283302978",
         "name": "Universes",
         "releaseDate": "2008-07-05",
@@ -530,12 +536,6 @@
         "name": "Day One",
         "releaseDate": "2007-02-03",
         "releaseYear": 2007
-      },
-      {
-        "id": "884916306",
-        "name": "Birds of Tokyo",
-        "releaseDate": "2005-10-10",
-        "releaseYear": 2005
       }
     ],
     "albumCount": 6,
@@ -1419,7 +1419,7 @@
       },
       {
         "id": "362133451",
-        "name": "The Colour and the Shape",
+        "name": "The Colour And The Shape",
         "releaseDate": "1997-05-20",
         "releaseYear": 1997
       },
@@ -1602,7 +1602,7 @@
       },
       {
         "id": "1449912365",
-        "name": "Every Man For Himself",
+        "name": "Every Man for Himself",
         "releaseDate": "2006-05-08",
         "releaseYear": 2006
       },
@@ -1685,9 +1685,27 @@
         "releaseYear": 2012
       },
       {
+        "id": "1458878649",
+        "name": "The Crucible of Man - Something Wicked",
+        "releaseDate": "2008",
+        "releaseYear": 2008
+      },
+      {
+        "id": "1458885235",
+        "name": "Framing Armageddon - Something Wicked",
+        "releaseDate": "2007-09-11",
+        "releaseYear": 2007
+      },
+      {
         "id": "1119635598",
         "name": "The Blessed and the Damned",
         "releaseDate": "2004-07-27",
+        "releaseYear": 2004
+      },
+      {
+        "id": "1458652174",
+        "name": "The Glorious Burden",
+        "releaseDate": "2004-01-13",
         "releaseYear": 2004
       },
       {
@@ -1733,9 +1751,9 @@
         "releaseYear": 1991
       }
     ],
-    "albumCount": 11,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2020
+    "albumCount": 14,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2019
   },
   "Imagine Dragons": {
     "name": "Imagine Dragons",
@@ -2447,6 +2465,13 @@
     "id": "488289",
     "albums": [
       {
+        "id": "1447698969",
+        "name": "Warheads on Foreheads",
+        "releaseDate": "2019-03-22",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1043547823",
         "name": "Dystopia",
         "releaseDate": "2016-01-22",
@@ -2567,9 +2592,9 @@
         "releaseYear": 1985
       }
     ],
-    "albumCount": 20,
+    "albumCount": 21,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2021
   },
   "Metallica": {
     "name": "Metallica",
@@ -3301,6 +3326,13 @@
     "id": "92738",
     "albums": [
       {
+        "id": "1454520292",
+        "name": "Fto",
+        "releaseDate": "2019-02-28",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1158803471",
         "name": "Earthcall",
         "releaseDate": "2016-09-28",
@@ -3397,9 +3429,9 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 16,
-    "avgReleaseYear": 1,
-    "nextReleaseYear": 2017
+    "albumCount": 17,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2021
   },
   "Red": {
     "name": "Red",
@@ -3745,12 +3777,6 @@
         "releaseYear": 2013
       },
       {
-        "id": "371528206",
-        "name": "Sevendust",
-        "releaseDate": "2010-06-21",
-        "releaseYear": 2010
-      },
-      {
         "id": "361717151",
         "name": "Cold Day Memory",
         "releaseDate": "2010-04-20",
@@ -3803,6 +3829,12 @@
         "name": "Home",
         "releaseDate": "1999-08-24",
         "releaseYear": 1999
+      },
+      {
+        "id": "371528206",
+        "name": "Sevendust",
+        "releaseDate": "1997-04-15",
+        "releaseYear": 1997
       }
     ],
     "albumCount": 14,
@@ -4218,8 +4250,8 @@
       {
         "id": "1444528855",
         "name": "Final Straw",
-        "releaseDate": "2004-03-30",
-        "releaseYear": 2004
+        "releaseDate": "2003-08-04",
+        "releaseYear": 2003
       },
       {
         "id": "516530430",
