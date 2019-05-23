@@ -39,8 +39,7 @@ function apiEndpoint() {
 function apiHeaders() {
     if (!API_HEADERS) {
         API_HEADERS = {
-            Authorization: `Bearer ${jwt()}`,
-            'music-user-token': options['music-user-token']
+            Authorization: `Bearer ${jwt()}`
         };
     }
     return API_HEADERS;
@@ -59,7 +58,7 @@ async function searchArtist(name) {
 }
 
 async function fetchArtist(artistId) {
-    return (await apiCall(`artists/${artistId}`)).data;
+    return (await apiCall(`artists/${artistId}`)).data[0];
 }
 
 async function fetchArtistAlbums(artistId) {

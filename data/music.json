@@ -1609,7 +1609,7 @@
       },
       {
         "id": "1449912365",
-        "name": "Every Man For Himself",
+        "name": "Every Man for Himself",
         "releaseDate": "2006-05-08",
         "releaseYear": 2006
       },
@@ -1714,6 +1714,15 @@
         "name": "The Glorious Burden",
         "releaseDate": "2004-01-13",
         "releaseYear": 2004
+<<<<<<< HEAD
+=======
+      },
+      {
+        "id": "1045695756",
+        "name": "Days of Purgatory",
+        "releaseDate": "2003",
+        "releaseYear": 2003
+>>>>>>> e79d7f23638f266e6cdfc88cbc9e4b63857ef3fa
       },
       {
         "id": "1045657795",
@@ -3359,6 +3368,7 @@
     "id": "92738",
     "albums": [
       {
+<<<<<<< HEAD
         "id": "1462991528",
         "name": "What the Game Been Missing",
         "releaseDate": "2019-05-12",
@@ -3373,6 +3383,8 @@
         "new": true
       },
       {
+=======
+>>>>>>> e79d7f23638f266e6cdfc88cbc9e4b63857ef3fa
         "id": "1454520292",
         "name": "Fto",
         "releaseDate": "2019-02-28",
@@ -3476,7 +3488,11 @@
         "releaseYear": 2002
       }
     ],
+<<<<<<< HEAD
     "albumCount": 19,
+=======
+    "albumCount": 17,
+>>>>>>> e79d7f23638f266e6cdfc88cbc9e4b63857ef3fa
     "avgReleaseYear": 2,
     "nextReleaseYear": 2021
   },
