@@ -9,10 +9,11 @@
     "server": "node server"
   },
   "dependencies": {
+    "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
-    "request-promise-native": "^1.0.5",
     "open": "^0.0.5",
-    "express": "^4.16.3"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
   },
   "author": "",
   "license": "ISC"
