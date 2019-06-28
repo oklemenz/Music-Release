@@ -1687,13 +1687,13 @@
       },
       {
         "id": "1458878649",
-        "name": "The Crucible of Man - Something Wicked",
-        "releaseDate": "2008",
+        "name": "The Crucible of Man: Something Wicked, Pt. 2",
+        "releaseDate": "2008-09-05",
         "releaseYear": 2008
       },
       {
         "id": "1458885235",
-        "name": "Framing Armageddon - Something Wicked",
+        "name": "Framing Armageddon: Something Wicked, Pt. 1",
         "releaseDate": "2007-09-11",
         "releaseYear": 2007
       },
@@ -3329,6 +3329,13 @@
     "id": "92738",
     "albums": [
       {
+        "id": "1470318333",
+        "name": "What the Game Been Missing, Pt. 3",
+        "releaseDate": "2019-06-17",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1462991528",
         "name": "What the Game Been Missing",
         "releaseDate": "2019-05-12",
@@ -3446,7 +3453,7 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 19,
+    "albumCount": 20,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2021
   },
@@ -4578,14 +4585,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "888912701",
-        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
+        "id": "888910758",
+        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
       {
-        "id": "888910758",
-        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
+        "id": "888912701",
+        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
@@ -4632,18 +4639,6 @@
         "releaseYear": 2012
       },
       {
-        "id": "577508427",
-        "name": "Subways Sounds: New York City, Paris & Mexico City",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "578945240",
-        "name": "100 Sounds for Web Buttons",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
         "id": "577516532",
         "name": "Vintage Cars",
         "releaseDate": "2012-10-22",
@@ -4656,8 +4651,8 @@
         "releaseYear": 2012
       },
       {
-        "id": "577321900",
-        "name": "European High-Speed Trains",
+        "id": "578945240",
+        "name": "100 Sounds for Web Buttons",
         "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
@@ -4680,9 +4675,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "564276729",
-        "name": "Thunder, Lightning & Rain - 100 Nature Sounds for Relaxation and Sleep",
-        "releaseDate": "2012-09-18",
+        "id": "577508427",
+        "name": "Subways Sounds: New York City, Paris & Mexico City",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "577321900",
+        "name": "European High-Speed Trains",
+        "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
       {
@@ -4692,15 +4693,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "561626041",
-        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
-        "releaseDate": "2012-09-06",
+        "id": "564276729",
+        "name": "Thunder, Lightning & Rain - 100 Nature Sounds for Relaxation and Sleep",
+        "releaseDate": "2012-09-18",
         "releaseYear": 2012
       },
       {
-        "id": "552533343",
-        "name": "Trains - 101 Locomotives, Subways & Stations",
-        "releaseDate": "2012-08-01",
+        "id": "561626041",
+        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
+        "releaseDate": "2012-09-06",
         "releaseYear": 2012
       },
       {
@@ -4712,12 +4713,6 @@
       {
         "id": "552442759",
         "name": "Sounds of Animals: Apes, Gorillas and Monkeys",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552582246",
-        "name": "100+ Telephone Sounds",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4748,6 +4743,18 @@
       {
         "id": "552589645",
         "name": "Voices of God: Sounds of Religions Around the World",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552582246",
+        "name": "100+ Telephone Sounds",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552533343",
+        "name": "Trains - 101 Locomotives, Subways & Stations",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4788,18 +4795,6 @@
         "releaseYear": 2010
       },
       {
-        "id": "355137685",
-        "name": "Soothing Sounds of Nature: Relaxing Rain",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354751031",
-        "name": "Soothing Sounds of Nature: Campfire",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
         "id": "354587038",
         "name": "Soothing Sounds of Nature: Tranquil Sleep",
         "releaseDate": "2010-01-15",
@@ -4820,6 +4815,18 @@
       {
         "id": "354750223",
         "name": "Soothing Sounds of Nature: Rivers & Waterfalls",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "355137685",
+        "name": "Soothing Sounds of Nature: Relaxing Rain",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "354751031",
+        "name": "Soothing Sounds of Nature: Campfire",
         "releaseDate": "2010-01-15",
         "releaseYear": 2010
       },
