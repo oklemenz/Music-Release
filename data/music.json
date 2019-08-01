@@ -1350,6 +1350,13 @@
     "id": "88311",
     "albums": [
       {
+        "id": "1464625776",
+        "name": "Vol IV Because of the Brave",
+        "releaseDate": "2019-07-19",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1122318406",
         "name": "Divided We Fall",
         "releaseDate": "2016-08-19",
@@ -1368,9 +1375,9 @@
         "releaseYear": 2001
       }
     ],
-    "albumCount": 3,
-    "avgReleaseYear": 8,
-    "nextReleaseYear": 2024
+    "albumCount": 4,
+    "avgReleaseYear": 6,
+    "nextReleaseYear": 2025
   },
   "Foo Fighters": {
     "name": "Foo Fighters",
@@ -3335,6 +3342,13 @@
     "id": "92738",
     "albums": [
       {
+        "id": "1473168552",
+        "name": "What the Game Been Missing, Pt. 4",
+        "releaseDate": "2019-07-04",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1470318333",
         "name": "What the Game Been Missing, Pt. 3",
         "releaseDate": "2019-06-17",
@@ -3459,7 +3473,7 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 20,
+    "albumCount": 21,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2021
   },
@@ -3705,6 +3719,13 @@
     "id": "89148602",
     "albums": [
       {
+        "id": "1458771916",
+        "name": "The Space Between the Shadows",
+        "releaseDate": "2019-07-19",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1440627246",
         "name": "Proof of Life",
         "releaseDate": "2013-11-05",
@@ -3717,9 +3738,9 @@
         "releaseYear": 2005
       }
     ],
-    "albumCount": 2,
-    "avgReleaseYear": 8,
-    "nextReleaseYear": 2021
+    "albumCount": 3,
+    "avgReleaseYear": 7,
+    "nextReleaseYear": 2026
   },
   "Seether": {
     "name": "Seether",
@@ -3978,12 +3999,6 @@
     "id": "463123",
     "albums": [
       {
-        "id": "977670791",
-        "name": "Frogstomp 20th Anniversary",
-        "releaseDate": "2015-03-27",
-        "releaseYear": 2015
-      },
-      {
         "id": "259021699",
         "name": "Young Modern",
         "releaseDate": "2007-07-24",
@@ -4006,11 +4021,17 @@
         "name": "Freak Show",
         "releaseDate": "1997-01-31",
         "releaseYear": 1997
+      },
+      {
+        "id": "977670791",
+        "name": "Frogstomp 20th Anniversary",
+        "releaseDate": "1995-03-27",
+        "releaseYear": 1995
       }
     ],
     "albumCount": 5,
-    "avgReleaseYear": 5,
-    "nextReleaseYear": 2020
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2010
   },
   "Silversun Pickups": {
     "name": "Silversun Pickups",
@@ -4591,14 +4612,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "888912701",
-        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
+        "id": "888910758",
+        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
       {
-        "id": "888910758",
-        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
+        "id": "888912701",
+        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
@@ -4645,18 +4666,6 @@
         "releaseYear": 2012
       },
       {
-        "id": "578945240",
-        "name": "100 Sounds for Web Buttons",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577321208",
-        "name": "Vintage Sports Car Races: Formula V and Can-Am",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
         "id": "577305429",
         "name": "Anti-Vietnam War Demonstrations",
         "releaseDate": "2012-10-22",
@@ -4669,8 +4678,8 @@
         "releaseYear": 2012
       },
       {
-        "id": "577508427",
-        "name": "Subways Sounds: New York City, Paris & Mexico City",
+        "id": "577321208",
+        "name": "Vintage Sports Car Races: Formula V and Can-Am",
         "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
@@ -4693,9 +4702,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "564276729",
-        "name": "Thunder, Lightning & Rain - 100 Nature Sounds for Relaxation and Sleep",
-        "releaseDate": "2012-09-18",
+        "id": "578945240",
+        "name": "100 Sounds for Web Buttons",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "577508427",
+        "name": "Subways Sounds: New York City, Paris & Mexico City",
+        "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
       {
@@ -4705,15 +4720,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "561626041",
-        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
-        "releaseDate": "2012-09-06",
+        "id": "564276729",
+        "name": "Thunder, Lightning & Rain - 100 Nature Sounds for Relaxation and Sleep",
+        "releaseDate": "2012-09-18",
         "releaseYear": 2012
       },
       {
-        "id": "552442759",
-        "name": "Sounds of Animals: Apes, Gorillas and Monkeys",
-        "releaseDate": "2012-08-01",
+        "id": "561626041",
+        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
+        "releaseDate": "2012-09-06",
         "releaseYear": 2012
       },
       {
@@ -4725,12 +4740,6 @@
       {
         "id": "552465807",
         "name": "DJ Starter Kit: 100 Essential Party Sounds",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552573372",
-        "name": "Sounds of Nature: Wind",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4761,6 +4770,18 @@
       {
         "id": "552479966",
         "name": "Fast and Furious Car Sounds: 100 Crashes, Skids & Engines",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552573372",
+        "name": "Sounds of Nature: Wind",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552442759",
+        "name": "Sounds of Animals: Apes, Gorillas and Monkeys",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4801,18 +4822,6 @@
         "releaseYear": 2010
       },
       {
-        "id": "355805040",
-        "name": "Soothing Sounds of Nature: Caverns & Creeks",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354750223",
-        "name": "Soothing Sounds of Nature: Rivers & Waterfalls",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
         "id": "355137685",
         "name": "Soothing Sounds of Nature: Relaxing Rain",
         "releaseDate": "2010-01-15",
@@ -4833,6 +4842,18 @@
       {
         "id": "354739320",
         "name": "Soothing Sounds of Nature: Spa & Massage",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "355805040",
+        "name": "Soothing Sounds of Nature: Caverns & Creeks",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "354750223",
+        "name": "Soothing Sounds of Nature: Rivers & Waterfalls",
         "releaseDate": "2010-01-15",
         "releaseYear": 2010
       },
