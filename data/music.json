@@ -527,12 +527,6 @@
         "releaseYear": 2014
       },
       {
-        "id": "884916306",
-        "name": "Birds of Tokyo",
-        "releaseDate": "2010-07-23",
-        "releaseYear": 2010
-      },
-      {
         "id": "283302978",
         "name": "Universes",
         "releaseDate": "2008-07-05",
@@ -543,6 +537,12 @@
         "name": "Day One",
         "releaseDate": "2007-02-03",
         "releaseYear": 2007
+      },
+      {
+        "id": "884916306",
+        "name": "Birds of Tokyo",
+        "releaseDate": "2005-10-10",
+        "releaseYear": 2005
       }
     ],
     "albumCount": 6,
@@ -1351,7 +1351,7 @@
     "albums": [
       {
         "id": "1464625776",
-        "name": "Vol IV Because of the Brave",
+        "name": "Vol. IV Because of the Brave",
         "releaseDate": "2019-07-19",
         "releaseYear": 2019,
         "new": true
@@ -4024,12 +4024,18 @@
       },
       {
         "id": "977670791",
+        "name": "Frogstomp",
+        "releaseDate": "1995-03-27",
+        "releaseYear": 1995
+      },
+      {
+        "id": "977669545",
         "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2010
   },
@@ -4129,14 +4135,21 @@
     "id": "1750802",
     "albums": [
       {
-        "id": "1114195788",
-        "name": "Unleashed",
-        "releaseDate": "2016-08-05",
-        "releaseYear": 2016
+        "id": "1462648219",
+        "name": "Victorious",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019,
+        "new": true
       },
       {
         "id": "1312026642",
         "name": "Unleashed Beyond",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4195,9 +4208,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 11,
+    "albumCount": 12,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2021
   },
   "Skunk Anansie": {
     "name": "Skunk Anansie",
@@ -4276,6 +4289,13 @@
     "id": "5327254",
     "albums": [
       {
+        "id": "1475918226",
+        "name": "Reworked",
+        "releaseDate": "2019-09-05",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1354800246",
         "name": "Wildness",
         "releaseDate": "2018-05-25",
@@ -4324,9 +4344,9 @@
         "releaseYear": 1998
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2022
   },
   "Solstate": {
     "name": "Solstate",
@@ -4612,14 +4632,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "888910758",
-        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
+        "id": "888912701",
+        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
       {
-        "id": "888912701",
-        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
+        "id": "888910758",
+        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
@@ -4666,18 +4686,6 @@
         "releaseYear": 2012
       },
       {
-        "id": "577305429",
-        "name": "Anti-Vietnam War Demonstrations",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577307927",
-        "name": "Bullfights!",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
         "id": "577321208",
         "name": "Vintage Sports Car Races: Formula V and Can-Am",
         "releaseDate": "2012-10-22",
@@ -4690,8 +4698,8 @@
         "releaseYear": 2012
       },
       {
-        "id": "577516532",
-        "name": "Vintage Cars",
+        "id": "577307927",
+        "name": "Bullfights!",
         "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
@@ -4714,9 +4722,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "564274493",
-        "name": "100 Sports Sounds: Football, Hockey, Baseball, Arena Crowds and More",
-        "releaseDate": "2012-09-18",
+        "id": "577305429",
+        "name": "Anti-Vietnam War Demonstrations",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "577516532",
+        "name": "Vintage Cars",
+        "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
       {
@@ -4726,15 +4740,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "561626041",
-        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
-        "releaseDate": "2012-09-06",
+        "id": "564274493",
+        "name": "100 Sports Sounds: Football, Hockey, Baseball, Arena Crowds and More",
+        "releaseDate": "2012-09-18",
         "releaseYear": 2012
       },
       {
-        "id": "552594387",
-        "name": "Sounds of Animals: Lions, Tigers and Bears",
-        "releaseDate": "2012-08-01",
+        "id": "561626041",
+        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
+        "releaseDate": "2012-09-06",
         "releaseYear": 2012
       },
       {
@@ -4746,12 +4760,6 @@
       {
         "id": "552589645",
         "name": "Voices of God: Sounds of Religions Around the World",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552582246",
-        "name": "100+ Telephone Sounds",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4782,6 +4790,18 @@
       {
         "id": "552442759",
         "name": "Sounds of Animals: Apes, Gorillas and Monkeys",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552582246",
+        "name": "100+ Telephone Sounds",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552594387",
+        "name": "Sounds of Animals: Lions, Tigers and Bears",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4822,18 +4842,6 @@
         "releaseYear": 2010
       },
       {
-        "id": "355137685",
-        "name": "Soothing Sounds of Nature: Relaxing Rain",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354751031",
-        "name": "Soothing Sounds of Nature: Campfire",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
         "id": "354587038",
         "name": "Soothing Sounds of Nature: Tranquil Sleep",
         "releaseDate": "2010-01-15",
@@ -4854,6 +4862,18 @@
       {
         "id": "354750223",
         "name": "Soothing Sounds of Nature: Rivers & Waterfalls",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "355137685",
+        "name": "Soothing Sounds of Nature: Relaxing Rain",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "354751031",
+        "name": "Soothing Sounds of Nature: Campfire",
         "releaseDate": "2010-01-15",
         "releaseYear": 2010
       },
