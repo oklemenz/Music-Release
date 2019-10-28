@@ -238,6 +238,13 @@
     "id": "73789273",
     "albums": [
       {
+        "id": "1468535263",
+        "name": "Walk the Sky",
+        "releaseDate": "2019-10-18",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1440932161",
         "name": "The Last Hero",
         "releaseDate": "2016-10-07",
@@ -268,9 +275,9 @@
         "releaseYear": 2004
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Anberlin": {
     "name": "Anberlin",
@@ -527,6 +534,12 @@
         "releaseYear": 2014
       },
       {
+        "id": "884916306",
+        "name": "Birds of Tokyo",
+        "releaseDate": "2010-07-23",
+        "releaseYear": 2010
+      },
+      {
         "id": "283302978",
         "name": "Universes",
         "releaseDate": "2008-07-05",
@@ -537,12 +550,6 @@
         "name": "Day One",
         "releaseDate": "2007-02-03",
         "releaseYear": 2007
-      },
-      {
-        "id": "884916306",
-        "name": "Birds of Tokyo",
-        "releaseDate": "2005-10-10",
-        "releaseYear": 2005
       }
     ],
     "albumCount": 6,
@@ -821,6 +828,13 @@
     "id": "435825401",
     "albums": [
       {
+        "id": "1466595224",
+        "name": "The Things We Can't Stop",
+        "releaseDate": "2019-09-13",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "735200840",
         "name": "Superfiction",
         "releaseDate": "2011-07-19",
@@ -851,9 +865,9 @@
         "releaseYear": 1998
       }
     ],
-    "albumCount": 5,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2014
+    "albumCount": 6,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2023
   },
   "Creed": {
     "name": "Creed",
@@ -2023,6 +2037,13 @@
     "id": "3446973",
     "albums": [
       {
+        "id": "1480411285",
+        "name": "Surviving",
+        "releaseDate": "2019-10-18",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1147844543",
         "name": "Integrity Blues",
         "releaseDate": "2016-10-21",
@@ -2071,9 +2092,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Karnivool": {
     "name": "Karnivool",
@@ -2314,6 +2335,13 @@
     "id": "23533743",
     "albums": [
       {
+        "id": "1465880731",
+        "name": "Bang",
+        "releaseDate": "2019-10-18",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1214964095",
         "name": "Good Times",
         "releaseDate": "2017-05-12",
@@ -2350,9 +2378,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 6,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2021
+    "albumCount": 7,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2022
   },
   "Matchbox Twenty": {
     "name": "Matchbox Twenty",
@@ -3518,13 +3546,19 @@
         "releaseYear": 2009
       },
       {
+        "id": "1478777278",
+        "name": "Innocence and Instinct",
+        "releaseDate": "2009-02-10",
+        "releaseYear": 2009
+      },
+      {
         "id": "373429738",
         "name": "End of Silence",
         "releaseDate": "2006-06-06",
         "releaseYear": 2006
       }
     ],
-    "albumCount": 7,
+    "albumCount": 8,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2019
   },
@@ -3704,15 +3738,22 @@
     "id": "994032832",
     "albums": [
       {
+        "id": "1478636853",
+        "name": "Flawed Design",
+        "releaseDate": "2019-10-25",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1010805294",
         "name": "Saint Asonia",
         "releaseDate": "2015-07-31",
         "releaseYear": 2015
       }
     ],
-    "albumCount": 1,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2018
+    "albumCount": 2,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2023
   },
   "Scott Stapp": {
     "name": "Scott Stapp",
@@ -4142,14 +4183,14 @@
         "new": true
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4464,6 +4505,13 @@
     "id": "669248603",
     "albums": [
       {
+        "id": "1475690064",
+        "name": "Divisions",
+        "releaseDate": "2019-09-13",
+        "releaseYear": 2019,
+        "new": true
+      },
+      {
         "id": "1423748662",
         "name": "Vessels 2.0",
         "releaseDate": "2018-09-28",
@@ -4482,9 +4530,9 @@
         "releaseYear": 2014
       }
     ],
-    "albumCount": 3,
+    "albumCount": 4,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2021
   },
   "System Of A Down": {
     "name": "System Of A Down",
@@ -4632,14 +4680,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "888912701",
-        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
+        "id": "888910758",
+        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
       {
-        "id": "888910758",
-        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
+        "id": "888912701",
+        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
         "releaseDate": "2014-06-11",
         "releaseYear": 2014
       },
@@ -4686,18 +4734,6 @@
         "releaseYear": 2012
       },
       {
-        "id": "577321208",
-        "name": "Vintage Sports Car Races: Formula V and Can-Am",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577321900",
-        "name": "European High-Speed Trains",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
         "id": "577307927",
         "name": "Bullfights!",
         "releaseDate": "2012-10-22",
@@ -4710,8 +4746,8 @@
         "releaseYear": 2012
       },
       {
-        "id": "578945240",
-        "name": "100 Sounds for Web Buttons",
+        "id": "577321900",
+        "name": "European High-Speed Trains",
         "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
@@ -4734,9 +4770,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "564276729",
-        "name": "Thunder, Lightning & Rain - 100 Nature Sounds for Relaxation and Sleep",
-        "releaseDate": "2012-09-18",
+        "id": "577321208",
+        "name": "Vintage Sports Car Races: Formula V and Can-Am",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "578945240",
+        "name": "100 Sounds for Web Buttons",
+        "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
       {
@@ -4746,15 +4788,15 @@
         "releaseYear": 2012
       },
       {
-        "id": "561626041",
-        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
-        "releaseDate": "2012-09-06",
+        "id": "564276729",
+        "name": "Thunder, Lightning & Rain - 100 Nature Sounds for Relaxation and Sleep",
+        "releaseDate": "2012-09-18",
         "releaseYear": 2012
       },
       {
-        "id": "552465807",
-        "name": "DJ Starter Kit: 100 Essential Party Sounds",
-        "releaseDate": "2012-08-01",
+        "id": "561626041",
+        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
+        "releaseDate": "2012-09-06",
         "releaseYear": 2012
       },
       {
@@ -4766,12 +4808,6 @@
       {
         "id": "552533343",
         "name": "Trains - 101 Locomotives, Subways & Stations",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552095582",
-        "name": "Sounds of Animals: Exotic Animals of the World",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4802,6 +4838,18 @@
       {
         "id": "552594387",
         "name": "Sounds of Animals: Lions, Tigers and Bears",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552095582",
+        "name": "Sounds of Animals: Exotic Animals of the World",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552465807",
+        "name": "DJ Starter Kit: 100 Essential Party Sounds",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4842,18 +4890,6 @@
         "releaseYear": 2010
       },
       {
-        "id": "354587038",
-        "name": "Soothing Sounds of Nature: Tranquil Sleep",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354739320",
-        "name": "Soothing Sounds of Nature: Spa & Massage",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
         "id": "355805040",
         "name": "Soothing Sounds of Nature: Caverns & Creeks",
         "releaseDate": "2010-01-15",
@@ -4874,6 +4910,18 @@
       {
         "id": "354751031",
         "name": "Soothing Sounds of Nature: Campfire",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "354587038",
+        "name": "Soothing Sounds of Nature: Tranquil Sleep",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "354739320",
+        "name": "Soothing Sounds of Nature: Spa & Massage",
         "releaseDate": "2010-01-15",
         "releaseYear": 2010
       },
