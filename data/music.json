@@ -238,6 +238,12 @@
     "id": "73789273",
     "albums": [
       {
+        "id": "1468535263",
+        "name": "Walk the Sky",
+        "releaseDate": "2019-10-18",
+        "releaseYear": 2019
+      },
+      {
         "id": "1440932161",
         "name": "The Last Hero",
         "releaseDate": "2016-10-07",
@@ -268,9 +274,9 @@
         "releaseYear": 2004
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Anberlin": {
     "name": "Anberlin",
@@ -397,8 +403,7 @@
         "id": "1463046316",
         "name": "Balance, Not Symmetry",
         "releaseDate": "2019-05-17",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1093554521",
@@ -575,6 +580,12 @@
     "id": "272504711",
     "albums": [
       {
+        "id": "1484942152",
+        "name": "While a Nation Sleeps",
+        "releaseDate": "2019-11-08",
+        "releaseYear": 2019
+      },
+      {
         "id": "1442908632",
         "name": "BoySetsFire",
         "releaseDate": "2015-09-25",
@@ -605,9 +616,9 @@
         "releaseYear": 2000
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 4,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2023
   },
   "Breaking Benjamin": {
     "name": "Breaking Benjamin",
@@ -821,6 +832,12 @@
     "id": "435825401",
     "albums": [
       {
+        "id": "1466595224",
+        "name": "The Things We Can't Stop",
+        "releaseDate": "2019-09-13",
+        "releaseYear": 2019
+      },
+      {
         "id": "735200840",
         "name": "Superfiction",
         "releaseDate": "2011-07-19",
@@ -851,9 +868,9 @@
         "releaseYear": 1998
       }
     ],
-    "albumCount": 5,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2014
+    "albumCount": 6,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2023
   },
   "Creed": {
     "name": "Creed",
@@ -1130,8 +1147,7 @@
         "id": "1439380906",
         "name": "Peach Club",
         "releaseDate": "2019-02-08",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1106626995",
@@ -1351,10 +1367,9 @@
     "albums": [
       {
         "id": "1464625776",
-        "name": "Vol IV Because of the Brave",
+        "name": "Vol. IV Because of the Brave",
         "releaseDate": "2019-07-19",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1122318406",
@@ -1416,8 +1431,8 @@
       {
         "id": "538257183",
         "name": "One By One",
-        "releaseDate": "2003-05-19",
-        "releaseYear": 2003
+        "releaseDate": "2002-10-22",
+        "releaseYear": 2002
       },
       {
         "id": "278229648",
@@ -2023,6 +2038,12 @@
     "id": "3446973",
     "albums": [
       {
+        "id": "1480411285",
+        "name": "Surviving",
+        "releaseDate": "2019-10-18",
+        "releaseYear": 2019
+      },
+      {
         "id": "1147844543",
         "name": "Integrity Blues",
         "releaseDate": "2016-10-21",
@@ -2071,9 +2092,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Karnivool": {
     "name": "Karnivool",
@@ -2314,6 +2335,12 @@
     "id": "23533743",
     "albums": [
       {
+        "id": "1465880731",
+        "name": "Bang",
+        "releaseDate": "2019-10-18",
+        "releaseYear": 2019
+      },
+      {
         "id": "1214964095",
         "name": "Good Times",
         "releaseDate": "2017-05-12",
@@ -2350,9 +2377,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 6,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2021
+    "albumCount": 7,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2022
   },
   "Matchbox Twenty": {
     "name": "Matchbox Twenty",
@@ -2453,8 +2480,8 @@
       },
       {
         "id": "1442427327",
-        "name": "White Light Rock and Roll Review",
-        "releaseDate": "2004-01-01",
+        "name": "White Light Rock & Roll Review",
+        "releaseDate": "2004-06-08",
         "releaseYear": 2004
       },
       {
@@ -2476,8 +2503,7 @@
         "id": "1447698969",
         "name": "Warheads on Foreheads",
         "releaseDate": "2019-03-22",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1440841141",
@@ -2828,8 +2854,7 @@
         "id": "1450991412",
         "name": "North 6th Street",
         "releaseDate": "2019-01-15",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1060672639",
@@ -2976,6 +3001,12 @@
         "releaseYear": 2007
       },
       {
+        "id": "1491273397",
+        "name": "To the Pain",
+        "releaseDate": "2005-11-08",
+        "releaseYear": 2005
+      },
+      {
         "id": "19441449",
         "name": "Recoil",
         "releaseDate": "2004-07-13",
@@ -3000,7 +3031,7 @@
         "releaseYear": 1998
       }
     ],
-    "albumCount": 10,
+    "albumCount": 11,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2020
   },
@@ -3012,8 +3043,7 @@
         "id": "1439662793",
         "name": "Who Do You Trust?",
         "releaseDate": "2019-01-18",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1216827755",
@@ -3085,8 +3115,7 @@
         "id": "1463110301",
         "name": "The Rose Avail",
         "releaseDate": "2019-05-21",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1164979795",
@@ -3137,8 +3166,7 @@
         "id": "1458925643",
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "releaseDate": "2019-05-02",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1385238435",
@@ -3345,36 +3373,31 @@
         "id": "1473168552",
         "name": "What the Game Been Missing, Pt. 4",
         "releaseDate": "2019-07-04",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1470318333",
         "name": "What the Game Been Missing, Pt. 3",
         "releaseDate": "2019-06-17",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1462991528",
         "name": "What the Game Been Missing",
         "releaseDate": "2019-05-12",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1462998610",
         "name": "What the Game Been Missing 1",
         "releaseDate": "2019-04-21",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1454520292",
         "name": "Fto",
         "releaseDate": "2019-02-28",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1158803471",
@@ -3518,13 +3541,19 @@
         "releaseYear": 2009
       },
       {
+        "id": "1478777278",
+        "name": "Innocence and Instinct",
+        "releaseDate": "2009-02-10",
+        "releaseYear": 2009
+      },
+      {
         "id": "373429738",
         "name": "End of Silence",
         "releaseDate": "2006-06-06",
         "releaseYear": 2006
       }
     ],
-    "albumCount": 7,
+    "albumCount": 8,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2019
   },
@@ -3704,15 +3733,21 @@
     "id": "994032832",
     "albums": [
       {
+        "id": "1478636853",
+        "name": "Flawed Design",
+        "releaseDate": "2019-10-25",
+        "releaseYear": 2019
+      },
+      {
         "id": "1010805294",
         "name": "Saint Asonia",
         "releaseDate": "2015-07-31",
         "releaseYear": 2015
       }
     ],
-    "albumCount": 1,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2018
+    "albumCount": 2,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2023
   },
   "Scott Stapp": {
     "name": "Scott Stapp",
@@ -3722,8 +3757,7 @@
         "id": "1458771916",
         "name": "The Space Between the Shadows",
         "releaseDate": "2019-07-19",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1440627246",
@@ -4024,12 +4058,18 @@
       },
       {
         "id": "977670791",
+        "name": "Frogstomp",
+        "releaseDate": "1995-03-27",
+        "releaseYear": 1995
+      },
+      {
+        "id": "977669545",
         "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2010
   },
@@ -4041,8 +4081,7 @@
         "id": "1457912926",
         "name": "Widow's Weeds",
         "releaseDate": "2019-06-07",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1018026467",
@@ -4129,6 +4168,12 @@
     "id": "1750802",
     "albums": [
       {
+        "id": "1462648219",
+        "name": "Victorious",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019
+      },
+      {
         "id": "1114195788",
         "name": "Unleashed",
         "releaseDate": "2016-08-05",
@@ -4195,9 +4240,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 11,
+    "albumCount": 12,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2021
   },
   "Skunk Anansie": {
     "name": "Skunk Anansie",
@@ -4276,6 +4321,12 @@
     "id": "5327254",
     "albums": [
       {
+        "id": "1479031083",
+        "name": "Reworked",
+        "releaseDate": "2019-11-01",
+        "releaseYear": 2019
+      },
+      {
         "id": "1354800246",
         "name": "Wildness",
         "releaseDate": "2018-05-25",
@@ -4324,14 +4375,26 @@
         "releaseYear": 1998
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2022
   },
   "Solstate": {
     "name": "Solstate",
     "id": "57942894",
     "albums": [
+      {
+        "id": "1492096937",
+        "name": "Winter Solstice Yoga Tracks - Music to Set Intentions & Slow Down",
+        "releaseDate": "2019-12-18",
+        "releaseYear": 2019
+      },
+      {
+        "id": "1487941536",
+        "name": "The Weather is Cold Outside – Cozy Up With 22 Songs of Smooth Jazz, Winter Café Music",
+        "releaseDate": "2019-11-13",
+        "releaseYear": 2019
+      },
       {
         "id": "1445425250",
         "name": "Winter Solstice – Gentle and Slow Piano Music and Christmas Traditionals for Winter Time",
@@ -4369,30 +4432,9 @@
         "releaseYear": 2005
       }
     ],
-    "albumCount": 6,
+    "albumCount": 8,
     "avgReleaseYear": 4,
-    "nextReleaseYear": 2022
-  },
-  "Stage": {
-    "name": "Stage",
-    "id": "585837319",
-    "albums": [
-      {
-        "id": "1260528980",
-        "name": "Morse Code",
-        "releaseDate": "2017-07-21",
-        "releaseYear": 2017
-      },
-      {
-        "id": "1434900742",
-        "name": "Remember Me",
-        "releaseDate": "2014-03-25",
-        "releaseYear": 2014
-      }
-    ],
-    "albumCount": 2,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2023
   },
   "Staind": {
     "name": "Staind",
@@ -4444,6 +4486,12 @@
     "id": "669248603",
     "albums": [
       {
+        "id": "1475690064",
+        "name": "Divisions",
+        "releaseDate": "2019-09-13",
+        "releaseYear": 2019
+      },
+      {
         "id": "1423748662",
         "name": "Vessels 2.0",
         "releaseDate": "2018-09-28",
@@ -4462,9 +4510,9 @@
         "releaseYear": 2014
       }
     ],
-    "albumCount": 3,
+    "albumCount": 4,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2021
   },
   "System Of A Down": {
     "name": "System Of A Down",
@@ -4666,32 +4714,8 @@
         "releaseYear": 2012
       },
       {
-        "id": "577305429",
-        "name": "Anti-Vietnam War Demonstrations",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
         "id": "577307927",
         "name": "Bullfights!",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577321208",
-        "name": "Vintage Sports Car Races: Formula V and Can-Am",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577321900",
-        "name": "European High-Speed Trains",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577516532",
-        "name": "Vintage Cars",
         "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
@@ -4702,14 +4726,38 @@
         "releaseYear": 2012
       },
       {
-        "id": "578945240",
-        "name": "100 Sounds for Web Buttons",
+        "id": "577321900",
+        "name": "European High-Speed Trains",
         "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
       {
         "id": "577508427",
         "name": "Subways Sounds: New York City, Paris & Mexico City",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "577305429",
+        "name": "Anti-Vietnam War Demonstrations",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "577516532",
+        "name": "Vintage Cars",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "577321208",
+        "name": "Vintage Sports Car Races: Formula V and Can-Am",
+        "releaseDate": "2012-10-22",
+        "releaseYear": 2012
+      },
+      {
+        "id": "578945240",
+        "name": "100 Sounds for Web Buttons",
         "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
@@ -4732,38 +4780,14 @@
         "releaseYear": 2012
       },
       {
-        "id": "552594387",
-        "name": "Sounds of Animals: Lions, Tigers and Bears",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552465807",
-        "name": "DJ Starter Kit: 100 Essential Party Sounds",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
         "id": "552589645",
         "name": "Voices of God: Sounds of Religions Around the World",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
       {
-        "id": "552582246",
-        "name": "100+ Telephone Sounds",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
         "id": "552533343",
         "name": "Trains - 101 Locomotives, Subways & Stations",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552095582",
-        "name": "Sounds of Animals: Exotic Animals of the World",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4782,6 +4806,30 @@
       {
         "id": "552442759",
         "name": "Sounds of Animals: Apes, Gorillas and Monkeys",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552582246",
+        "name": "100+ Telephone Sounds",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552594387",
+        "name": "Sounds of Animals: Lions, Tigers and Bears",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552095582",
+        "name": "Sounds of Animals: Exotic Animals of the World",
+        "releaseDate": "2012-08-01",
+        "releaseYear": 2012
+      },
+      {
+        "id": "552465807",
+        "name": "DJ Starter Kit: 100 Essential Party Sounds",
         "releaseDate": "2012-08-01",
         "releaseYear": 2012
       },
@@ -4822,6 +4870,18 @@
         "releaseYear": 2010
       },
       {
+        "id": "355805040",
+        "name": "Soothing Sounds of Nature: Caverns & Creeks",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
+        "id": "354750223",
+        "name": "Soothing Sounds of Nature: Rivers & Waterfalls",
+        "releaseDate": "2010-01-15",
+        "releaseYear": 2010
+      },
+      {
         "id": "355137685",
         "name": "Soothing Sounds of Nature: Relaxing Rain",
         "releaseDate": "2010-01-15",
@@ -4842,18 +4902,6 @@
       {
         "id": "354739320",
         "name": "Soothing Sounds of Nature: Spa & Massage",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "355805040",
-        "name": "Soothing Sounds of Nature: Caverns & Creeks",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354750223",
-        "name": "Soothing Sounds of Nature: Rivers & Waterfalls",
         "releaseDate": "2010-01-15",
         "releaseYear": 2010
       },
@@ -5164,8 +5212,7 @@
         "id": "1442329821",
         "name": "Weezer",
         "releaseDate": "2019-03-01",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1270328038",
