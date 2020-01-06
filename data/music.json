@@ -241,12 +241,7 @@
         "id": "1468535263",
         "name": "Walk the Sky",
         "releaseDate": "2019-10-18",
-<<<<<<< HEAD
         "releaseYear": 2019
-=======
-        "releaseYear": 2019,
-        "new": true
->>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1440932161",
@@ -411,7 +406,7 @@
         "releaseYear": 2019
       },
       {
-        "id": "1093554521",
+        "id": "1093522308",
         "name": "Ellipsis",
         "releaseDate": "2016-01-13",
         "releaseYear": 2016
@@ -423,7 +418,7 @@
         "releaseYear": 2014
       },
       {
-        "id": "593640443",
+        "id": "593640442",
         "name": "Opposites",
         "releaseDate": "2013-01-28",
         "releaseYear": 2013
@@ -714,14 +709,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306255070",
-        "name": "Sixteen Stone",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306255070",
+        "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -840,12 +835,7 @@
         "id": "1466595224",
         "name": "The Things We Can't Stop",
         "releaseDate": "2019-09-13",
-<<<<<<< HEAD
         "releaseYear": 2019
-=======
-        "releaseYear": 2019,
-        "new": true
->>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "735200840",
@@ -860,9 +850,9 @@
         "releaseYear": 2005
       },
       {
-        "id": "1443937544",
+        "id": "1488013267",
         "name": "Year of the Spider",
-        "releaseDate": "2003-04-29",
+        "releaseDate": "2003-05-13",
         "releaseYear": 2003
       },
       {
@@ -1025,26 +1015,8 @@
   },
   "Die Happy": {
     "name": "Die Happy",
-    "id": "19322418",
+    "id": "1477546234",
     "albums": [
-      {
-        "id": "816244891",
-        "name": "Everlove",
-        "releaseDate": "2014-02-28",
-        "releaseYear": 2014
-      },
-      {
-        "id": "448494887",
-        "name": "Red Box",
-        "releaseDate": "2011-01-01",
-        "releaseYear": 2011
-      },
-      {
-        "id": "200310382",
-        "name": "No Nuts No Glory",
-        "releaseDate": "2006-10-20",
-        "releaseYear": 2006
-      },
       {
         "id": "386367326",
         "name": "Die Happy, Vol. ll",
@@ -1058,9 +1030,9 @@
         "releaseYear": 1992
       }
     ],
-    "albumCount": 5,
-    "avgReleaseYear": 6,
-    "nextReleaseYear": 2020
+    "albumCount": 2,
+    "avgReleaseYear": 1,
+    "nextReleaseYear": 1994
   },
   "Downplay": {
     "name": "Downplay",
@@ -1523,14 +1495,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "581055251",
-        "name": "Uno . . . Dos . . . Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno . . . Dos . . . Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -1541,7 +1513,7 @@
         "releaseYear": 2012
       },
       {
-        "id": "1156547094",
+        "id": "543017209",
         "name": "¡Uno!",
         "releaseDate": "2012-09-21",
         "releaseYear": 2012
@@ -1628,10 +1600,10 @@
         "releaseYear": 2018
       },
       {
-        "id": "1444091892",
+        "id": "1485748878",
         "name": "Fo",
-        "releaseDate": "2008-01-01",
-        "releaseYear": 2008
+        "releaseDate": "2009-01-27",
+        "releaseYear": 2009
       },
       {
         "id": "1458823562",
@@ -1640,16 +1612,16 @@
         "releaseYear": 2006
       },
       {
-        "id": "1440886574",
+        "id": "1475169019",
         "name": "The Reason",
-        "releaseDate": "2004-04-27",
-        "releaseYear": 2004
+        "releaseDate": "2003-12-09",
+        "releaseYear": 2003
       },
       {
-        "id": "1458821723",
+        "id": "1488043867",
         "name": "Hoobastank",
-        "releaseDate": "2001-11-20",
-        "releaseYear": 2001
+        "releaseDate": "2002-07-09",
+        "releaseYear": 2002
       }
     ],
     "albumCount": 5,
@@ -1898,15 +1870,15 @@
         "releaseYear": 2011
       },
       {
-        "id": "322981206",
+        "id": "315710875",
         "name": "Monuments and Melodies",
-        "releaseDate": "2009-06-30",
+        "releaseDate": "2009-06-16",
         "releaseYear": 2009
       },
       {
-        "id": "204771647",
+        "id": "204285054",
         "name": "Light Grenades",
-        "releaseDate": "2006-11-22",
+        "releaseDate": "2006-11-28",
         "releaseYear": 2006
       },
       {
@@ -2051,8 +2023,7 @@
         "id": "1480411285",
         "name": "Surviving",
         "releaseDate": "2019-10-18",
-        "releaseYear": 2019,
-        "new": true
+        "releaseYear": 2019
       },
       {
         "id": "1147844543",
@@ -2067,15 +2038,15 @@
         "releaseYear": 2013
       },
       {
-        "id": "1443237855",
+        "id": "1443172954",
         "name": "Invented",
         "releaseDate": "2010-09-28",
         "releaseYear": 2010
       },
       {
-        "id": "1443132489",
+        "id": "1482097551",
         "name": "Chase This Light",
-        "releaseDate": "2007-01-01",
+        "releaseDate": "2007-10-16",
         "releaseYear": 2007
       },
       {
@@ -2085,9 +2056,9 @@
         "releaseYear": 2004
       },
       {
-        "id": "278780762",
+        "id": "1450030107",
         "name": "Bleed American",
-        "releaseDate": "2001-07-24",
+        "releaseDate": "2001-07-17",
         "releaseYear": 2001
       },
       {
@@ -2154,8 +2125,8 @@
     "id": "1883403",
     "albums": [
       {
-        "id": "1151618558",
-        "name": "WALLS",
+        "id": "1487726834",
+        "name": "Walls",
         "releaseDate": "2016-10-14",
         "releaseYear": 2016
       },
@@ -2184,7 +2155,7 @@
         "releaseYear": 2007
       },
       {
-        "id": "1107320733",
+        "id": "1482424654",
         "name": "Aha Shake Heartbreak",
         "releaseDate": "2005-02-22",
         "releaseYear": 2005
@@ -2274,6 +2245,12 @@
     "id": "61027",
     "albums": [
       {
+        "id": "1464574790",
+        "name": "Throwing Copper",
+        "releaseDate": "2019-07-19",
+        "releaseYear": 2019
+      },
+      {
         "id": "155809212",
         "name": "Songs from Black Mountain",
         "releaseDate": "2006-04-12",
@@ -2304,12 +2281,6 @@
         "releaseYear": 1997
       },
       {
-        "id": "1440486977",
-        "name": "Throwing Copper",
-        "releaseDate": "1994-04-19",
-        "releaseYear": 1994
-      },
-      {
         "id": "1440745582",
         "name": "Mental Jewelry",
         "releaseDate": "1991-01-01",
@@ -2317,29 +2288,16 @@
       }
     ],
     "albumCount": 7,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2009
+    "avgReleaseYear": 5,
+    "nextReleaseYear": 2024
   },
   "Livingston": {
     "name": "Livingston",
-    "id": "2083407",
-    "albums": [
-      {
-        "id": "1448361596",
-        "name": "Animal",
-        "releaseDate": "2014-09-19",
-        "releaseYear": 2014
-      },
-      {
-        "id": "312479410",
-        "name": "Livingston",
-        "releaseDate": "2009-04-01",
-        "releaseYear": 2009
-      }
-    ],
-    "albumCount": 2,
-    "avgReleaseYear": 5,
-    "nextReleaseYear": 2019
+    "id": "1248559439",
+    "albums": [],
+    "albumCount": 0,
+    "avgReleaseYear": 0,
+    "nextReleaseYear": 0
   },
   "Mando Diao": {
     "name": "Mando Diao",
@@ -2349,12 +2307,7 @@
         "id": "1465880731",
         "name": "Bang",
         "releaseDate": "2019-10-18",
-<<<<<<< HEAD
         "releaseYear": 2019
-=======
-        "releaseYear": 2019,
-        "new": true
->>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1214964095",
@@ -2495,19 +2448,13 @@
         "releaseYear": 2004
       },
       {
-        "id": "1442427327",
-        "name": "White Light Rock & Roll Review",
-        "releaseDate": "2004-06-08",
-        "releaseYear": 2004
-      },
-      {
         "id": "259588991",
         "name": "Avalanche",
         "releaseDate": "2003-03-04",
         "releaseYear": 2003
       }
     ],
-    "albumCount": 11,
+    "albumCount": 10,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2019
   },
@@ -2540,7 +2487,7 @@
         "releaseYear": 2011
       },
       {
-        "id": "1457087816",
+        "id": "326880587",
         "name": "Endgame",
         "releaseDate": "2009-09-15",
         "releaseYear": 2009
@@ -2558,13 +2505,13 @@
         "releaseYear": 2007
       },
       {
-        "id": "1457085894",
+        "id": "253304078",
         "name": "United Abominations",
         "releaseDate": "2007-05-15",
         "releaseYear": 2007
       },
       {
-        "id": "1143702970",
+        "id": "1446895949",
         "name": "The System Has Failed",
         "releaseDate": "2004-09-14",
         "releaseYear": 2004
@@ -2645,7 +2592,7 @@
     "id": "3996865",
     "albums": [
       {
-        "id": "1145497823",
+        "id": "1145498274",
         "name": "Hardwired…To Self-Destruct",
         "releaseDate": "2016-11-18",
         "releaseYear": 2016
@@ -2711,7 +2658,7 @@
         "releaseYear": 1987
       },
       {
-        "id": "1275600311",
+        "id": "1275551221",
         "name": "Master of Puppets",
         "releaseDate": "1986-03-03",
         "releaseYear": 1986
@@ -2723,7 +2670,7 @@
         "releaseYear": 1984
       },
       {
-        "id": "1102908633",
+        "id": "579146130",
         "name": "Kill 'Em All",
         "releaseDate": "1983-07-25",
         "releaseYear": 1983
@@ -2807,7 +2754,7 @@
     "id": "376269554",
     "albums": [
       {
-        "id": "1443218796",
+        "id": "1443177843",
         "name": "Maximum Balloon",
         "releaseDate": "2010-01-01",
         "releaseYear": 2010
@@ -2942,13 +2889,7 @@
         "releaseYear": 2002
       },
       {
-        "id": "1440917165",
-        "name": "From the Muddy Banks of the Wishkah",
-        "releaseDate": "1996-10-01",
-        "releaseYear": 1996
-      },
-      {
-        "id": "1440875565",
+        "id": "1440858699",
         "name": "In Utero",
         "releaseDate": "1993-09-21",
         "releaseYear": 1993
@@ -2960,7 +2901,7 @@
         "releaseYear": 1992
       },
       {
-        "id": "1440783122",
+        "id": "1440783617",
         "name": "Nevermind",
         "releaseDate": "1991-09-24",
         "releaseYear": 1991
@@ -2972,7 +2913,7 @@
         "releaseYear": 1989
       }
     ],
-    "albumCount": 7,
+    "albumCount": 6,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2007
   },
@@ -3023,7 +2964,7 @@
         "releaseYear": 2005
       },
       {
-        "id": "19441449",
+        "id": "19441261",
         "name": "Recoil",
         "releaseDate": "2004-07-13",
         "releaseYear": 2004
@@ -3185,7 +3126,7 @@
         "releaseYear": 2019
       },
       {
-        "id": "1385238435",
+        "id": "1385508963",
         "name": "Runaway",
         "releaseDate": "2018-08-31",
         "releaseYear": 2018
@@ -3197,7 +3138,7 @@
         "releaseYear": 2017
       },
       {
-        "id": "1124194736",
+        "id": "1124241267",
         "name": "Young as the Morning, Old as the Sea",
         "releaseDate": "2016-09-23",
         "releaseYear": 2016
@@ -3215,9 +3156,9 @@
         "releaseYear": 2014
       },
       {
-        "id": "1231153273",
+        "id": "1484724248",
         "name": "All the Little Lights",
-        "releaseDate": "2012-06-29",
+        "releaseDate": "2012-10-22",
         "releaseYear": 2012
       },
       {
@@ -3521,7 +3462,7 @@
     "id": "214135551",
     "albums": [
       {
-        "id": "1285526524",
+        "id": "1285528018",
         "name": "Gone",
         "releaseDate": "2017-10-27",
         "releaseYear": 2017
@@ -3539,7 +3480,7 @@
         "releaseYear": 2014
       },
       {
-        "id": "582359716",
+        "id": "582354916",
         "name": "Release the Panic",
         "releaseDate": "2013-02-01",
         "releaseYear": 2013
@@ -3608,7 +3549,7 @@
         "releaseYear": 1999
       },
       {
-        "id": "945571209",
+        "id": "948454039",
         "name": "One Hot Minute",
         "releaseDate": "1995-09-12",
         "releaseYear": 1995
@@ -3683,7 +3624,7 @@
         "releaseYear": 2011
       },
       {
-        "id": "1440789969",
+        "id": "1440851524",
         "name": "Appeal to Reason",
         "releaseDate": "2008-10-07",
         "releaseYear": 2008
@@ -3695,7 +3636,7 @@
         "releaseYear": 2006
       },
       {
-        "id": "1440783520",
+        "id": "1440852654",
         "name": "Siren Song of the Counter Culture",
         "releaseDate": "2004-08-10",
         "releaseYear": 2004
@@ -3752,12 +3693,7 @@
         "id": "1478636853",
         "name": "Flawed Design",
         "releaseDate": "2019-10-25",
-<<<<<<< HEAD
         "releaseYear": 2019
-=======
-        "releaseYear": 2019,
-        "new": true
->>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1010805294",
@@ -3838,13 +3774,13 @@
         "releaseYear": 2005
       },
       {
-        "id": "1440651857",
+        "id": "1444000694",
         "name": "Disclaimer II",
         "releaseDate": "2004-06-15",
         "releaseYear": 2004
       },
       {
-        "id": "1440810727",
+        "id": "1443487545",
         "name": "Disclaimer",
         "releaseDate": "2002-08-20",
         "releaseYear": 2002
@@ -4015,7 +3951,7 @@
         "releaseYear": 2016
       },
       {
-        "id": "1443433797",
+        "id": "1442890171",
         "name": "Connect",
         "releaseDate": "2013-01-01",
         "releaseYear": 2013
@@ -4192,12 +4128,7 @@
         "id": "1462648219",
         "name": "Victorious",
         "releaseDate": "2019-08-02",
-<<<<<<< HEAD
         "releaseYear": 2019
-=======
-        "releaseYear": 2019,
-        "new": true
->>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1114195788",
@@ -4218,13 +4149,7 @@
         "releaseYear": 2013
       },
       {
-        "id": "382465219",
-        "name": "The Early Years",
-        "releaseDate": "2010-07-27",
-        "releaseYear": 2010
-      },
-      {
-        "id": "668404134",
+        "id": "668424099",
         "name": "Awake",
         "releaseDate": "2009-08-25",
         "releaseYear": 2009
@@ -4242,33 +4167,33 @@
         "releaseYear": 2003
       },
       {
-        "id": "158907885",
+        "id": "1471814887",
         "name": "Alien Youth",
         "releaseDate": "2001-08-28",
         "releaseYear": 2001
       },
       {
-        "id": "493084488",
+        "id": "1476018799",
         "name": "Invincible",
         "releaseDate": "2000-02-01",
         "releaseYear": 2000
       },
       {
-        "id": "158905652",
+        "id": "1471815966",
         "name": "Hey You, I Love Your Soul",
         "releaseDate": "1998-04-21",
         "releaseYear": 1998
       },
       {
-        "id": "158905040",
+        "id": "1471440095",
         "name": "Skillet",
-        "releaseDate": "1996-11-05",
+        "releaseDate": "1996-10-29",
         "releaseYear": 1996
       }
     ],
-    "albumCount": 12,
-    "avgReleaseYear": 2,
-    "nextReleaseYear": 2021
+    "albumCount": 11,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2022
   },
   "Skunk Anansie": {
     "name": "Skunk Anansie",
@@ -4347,18 +4272,10 @@
     "id": "5327254",
     "albums": [
       {
-<<<<<<< HEAD
         "id": "1479031083",
         "name": "Reworked",
         "releaseDate": "2019-11-01",
         "releaseYear": 2019
-=======
-        "id": "1475918226",
-        "name": "Reworked",
-        "releaseDate": "2019-09-05",
-        "releaseYear": 2019,
-        "new": true
->>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1354800246",
@@ -4385,7 +4302,7 @@
         "releaseYear": 2008
       },
       {
-        "id": "1440758222",
+        "id": "1443301051",
         "name": "Eyes Open",
         "releaseDate": "2006-05-01",
         "releaseYear": 2006
@@ -4415,60 +4332,18 @@
   },
   "Solstate": {
     "name": "Solstate",
-    "id": "57942894",
+    "id": "1491086456",
     "albums": [
       {
-        "id": "1492096937",
-        "name": "Winter Solstice Yoga Tracks - Music to Set Intentions & Slow Down",
-        "releaseDate": "2019-12-18",
-        "releaseYear": 2019
-      },
-      {
-        "id": "1487941536",
-        "name": "The Weather is Cold Outside – Cozy Up With 22 Songs of Smooth Jazz, Winter Café Music",
-        "releaseDate": "2019-11-13",
-        "releaseYear": 2019
-      },
-      {
-        "id": "1445425250",
-        "name": "Winter Solstice – Gentle and Slow Piano Music and Christmas Traditionals for Winter Time",
-        "releaseDate": "2018-12-03",
-        "releaseYear": 2018
-      },
-      {
-        "id": "1411897920",
-        "name": "Asleep at the River - Soothing Music to Reconcile Sleep",
-        "releaseDate": "2018-07-13",
-        "releaseYear": 2018
-      },
-      {
-        "id": "1316036237",
-        "name": "Winter Solstice – Inspirational and Emotional Music for Christmas, Christmas Classic Piano Songs",
-        "releaseDate": "2017-11-20",
-        "releaseYear": 2017
-      },
-      {
-        "id": "1210440975",
-        "name": "Mind Relaxation: Musica For Loving Kindness Meditation",
-        "releaseDate": "2017-02-28",
-        "releaseYear": 2017
-      },
-      {
-        "id": "407798477",
-        "name": "The Save the Peaks Compilation",
-        "releaseDate": "2010-09-01",
-        "releaseYear": 2010
-      },
-      {
-        "id": "57943247",
-        "name": "The Fall of Rome",
-        "releaseDate": "2005-03-08",
-        "releaseYear": 2005
+        "id": "1491610254",
+        "name": "Solstate",
+        "releaseDate": "2013-03-21",
+        "releaseYear": 2013
       }
     ],
-    "albumCount": 8,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2023
+    "albumCount": 1,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2016
   },
   "Staind": {
     "name": "Staind",
@@ -4523,12 +4398,7 @@
         "id": "1475690064",
         "name": "Divisions",
         "releaseDate": "2019-09-13",
-<<<<<<< HEAD
         "releaseYear": 2019
-=======
-        "releaseYear": 2019,
-        "new": true
->>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1423748662",
@@ -4678,288 +4548,11 @@
   },
   "The Februarys": {
     "name": "The Februarys",
-    "id": "909509295",
-    "albums": [
-      {
-        "id": "1177055159",
-        "name": "Ultimate Relaxation: Nature Sounds, Atmospheres and White Noise for Peaceful Sleep & Meditation",
-        "releaseDate": "2016-11-11",
-        "releaseYear": 2016
-      },
-      {
-        "id": "1172012924",
-        "name": "Healing Spa: Inspirational Music with Nature Sounds for Meditation & Relaxation",
-        "releaseDate": "2016-11-02",
-        "releaseYear": 2016
-      },
-      {
-        "id": "944249471",
-        "name": "Turkeys and Other Thanksgiving Sounds",
-        "releaseDate": "2014-11-13",
-        "releaseYear": 2014
-      },
-      {
-        "id": "888910758",
-        "name": "Copa do Mundo Brasil: Sons da Copa do Mundo de 2014",
-        "releaseDate": "2014-06-11",
-        "releaseYear": 2014
-      },
-      {
-        "id": "888912701",
-        "name": "Copa mundial Brasil: Sonidos de la Copa Mundial 2014",
-        "releaseDate": "2014-06-11",
-        "releaseYear": 2014
-      },
-      {
-        "id": "884343227",
-        "name": "World Cup Brazil: Sounds of the 2014 World Cup",
-        "releaseDate": "2014-05-27",
-        "releaseYear": 2014
-      },
-      {
-        "id": "685864822",
-        "name": "Crowds, Applause & Laughter: Sounds of People",
-        "releaseDate": "2013-07-26",
-        "releaseYear": 2013
-      },
-      {
-        "id": "685587460",
-        "name": "Sounds of Nature: Ocean and Coastal Ambiences",
-        "releaseDate": "2013-07-26",
-        "releaseYear": 2013
-      },
-      {
-        "id": "688926760",
-        "name": "Sounds of Nature: Relaxing Mountain Atmospheres",
-        "releaseDate": "2013-07-26",
-        "releaseYear": 2013
-      },
-      {
-        "id": "685685238",
-        "name": "Sounds of Nature: Soothing Sounds of Rivers and Creeks",
-        "releaseDate": "2013-07-26",
-        "releaseYear": 2013
-      },
-      {
-        "id": "588549116",
-        "name": "Animals in the Wild: 100 Authentic Atmospheres of Africa, Oceania & South America",
-        "releaseDate": "2012-12-10",
-        "releaseYear": 2012
-      },
-      {
-        "id": "588558883",
-        "name": "Endangered Animals of the World: Authentic Sounds of Nature's Rarest Species",
-        "releaseDate": "2012-12-10",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577307927",
-        "name": "Bullfights!",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577502857",
-        "name": "Sounds of New York City",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577321900",
-        "name": "European High-Speed Trains",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577508427",
-        "name": "Subways Sounds: New York City, Paris & Mexico City",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577305429",
-        "name": "Anti-Vietnam War Demonstrations",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577516532",
-        "name": "Vintage Cars",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "577321208",
-        "name": "Vintage Sports Car Races: Formula V and Can-Am",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "578945240",
-        "name": "100 Sounds for Web Buttons",
-        "releaseDate": "2012-10-22",
-        "releaseYear": 2012
-      },
-      {
-        "id": "564274493",
-        "name": "100 Sports Sounds: Football, Hockey, Baseball, Arena Crowds and More",
-        "releaseDate": "2012-09-18",
-        "releaseYear": 2012
-      },
-      {
-        "id": "564276729",
-        "name": "Thunder, Lightning & Rain - 100 Nature Sounds for Relaxation and Sleep",
-        "releaseDate": "2012-09-18",
-        "releaseYear": 2012
-      },
-      {
-        "id": "561626041",
-        "name": "Halloween Haunted House - 250 Tracks of Terrifying Horror Music & Spooky Scary Sounds",
-        "releaseDate": "2012-09-06",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552589645",
-        "name": "Voices of God: Sounds of Religions Around the World",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552533343",
-        "name": "Trains - 101 Locomotives, Subways & Stations",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552479966",
-        "name": "Fast and Furious Car Sounds: 100 Crashes, Skids & Engines",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552573372",
-        "name": "Sounds of Nature: Wind",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552442759",
-        "name": "Sounds of Animals: Apes, Gorillas and Monkeys",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552582246",
-        "name": "100+ Telephone Sounds",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552594387",
-        "name": "Sounds of Animals: Lions, Tigers and Bears",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552095582",
-        "name": "Sounds of Animals: Exotic Animals of the World",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "552465807",
-        "name": "DJ Starter Kit: 100 Essential Party Sounds",
-        "releaseDate": "2012-08-01",
-        "releaseYear": 2012
-      },
-      {
-        "id": "452502595",
-        "name": "210 Nature Sounds: 20 Hours of Relaxing Natural Ambiences for Meditation and Sleep",
-        "releaseDate": "2011-07-20",
-        "releaseYear": 2011
-      },
-      {
-        "id": "430106132",
-        "name": "Ainu Music of Japan: Indigenous Sounds of Hokkaido Island",
-        "releaseDate": "2011-04-02",
-        "releaseYear": 2011
-      },
-      {
-        "id": "405774729",
-        "name": "Twelve Days of Christmas - 162 Happy Holiday Sounds",
-        "releaseDate": "2010-11-19",
-        "releaseYear": 2010
-      },
-      {
-        "id": "351015035",
-        "name": "Soothing Sounds of Nature: Water & Wilderness",
-        "releaseDate": "2010-01-16",
-        "releaseYear": 2010
-      },
-      {
-        "id": "351013606",
-        "name": "Soothing Sounds - Relaxing Sounds from Everyday Life",
-        "releaseDate": "2010-01-16",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354825530",
-        "name": "Soothing Sounds of Nature: Peaceful Forest",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "355805040",
-        "name": "Soothing Sounds of Nature: Caverns & Creeks",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354750223",
-        "name": "Soothing Sounds of Nature: Rivers & Waterfalls",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "355137685",
-        "name": "Soothing Sounds of Nature: Relaxing Rain",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354751031",
-        "name": "Soothing Sounds of Nature: Campfire",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354587038",
-        "name": "Soothing Sounds of Nature: Tranquil Sleep",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "354739320",
-        "name": "Soothing Sounds of Nature: Spa & Massage",
-        "releaseDate": "2010-01-15",
-        "releaseYear": 2010
-      },
-      {
-        "id": "350493815",
-        "name": "Sounds For Valentine's Day: 99 Expressions of Love",
-        "releaseDate": "2010-01-14",
-        "releaseYear": 2010
-      },
-      {
-        "id": "365377865",
-        "name": "Sounds Of Love: 99 Romantic Phrases, Messages, Whistles & Wolf Calls",
-        "releaseDate": "2010-01-13",
-        "releaseYear": 2010
-      }
-    ],
-    "albumCount": 46,
-    "avgReleaseYear": 1,
-    "nextReleaseYear": 2017
+    "id": "982492109",
+    "albums": [],
+    "albumCount": 0,
+    "avgReleaseYear": 0,
+    "nextReleaseYear": 0
   },
   "The Killers": {
     "name": "The Killers",
@@ -5065,13 +4658,13 @@
         "releaseYear": 1997
       },
       {
-        "id": "272782170",
+        "id": "1485034772",
         "name": "Smash",
         "releaseDate": "1994-04-08",
         "releaseYear": 1994
       },
       {
-        "id": "282083955",
+        "id": "1485043275",
         "name": "Ignition",
         "releaseDate": "1992-10-16",
         "releaseYear": 1992
@@ -5113,9 +4706,9 @@
         "releaseYear": 2018
       },
       {
-        "id": "1443236505",
+        "id": "1440856890",
         "name": "LOVE LUST FAITH + DREAMS",
-        "releaseDate": "2013-05-21",
+        "releaseDate": "2013-01-01",
         "releaseYear": 2013
       },
       {
@@ -5272,7 +4865,7 @@
         "releaseYear": 2010
       },
       {
-        "id": "390309709",
+        "id": "1485046107",
         "name": "Hurley",
         "releaseDate": "2010-09-14",
         "releaseYear": 2010
