@@ -241,7 +241,12 @@
         "id": "1468535263",
         "name": "Walk the Sky",
         "releaseDate": "2019-10-18",
+<<<<<<< HEAD
         "releaseYear": 2019
+=======
+        "releaseYear": 2019,
+        "new": true
+>>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1440932161",
@@ -835,7 +840,12 @@
         "id": "1466595224",
         "name": "The Things We Can't Stop",
         "releaseDate": "2019-09-13",
+<<<<<<< HEAD
         "releaseYear": 2019
+=======
+        "releaseYear": 2019,
+        "new": true
+>>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "735200840",
@@ -2041,7 +2051,8 @@
         "id": "1480411285",
         "name": "Surviving",
         "releaseDate": "2019-10-18",
-        "releaseYear": 2019
+        "releaseYear": 2019,
+        "new": true
       },
       {
         "id": "1147844543",
@@ -2338,7 +2349,12 @@
         "id": "1465880731",
         "name": "Bang",
         "releaseDate": "2019-10-18",
+<<<<<<< HEAD
         "releaseYear": 2019
+=======
+        "releaseYear": 2019,
+        "new": true
+>>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1214964095",
@@ -3736,7 +3752,12 @@
         "id": "1478636853",
         "name": "Flawed Design",
         "releaseDate": "2019-10-25",
+<<<<<<< HEAD
         "releaseYear": 2019
+=======
+        "releaseYear": 2019,
+        "new": true
+>>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1010805294",
@@ -4171,7 +4192,12 @@
         "id": "1462648219",
         "name": "Victorious",
         "releaseDate": "2019-08-02",
+<<<<<<< HEAD
         "releaseYear": 2019
+=======
+        "releaseYear": 2019,
+        "new": true
+>>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1114195788",
@@ -4321,10 +4347,18 @@
     "id": "5327254",
     "albums": [
       {
+<<<<<<< HEAD
         "id": "1479031083",
         "name": "Reworked",
         "releaseDate": "2019-11-01",
         "releaseYear": 2019
+=======
+        "id": "1475918226",
+        "name": "Reworked",
+        "releaseDate": "2019-09-05",
+        "releaseYear": 2019,
+        "new": true
+>>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1354800246",
@@ -4489,7 +4523,12 @@
         "id": "1475690064",
         "name": "Divisions",
         "releaseDate": "2019-09-13",
+<<<<<<< HEAD
         "releaseYear": 2019
+=======
+        "releaseYear": 2019,
+        "new": true
+>>>>>>> b7713366a5b10fdca45ec4c7e5998d6e3f89548a
       },
       {
         "id": "1423748662",
