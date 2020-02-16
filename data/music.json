@@ -625,6 +625,13 @@
     "id": "3299379",
     "albums": [
       {
+        "id": "1484422635",
+        "name": "Aurora",
+        "releaseDate": "2020-01-24",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1428765348",
         "name": "Ember",
         "releaseDate": "2018-04-13",
@@ -667,9 +674,9 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 7,
+    "albumCount": 8,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2023
   },
   "Burn Season": {
     "name": "Burn Season",
@@ -1483,6 +1490,13 @@
     "id": "954266",
     "albums": [
       {
+        "id": "1478976850",
+        "name": "Father of All...",
+        "releaseDate": "2020-02-07",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1140560324",
         "name": "Revolution Radio",
         "releaseDate": "2016-10-07",
@@ -1585,9 +1599,9 @@
         "releaseYear": 1991
       }
     ],
-    "albumCount": 17,
+    "albumCount": 18,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2022
   },
   "Hoobastank": {
     "name": "Hoobastank",
@@ -1598,6 +1612,12 @@
         "name": "Push Pull",
         "releaseDate": "2018-05-25",
         "releaseYear": 2018
+      },
+      {
+        "id": "1495331625",
+        "name": "Fight Or Flight",
+        "releaseDate": "2012-09-11",
+        "releaseYear": 2012
       },
       {
         "id": "1485748878",
@@ -1624,9 +1644,9 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 5,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2022
+    "albumCount": 6,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2021
   },
   "Hurt": {
     "name": "Hurt",
@@ -2814,6 +2834,13 @@
     "id": "193835",
     "albums": [
       {
+        "id": "1485591743",
+        "name": "Never Not Together",
+        "releaseDate": "2020-02-07",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1450991412",
         "name": "North 6th Street",
         "releaseDate": "2019-01-15",
@@ -2868,9 +2895,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 9,
+    "albumCount": 10,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2022
+    "nextReleaseYear": 2023
   },
   "Nirvana": {
     "name": "Nirvana",
@@ -4131,14 +4158,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
