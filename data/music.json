@@ -430,14 +430,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -514,6 +514,13 @@
     "id": "214854614",
     "albums": [
       {
+        "id": "1501802139",
+        "name": "Human Design",
+        "releaseDate": "2020-04-24",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1155415819",
         "name": "BRACE",
         "releaseDate": "2016-11-04",
@@ -550,9 +557,9 @@
         "releaseYear": 2007
       }
     ],
-    "albumCount": 6,
+    "albumCount": 7,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2022
   },
   "Boyce Avenue": {
     "name": "Boyce Avenue",
@@ -656,14 +663,14 @@
         "releaseYear": 2006
       },
       {
-        "id": "1440809386",
-        "name": "We Are Not Alone",
+        "id": "1440807726",
+        "name": "Saturate / We Are Not Alone / Phobia",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
       {
-        "id": "1440807726",
-        "name": "Saturate / We Are Not Alone / Phobia",
+        "id": "1440809386",
+        "name": "We Are Not Alone",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
@@ -716,14 +723,26 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306252385",
+        "name": "Razorblade Suitcase",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306283987",
+        "name": "Deconstructed",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
         "id": "1306255070",
         "name": "Sixteen Stone",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -744,18 +763,6 @@
         "name": "Golden State",
         "releaseDate": "2001-10-23",
         "releaseYear": 2001
-      },
-      {
-        "id": "1306283987",
-        "name": "Deconstructed",
-        "releaseDate": "1997-11-11",
-        "releaseYear": 1997
-      },
-      {
-        "id": "1306252385",
-        "name": "Razorblade Suitcase",
-        "releaseDate": "1996-11-19",
-        "releaseYear": 1996
       }
     ],
     "albumCount": 9,
@@ -1270,7 +1277,7 @@
       {
         "id": "1440837029",
         "name": "The Reminder",
-        "releaseDate": "2007-05-01",
+        "releaseDate": "2007",
         "releaseYear": 2007
       },
       {
@@ -1509,14 +1516,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno . . . Dos . . . Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "581055251",
-        "name": "Uno . . . Dos . . . Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -1653,6 +1660,13 @@
     "id": "2517297",
     "albums": [
       {
+        "id": "1515584564",
+        "name": "Street Science Vol. 1",
+        "releaseDate": "2020-05-27",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "714906890",
         "name": "The Crux",
         "releaseDate": "2012-05-01",
@@ -1683,9 +1697,9 @@
         "releaseYear": 2006
       }
     ],
-    "albumCount": 5,
-    "avgReleaseYear": 2,
-    "nextReleaseYear": 2014
+    "albumCount": 6,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2024
   },
   "Iced Earth": {
     "name": "Iced Earth",
@@ -1730,19 +1744,19 @@
       {
         "id": "1458652174",
         "name": "The Glorious Burden",
-        "releaseDate": "2004-01-13",
+        "releaseDate": "2004",
         "releaseYear": 2004
       },
       {
         "id": "1045657795",
         "name": "Horror Show",
-        "releaseDate": "2001-06-26",
+        "releaseDate": "2001",
         "releaseYear": 2001
       },
       {
         "id": "1045626556",
         "name": "Something Wicked This Way Comes",
-        "releaseDate": "1998-07-07",
+        "releaseDate": "1998",
         "releaseYear": 1998
       },
       {
@@ -1760,18 +1774,18 @@
       {
         "id": "1045610534",
         "name": "Burnt Offerings",
-        "releaseDate": "1995-04-18",
+        "releaseDate": "1995",
         "releaseYear": 1995
-      },
-      {
-        "id": "1119632172",
-        "name": "Night of the Stormrider",
-        "releaseDate": "1992",
-        "releaseYear": 1992
       },
       {
         "id": "1045560453",
         "name": "Iced Earth",
+        "releaseDate": "1991",
+        "releaseYear": 1991
+      },
+      {
+        "id": "1119632172",
+        "name": "Night of the Stormrider",
         "releaseDate": "1991",
         "releaseYear": 1991
       }
@@ -1878,6 +1892,12 @@
     "id": "465707",
     "albums": [
       {
+        "id": "1440881253",
+        "name": "8",
+        "releaseDate": "2017-04-21",
+        "releaseYear": 2017
+      },
+      {
         "id": "571750225",
         "name": "The Essential Incubus",
         "releaseDate": "2012-10-30",
@@ -1926,9 +1946,9 @@
         "releaseYear": 1997
       }
     ],
-    "albumCount": 8,
-    "avgReleaseYear": 2,
-    "nextReleaseYear": 2014
+    "albumCount": 9,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2020
   },
   "Jars Of Clay": {
     "name": "Jars Of Clay",
@@ -2414,6 +2434,13 @@
     "id": "13429416",
     "albums": [
       {
+        "id": "1494371579",
+        "name": "Moving Walls",
+        "releaseDate": "2020-02-21",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1277896178",
         "name": "Something Like a Storm",
         "releaseDate": "2017-10-20",
@@ -2474,9 +2501,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 10,
+    "albumCount": 11,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Megadeth": {
     "name": "Megadeth",
@@ -2591,14 +2618,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -3068,8 +3095,8 @@
       {
         "id": "1450006102",
         "name": "Infest",
-        "releaseDate": "2000-04-25",
-        "releaseYear": 2000
+        "releaseDate": "2001-04-25",
+        "releaseYear": 2001
       }
     ],
     "albumCount": 8,
@@ -3102,14 +3129,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3222,6 +3249,13 @@
     "id": "467464",
     "albums": [
       {
+        "id": "1495374767",
+        "name": "Gigaton",
+        "releaseDate": "2020-03-27",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "791394126",
         "name": "Mt. View, CA 1-June-2003",
         "releaseDate": "2014-05-26",
@@ -3300,9 +3334,9 @@
         "releaseYear": 1991
       }
     ],
-    "albumCount": 13,
+    "albumCount": 14,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2016
+    "nextReleaseYear": 2022
   },
   "Prime Circle": {
     "name": "Prime Circle",
@@ -3353,6 +3387,13 @@
     "name": "Ra",
     "id": "92738",
     "albums": [
+      {
+        "id": "1510699287",
+        "name": "Rêvolution",
+        "releaseDate": "2020-04-19",
+        "releaseYear": 2020,
+        "new": true
+      },
       {
         "id": "1473168552",
         "name": "What the Game Been Missing, Pt. 4",
@@ -3480,14 +3521,21 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 21,
+    "albumCount": 22,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2022
   },
   "Red": {
     "name": "Red",
     "id": "214135551",
     "albums": [
+      {
+        "id": "1492345522",
+        "name": "Declaration",
+        "releaseDate": "2020-04-03",
+        "releaseYear": 2020,
+        "new": true
+      },
       {
         "id": "1285528018",
         "name": "Gone",
@@ -3537,9 +3585,9 @@
         "releaseYear": 2006
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Red Hot Chili Peppers": {
     "name": "Red Hot Chili Peppers",
@@ -3550,6 +3598,18 @@
         "name": "The Getaway",
         "releaseDate": "2016-06-17",
         "releaseYear": 2016
+      },
+      {
+        "id": "1443284112",
+        "name": "What Hits!?",
+        "releaseDate": "2014-11-17",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1440873689",
+        "name": "Freaky Styley",
+        "releaseDate": "2013-01-01",
+        "releaseYear": 2013
       },
       {
         "id": "450747622",
@@ -3582,12 +3642,6 @@
         "releaseYear": 1995
       },
       {
-        "id": "1443284112",
-        "name": "What Hits!?",
-        "releaseDate": "1992-09-29",
-        "releaseYear": 1992
-      },
-      {
         "id": "945581828",
         "name": "Blood Sugar Sex Magik",
         "releaseDate": "1991-09-24",
@@ -3604,12 +3658,6 @@
         "name": "The Uplift Mofo Party Plan",
         "releaseDate": "1987-09-29",
         "releaseYear": 1987
-      },
-      {
-        "id": "1440873689",
-        "name": "Freaky Styley",
-        "releaseDate": "1985-08-16",
-        "releaseYear": 1985
       },
       {
         "id": "1443088751",
@@ -3876,14 +3924,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -3939,14 +3987,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4041,14 +4089,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4158,14 +4206,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
