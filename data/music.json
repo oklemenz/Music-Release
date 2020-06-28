@@ -605,6 +605,12 @@
         "releaseYear": 2013
       },
       {
+        "id": "493834096",
+        "name": "The Misery Index: Notes From the Plague Years",
+        "releaseDate": "2006-03-07",
+        "releaseYear": 2006
+      },
+      {
         "id": "1435668107",
         "name": "Before the Eulogy",
         "releaseDate": "2005-10-18",
@@ -621,11 +627,17 @@
         "name": "After the Eulogy",
         "releaseDate": "2000-01-01",
         "releaseYear": 2000
+      },
+      {
+        "id": "495459339",
+        "name": "Day the Sun Went Out",
+        "releaseDate": "1997-10-07",
+        "releaseYear": 1997
       }
     ],
-    "albumCount": 6,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2023
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2022
   },
   "Breaking Benjamin": {
     "name": "Breaking Benjamin",
@@ -723,18 +735,6 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306252385",
-        "name": "Razorblade Suitcase",
-        "releaseDate": "2014-10-14",
-        "releaseYear": 2014
-      },
-      {
-        "id": "1306283987",
-        "name": "Deconstructed",
-        "releaseDate": "2014-10-14",
-        "releaseYear": 2014
-      },
-      {
         "id": "1306255070",
         "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
@@ -763,6 +763,18 @@
         "name": "Golden State",
         "releaseDate": "2001-10-23",
         "releaseYear": 2001
+      },
+      {
+        "id": "1306283987",
+        "name": "Deconstructed",
+        "releaseDate": "1997-11-11",
+        "releaseYear": 1997
+      },
+      {
+        "id": "1306252385",
+        "name": "Razorblade Suitcase",
+        "releaseDate": "1996-11-19",
+        "releaseYear": 1996
       }
     ],
     "albumCount": 9,
@@ -1277,7 +1289,7 @@
       {
         "id": "1440837029",
         "name": "The Reminder",
-        "releaseDate": "2007",
+        "releaseDate": "2007-05-01",
         "releaseYear": 2007
       },
       {
@@ -1744,19 +1756,19 @@
       {
         "id": "1458652174",
         "name": "The Glorious Burden",
-        "releaseDate": "2004",
+        "releaseDate": "2004-01-13",
         "releaseYear": 2004
       },
       {
         "id": "1045657795",
         "name": "Horror Show",
-        "releaseDate": "2001",
+        "releaseDate": "2001-06-26",
         "releaseYear": 2001
       },
       {
         "id": "1045626556",
         "name": "Something Wicked This Way Comes",
-        "releaseDate": "1998",
+        "releaseDate": "1998-07-07",
         "releaseYear": 1998
       },
       {
@@ -1774,18 +1786,18 @@
       {
         "id": "1045610534",
         "name": "Burnt Offerings",
-        "releaseDate": "1995",
+        "releaseDate": "1995-04-18",
         "releaseYear": 1995
-      },
-      {
-        "id": "1045560453",
-        "name": "Iced Earth",
-        "releaseDate": "1991",
-        "releaseYear": 1991
       },
       {
         "id": "1119632172",
         "name": "Night of the Stormrider",
+        "releaseDate": "1992",
+        "releaseYear": 1992
+      },
+      {
+        "id": "1045560453",
+        "name": "Iced Earth",
         "releaseDate": "1991",
         "releaseYear": 1991
       }
@@ -2344,6 +2356,13 @@
     "id": "23533743",
     "albums": [
       {
+        "id": "1512753618",
+        "name": "I solnedgången",
+        "releaseDate": "2020-03-12",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1465880731",
         "name": "Bang",
         "releaseDate": "2019-10-18",
@@ -2386,9 +2405,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 7,
+    "albumCount": 8,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2022
+    "nextReleaseYear": 2023
   },
   "Matchbox Twenty": {
     "name": "Matchbox Twenty",
@@ -2687,6 +2706,12 @@
         "releaseYear": 1996
       },
       {
+        "id": "1517905193",
+        "name": "Remaining Memories: The Interviews",
+        "releaseDate": "1995-06-15",
+        "releaseYear": 1995
+      },
+      {
         "id": "579372950",
         "name": "Metallica",
         "releaseDate": "1991-08-12",
@@ -2723,9 +2748,9 @@
         "releaseYear": 1983
       }
     ],
-    "albumCount": 14,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2019
+    "albumCount": 15,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2018
   },
   "Muse": {
     "name": "Muse",
@@ -3095,8 +3120,8 @@
       {
         "id": "1450006102",
         "name": "Infest",
-        "releaseDate": "2001-04-25",
-        "releaseYear": 2001
+        "releaseDate": "2000-04-25",
+        "releaseYear": 2000
       }
     ],
     "albumCount": 8,
@@ -3600,18 +3625,6 @@
         "releaseYear": 2016
       },
       {
-        "id": "1443284112",
-        "name": "What Hits!?",
-        "releaseDate": "2014-11-17",
-        "releaseYear": 2014
-      },
-      {
-        "id": "1440873689",
-        "name": "Freaky Styley",
-        "releaseDate": "2013-01-01",
-        "releaseYear": 2013
-      },
-      {
         "id": "450747622",
         "name": "I'm With You",
         "releaseDate": "2011-08-29",
@@ -3642,6 +3655,12 @@
         "releaseYear": 1995
       },
       {
+        "id": "1443284112",
+        "name": "What Hits!?",
+        "releaseDate": "1992-09-29",
+        "releaseYear": 1992
+      },
+      {
         "id": "945581828",
         "name": "Blood Sugar Sex Magik",
         "releaseDate": "1991-09-24",
@@ -3658,6 +3677,12 @@
         "name": "The Uplift Mofo Party Plan",
         "releaseDate": "1987-09-29",
         "releaseYear": 1987
+      },
+      {
+        "id": "1440873689",
+        "name": "Freaky Styley",
+        "releaseDate": "1985-08-16",
+        "releaseYear": 1985
       },
       {
         "id": "1443088751",
@@ -4206,14 +4231,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
