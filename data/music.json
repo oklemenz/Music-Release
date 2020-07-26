@@ -430,14 +430,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -675,14 +675,14 @@
         "releaseYear": 2006
       },
       {
-        "id": "1440807726",
-        "name": "Saturate / We Are Not Alone / Phobia",
+        "id": "1440809386",
+        "name": "We Are Not Alone",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
       {
-        "id": "1440809386",
-        "name": "We Are Not Alone",
+        "id": "1440807726",
+        "name": "Saturate / We Are Not Alone / Phobia",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
@@ -723,6 +723,13 @@
     "id": "154751",
     "albums": [
       {
+        "id": "1502425001",
+        "name": "The Kingdom",
+        "releaseDate": "2020-07-17",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1295165227",
         "name": "Black and White Rainbows",
         "releaseDate": "2017-10-13",
@@ -735,14 +742,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306255070",
-        "name": "Sixteen Stone",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306255070",
+        "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -777,9 +784,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 9,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2021
+    "albumCount": 10,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2023
   },
   "Chevelle": {
     "name": "Chevelle",
@@ -1450,7 +1457,7 @@
       },
       {
         "id": "362133451",
-        "name": "The Colour And The Shape",
+        "name": "The Colour and the Shape",
         "releaseDate": "1997-05-20",
         "releaseYear": 1997
       },
@@ -1528,14 +1535,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "581055251",
-        "name": "Uno . . . Dos . . . Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno . . . Dos . . . Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -2637,14 +2644,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -2672,7 +2679,7 @@
       {
         "id": "467890760",
         "name": "Lulu",
-        "releaseDate": "2011-11-01",
+        "releaseDate": "2011-10-31",
         "releaseYear": 2011
       },
       {
@@ -2689,8 +2696,8 @@
       },
       {
         "id": "579370472",
-        "name": "Garage, Inc.",
-        "releaseDate": "1998-11-23",
+        "name": "Garage Inc.",
+        "releaseDate": "1998-11-24",
         "releaseYear": 1998
       },
       {
@@ -2720,7 +2727,7 @@
       {
         "id": "1433827883",
         "name": "...And Justice for All",
-        "releaseDate": "1988-08-25",
+        "releaseDate": "1988-09-07",
         "releaseYear": 1988
       },
       {
@@ -3154,14 +3161,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3198,6 +3205,13 @@
     "name": "Passenger",
     "id": "396255033",
     "albums": [
+      {
+        "id": "1521939508",
+        "name": "Patchwork",
+        "releaseDate": "2020-07-10",
+        "releaseYear": 2020,
+        "new": true
+      },
       {
         "id": "1458925643",
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
@@ -3265,9 +3279,9 @@
         "releaseYear": 2007
       }
     ],
-    "albumCount": 11,
+    "albumCount": 12,
     "avgReleaseYear": 1,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2021
   },
   "Pearl Jam": {
     "name": "Pearl Jam",
@@ -3949,14 +3963,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4012,14 +4026,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4114,14 +4128,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4231,14 +4245,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4890,6 +4904,13 @@
     "id": "799259",
     "albums": [
       {
+        "id": "1511241593",
+        "name": "Shadow Work",
+        "releaseDate": "2020-06-19",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1124670249",
         "name": "DNA",
         "releaseDate": "2016-08-19",
@@ -4932,9 +4953,9 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 7,
-    "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2023
   },
   "Weezer": {
     "name": "Weezer",
