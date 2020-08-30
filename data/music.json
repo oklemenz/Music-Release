@@ -133,6 +133,13 @@
     "id": "1230442691",
     "albums": [
       {
+        "id": "1523116917",
+        "name": "Labyrinth",
+        "releaseDate": "2020-08-14",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1244665675",
         "name": "A Blaze of Feather",
         "releaseDate": "2017-06-30",
@@ -145,9 +152,9 @@
         "releaseYear": 2017
       }
     ],
-    "albumCount": 2,
-    "avgReleaseYear": null,
-    "nextReleaseYear": null
+    "albumCount": 3,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2023
   },
   "A Perfect Circle": {
     "name": "A Perfect Circle",
@@ -199,6 +206,13 @@
     "id": "314795012",
     "albums": [
       {
+        "id": "1515822190",
+        "name": "Shine On",
+        "releaseDate": "2020-08-14",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1292104281",
         "name": "Notorious",
         "releaseDate": "2017-10-20",
@@ -229,9 +243,9 @@
         "releaseYear": 2009
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "Alter Bridge": {
     "name": "Alter Bridge",
@@ -400,6 +414,13 @@
     "id": "3024622",
     "albums": [
       {
+        "id": "1501357162",
+        "name": "A Celebration of Endings",
+        "releaseDate": "2020-08-14",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1463046316",
         "name": "Balance, Not Symmetry",
         "releaseDate": "2019-05-17",
@@ -430,14 +451,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -460,9 +481,9 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 10,
+    "albumCount": 11,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2022
   },
   "Billy Talent": {
     "name": "Billy Talent",
@@ -675,14 +696,14 @@
         "releaseYear": 2006
       },
       {
-        "id": "1440809386",
-        "name": "We Are Not Alone",
+        "id": "1440807726",
+        "name": "Saturate / We Are Not Alone / Phobia",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
       {
-        "id": "1440807726",
-        "name": "Saturate / We Are Not Alone / Phobia",
+        "id": "1440809386",
+        "name": "We Are Not Alone",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
@@ -742,14 +763,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306255070",
+        "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
-        "id": "1306255070",
-        "name": "Sixteen Stone",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -1535,14 +1556,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno . . . Dos . . . Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "581055251",
-        "name": "Uno . . . Dos . . . Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -2260,8 +2281,14 @@
       },
       {
         "id": "561418360",
-        "name": "LIVING THINGS",
+        "name": "LIVING THINGS: Acapellas and Instrumentals",
         "releaseDate": "2012-06-25",
+        "releaseYear": 2012
+      },
+      {
+        "id": "518869932",
+        "name": "LIVING THINGS",
+        "releaseDate": "2012-06-20",
         "releaseYear": 2012
       },
       {
@@ -2285,7 +2312,7 @@
       {
         "id": "593244103",
         "name": "Reanimation",
-        "releaseDate": "2002-07-29",
+        "releaseDate": "2002-03-20",
         "releaseYear": 2002
       },
       {
@@ -2295,7 +2322,7 @@
         "releaseYear": 2000
       }
     ],
-    "albumCount": 10,
+    "albumCount": 11,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2019
   },
@@ -2537,7 +2564,7 @@
     "albums": [
       {
         "id": "1447698969",
-        "name": "Warheads on Foreheads",
+        "name": "Warheads On Foreheads",
         "releaseDate": "2019-03-22",
         "releaseYear": 2019
       },
@@ -2574,7 +2601,7 @@
       {
         "id": "719003408",
         "name": "Warchest",
-        "releaseDate": "2007-10-02",
+        "releaseDate": "2007-10-09",
         "releaseYear": 2007
       },
       {
@@ -2644,14 +2671,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -2848,6 +2875,13 @@
     "id": "113247214",
     "albums": [
       {
+        "id": "1514639763",
+        "name": "Out of Body",
+        "releaseDate": "2020-08-28",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1096811069",
         "name": "H A R D L O V E",
         "releaseDate": "2016-07-15",
@@ -2884,9 +2918,9 @@
         "releaseYear": 2006
       }
     ],
-    "albumCount": 6,
+    "albumCount": 7,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2022
   },
   "Nada Surf": {
     "name": "Nada Surf",
@@ -3161,14 +3195,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3640,8 +3674,8 @@
       },
       {
         "id": "450747622",
-        "name": "I'm With You",
-        "releaseDate": "2011-08-29",
+        "name": "I'm with You",
+        "releaseDate": "2011-08-26",
         "releaseYear": 2011
       },
       {
@@ -3700,7 +3734,7 @@
       },
       {
         "id": "1443088751",
-        "name": "Red Hot Chili Peppers",
+        "name": "The Red Hot Chili Peppers",
         "releaseDate": "1984-08-10",
         "releaseYear": 1984
       }
@@ -3852,6 +3886,13 @@
     "id": "92713141",
     "albums": [
       {
+        "id": "1517736358",
+        "name": "Si Vis Pacem, Para Bellum",
+        "releaseDate": "2020-08-28",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1440941290",
         "name": "Poison the Parish",
         "releaseDate": "2017-05-12",
@@ -3900,9 +3941,9 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2023
   },
   "Sevendust": {
     "name": "Sevendust",
@@ -3963,14 +4004,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4026,14 +4067,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4128,14 +4169,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4245,14 +4286,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4673,6 +4714,13 @@
     "id": "6483093",
     "albums": [
       {
+        "id": "1502453888",
+        "name": "Imploding the Mirage",
+        "releaseDate": "2020-08-21",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1440865475",
         "name": "Wonderful Wonderful",
         "releaseDate": "2017-09-22",
@@ -4721,9 +4769,9 @@
         "releaseYear": 2004
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2019
+    "nextReleaseYear": 2022
   },
   "The Offspring": {
     "name": "The Offspring",
