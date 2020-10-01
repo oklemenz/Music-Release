@@ -4,6 +4,13 @@
     "id": "63569098",
     "albums": [
       {
+        "id": "1521307470",
+        "name": "Violent Allies",
+        "releaseDate": "2020-09-18",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "964076092",
         "name": "From Birth to Burial",
         "releaseDate": "2015-04-21",
@@ -34,9 +41,9 @@
         "releaseYear": 2005
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2018
+    "nextReleaseYear": 2023
   },
   "12 Stones": {
     "name": "12 Stones",
@@ -451,14 +458,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -696,14 +703,14 @@
         "releaseYear": 2006
       },
       {
-        "id": "1440807726",
-        "name": "Saturate / We Are Not Alone / Phobia",
+        "id": "1440809386",
+        "name": "We Are Not Alone",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
       {
-        "id": "1440809386",
-        "name": "We Are Not Alone",
+        "id": "1440807726",
+        "name": "Saturate / We Are Not Alone / Phobia",
         "releaseDate": "2004-06-29",
         "releaseYear": 2004
       },
@@ -763,14 +770,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306255070",
-        "name": "Sixteen Stone",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306255070",
+        "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -1538,7 +1545,7 @@
     "albums": [
       {
         "id": "1478976850",
-        "name": "Father of All...",
+        "name": "Father of All M***********s",
         "releaseDate": "2020-02-07",
         "releaseYear": 2020,
         "new": true
@@ -1556,14 +1563,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "581055251",
-        "name": "Uno . . . Dos . . . Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno...Dos...Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -1600,7 +1607,7 @@
       {
         "id": "5132779",
         "name": "Shenanigans",
-        "releaseDate": "2002-07-01",
+        "releaseDate": "2002-07-02",
         "releaseYear": 2002
       },
       {
@@ -1611,14 +1618,14 @@
       },
       {
         "id": "1160081195",
-        "name": "Warning",
+        "name": "Warning:",
         "releaseDate": "2000-10-03",
         "releaseYear": 2000
       },
       {
         "id": "1159778204",
         "name": "Nimrod",
-        "releaseDate": "1997-10-13",
+        "releaseDate": "1997-10-14",
         "releaseYear": 1997
       },
       {
@@ -1630,19 +1637,19 @@
       {
         "id": "1160081985",
         "name": "Dookie",
-        "releaseDate": "1994-01-28",
+        "releaseDate": "1994-02-01",
         "releaseYear": 1994
       },
       {
         "id": "210274067",
-        "name": "Kerplunk!",
+        "name": "Kerplunk",
         "releaseDate": "1991-12-17",
         "releaseYear": 1991
       },
       {
         "id": "210332704",
-        "name": "1,039 / Smoothed Out Slappy Hours",
-        "releaseDate": "1991-04-19",
+        "name": "1,039/Smoothed Out Slappy Hours",
+        "releaseDate": "1991-10-01",
         "releaseYear": 1991
       }
     ],
@@ -2671,14 +2678,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -3017,7 +3024,7 @@
       {
         "id": "1434917065",
         "name": "Incesticide",
-        "releaseDate": "1992-01-01",
+        "releaseDate": "1992-12-14",
         "releaseYear": 1992
       },
       {
@@ -3195,14 +3202,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3461,11 +3468,24 @@
     "id": "92738",
     "albums": [
       {
+        "id": "1531072149",
+        "name": "Reborn",
+        "releaseDate": "2020-09-27",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1510699287",
         "name": "Rêvolution",
         "releaseDate": "2020-04-19",
         "releaseYear": 2020,
         "new": true
+      },
+      {
+        "id": "1472387761",
+        "name": "Renascetur",
+        "releaseDate": "2019-07-12",
+        "releaseYear": 2019
       },
       {
         "id": "1473168552",
@@ -3594,7 +3614,7 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 22,
+    "albumCount": 24,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2022
   },
@@ -4004,14 +4024,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4067,14 +4087,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4169,14 +4189,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4280,20 +4300,26 @@
     "id": "1750802",
     "albums": [
       {
+        "id": "1524357475",
+        "name": "Victorious: The Aftermath",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019
+      },
+      {
         "id": "1462648219",
         "name": "Victorious",
         "releaseDate": "2019-08-02",
         "releaseYear": 2019
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4346,7 +4372,7 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 11,
+    "albumCount": 12,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2022
   },
