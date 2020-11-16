@@ -259,6 +259,12 @@
     "id": "73789273",
     "albums": [
       {
+        "id": "1528784850",
+        "name": "Walk The Sky 2.0 ",
+        "releaseDate": "2019-10-18",
+        "releaseYear": 2019
+      },
+      {
         "id": "1468535263",
         "name": "Walk the Sky",
         "releaseDate": "2019-10-18",
@@ -295,7 +301,7 @@
         "releaseYear": 2004
       }
     ],
-    "albumCount": 6,
+    "albumCount": 7,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2022
   },
@@ -458,14 +464,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -693,6 +699,12 @@
       {
         "id": "1440809131",
         "name": "Dear Agony",
+        "releaseDate": "2009-09-29",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1440807726",
+        "name": "Saturate / We Are Not Alone / Phobia",
         "releaseDate": "2009-01-01",
         "releaseYear": 2009
       },
@@ -709,15 +721,9 @@
         "releaseYear": 2004
       },
       {
-        "id": "1440807726",
-        "name": "Saturate / We Are Not Alone / Phobia",
-        "releaseDate": "2004-06-29",
-        "releaseYear": 2004
-      },
-      {
         "id": "1440871444",
         "name": "Saturate",
-        "releaseDate": "2002-01-01",
+        "releaseDate": "2002-08-27",
         "releaseYear": 2002
       }
     ],
@@ -770,14 +776,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306255070",
+        "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
-        "id": "1306255070",
-        "name": "Sixteen Stone",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -1563,14 +1569,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno...Dos...Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "581055251",
-        "name": "Uno...Dos...Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -2033,7 +2039,7 @@
       },
       {
         "id": "1231839430",
-        "name": "Peace Is Here: Christmas Reflections by Jars of Clay",
+        "name": "Peace Is Here: Christmas Reflections by Jars Of Clay",
         "releaseDate": "2008-11-26",
         "releaseYear": 2008
       },
@@ -2416,6 +2422,12 @@
         "releaseYear": 2017
       },
       {
+        "id": "1540336417",
+        "name": "Infruset",
+        "releaseDate": "2012-10-31",
+        "releaseYear": 2012
+      },
+      {
         "id": "1300587556",
         "name": "Give Me Fire",
         "releaseDate": "2009",
@@ -2446,9 +2458,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 8,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2023
+    "albumCount": 9,
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2022
   },
   "Matchbox Twenty": {
     "name": "Matchbox Twenty",
@@ -2678,14 +2690,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -3202,14 +3214,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3970,6 +3982,13 @@
     "id": "13125174",
     "albums": [
       {
+        "id": "1524378508",
+        "name": "Blood & Stone",
+        "releaseDate": "2020-10-23",
+        "releaseYear": 2020,
+        "new": true
+      },
+      {
         "id": "1355510081",
         "name": "All I See Is War",
         "releaseDate": "2018-05-11",
@@ -4024,14 +4043,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4054,9 +4073,9 @@
         "releaseYear": 1997
       }
     ],
-    "albumCount": 14,
+    "albumCount": 15,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2022
   },
   "Shinedown": {
     "name": "Shinedown",
@@ -4077,7 +4096,7 @@
       {
         "id": "499945669",
         "name": "Amaryllis",
-        "releaseDate": "2012-03-23",
+        "releaseDate": "2012-03-27",
         "releaseYear": 2012
       },
       {
@@ -4087,14 +4106,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4189,14 +4208,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4300,26 +4319,26 @@
     "id": "1750802",
     "albums": [
       {
-        "id": "1524357475",
-        "name": "Victorious: The Aftermath",
-        "releaseDate": "2019-08-02",
-        "releaseYear": 2019
-      },
-      {
         "id": "1462648219",
         "name": "Victorious",
         "releaseDate": "2019-08-02",
         "releaseYear": 2019
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
-        "releaseDate": "2016-08-05",
-        "releaseYear": 2016
+        "id": "1524357475",
+        "name": "Victorious: The Aftermath",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019
       },
       {
         "id": "1312026642",
         "name": "Unleashed Beyond",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4611,7 +4630,7 @@
       {
         "id": "159457194",
         "name": "Hypnotize",
-        "releaseDate": "2005-11-18",
+        "releaseDate": "2005-11-22",
         "releaseYear": 2005
       },
       {
@@ -4629,12 +4648,12 @@
       {
         "id": "273714443",
         "name": "Toxicity",
-        "releaseDate": "2001-08-27",
+        "releaseDate": "2001-09-04",
         "releaseYear": 2001
       },
       {
         "id": "205999137",
-        "name": "System of a Down",
+        "name": "System Of A Down",
         "releaseDate": "1998-06-30",
         "releaseYear": 1998
       }
@@ -4963,13 +4982,19 @@
         "releaseYear": 2006
       },
       {
+        "id": "604796363",
+        "name": "Animal I Have Become",
+        "releaseDate": "2006-04-18",
+        "releaseYear": 2006
+      },
+      {
         "id": "298376467",
         "name": "Three Days Grace",
         "releaseDate": "2003-07-22",
         "releaseYear": 2003
       }
     ],
-    "albumCount": 7,
+    "albumCount": 8,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2021
   },
