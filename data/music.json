@@ -109,7 +109,7 @@
       {
         "id": "1440791019",
         "name": "3 Doors Down",
-        "releaseDate": "2008-05-20",
+        "releaseDate": "2008-01-01",
         "releaseYear": 2008
       },
       {
@@ -121,7 +121,7 @@
       {
         "id": "1440739556",
         "name": "Away from the Sun",
-        "releaseDate": "2002-11-11",
+        "releaseDate": "2002-01-01",
         "releaseYear": 2002
       },
       {
@@ -188,7 +188,7 @@
       {
         "id": "724891475",
         "name": "eMOTIVe",
-        "releaseDate": "2004-11-02",
+        "releaseDate": "2004-01-01",
         "releaseYear": 2004
       },
       {
@@ -200,7 +200,7 @@
       {
         "id": "723435992",
         "name": "Mer De Noms",
-        "releaseDate": "2000-05-23",
+        "releaseDate": "2000-01-01",
         "releaseYear": 2000
       }
     ],
@@ -246,7 +246,7 @@
       {
         "id": "713482073",
         "name": "Adelitas Way",
-        "releaseDate": "2009-07-14",
+        "releaseDate": "2009-01-01",
         "releaseYear": 2009
       }
     ],
@@ -259,14 +259,14 @@
     "id": "73789273",
     "albums": [
       {
-        "id": "1528784850",
-        "name": "Walk The Sky 2.0 ",
+        "id": "1468535263",
+        "name": "Walk the Sky",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
       {
-        "id": "1468535263",
-        "name": "Walk the Sky",
+        "id": "1528784850",
+        "name": "Walk The Sky 2.0 ",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
@@ -291,7 +291,7 @@
       {
         "id": "1440746112",
         "name": "Blackbird",
-        "releaseDate": "2007-10-05",
+        "releaseDate": "2007-01-01",
         "releaseYear": 2007
       },
       {
@@ -309,6 +309,13 @@
     "name": "Anberlin",
     "id": "16269045",
     "albums": [
+      {
+        "id": "1538247613",
+        "name": "We Are the Lost Ones",
+        "releaseDate": "2020-11-27",
+        "releaseYear": 2020,
+        "new": true
+      },
       {
         "id": "1443552084",
         "name": "Devotion",
@@ -346,12 +353,6 @@
         "releaseYear": 2009
       },
       {
-        "id": "714815279",
-        "name": "Lost Songs",
-        "releaseDate": "2007-11-20",
-        "releaseYear": 2007
-      },
-      {
         "id": "714887381",
         "name": "Blueprints for City Friendships: The Anberlin Anthology",
         "releaseDate": "2007-03-12",
@@ -361,6 +362,12 @@
         "id": "724680592",
         "name": "Cities",
         "releaseDate": "2007-02-20",
+        "releaseYear": 2007
+      },
+      {
+        "id": "714815279",
+        "name": "Lost Songs",
+        "releaseDate": "2007-01-01",
         "releaseYear": 2007
       },
       {
@@ -376,9 +383,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 11,
+    "albumCount": 12,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2017
+    "nextReleaseYear": 2022
   },
   "Atomship": {
     "name": "Atomship",
@@ -464,14 +471,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -776,14 +783,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306255070",
-        "name": "Sixteen Stone",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306255070",
+        "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -958,7 +965,7 @@
       {
         "id": "1440631060",
         "name": "Human Clay",
-        "releaseDate": "1999-09-28",
+        "releaseDate": "1999-01-01",
         "releaseYear": 1999
       },
       {
@@ -1246,7 +1253,7 @@
       {
         "id": "1440941148",
         "name": "Lost Whispers",
-        "releaseDate": "2016-12-09",
+        "releaseDate": "2016-01-01",
         "releaseYear": 2016
       },
       {
@@ -1258,7 +1265,7 @@
       {
         "id": "1440634103",
         "name": "The Open Door",
-        "releaseDate": "2006-09-25",
+        "releaseDate": "2006-01-01",
         "releaseYear": 2006
       },
       {
@@ -1539,9 +1546,15 @@
         "name": "Sunburn",
         "releaseDate": "1998-03-31",
         "releaseYear": 1998
+      },
+      {
+        "id": "1543542612",
+        "name": "Porcelain",
+        "releaseDate": "1996-02-27",
+        "releaseYear": 1996
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 4,
     "nextReleaseYear": 2018
   },
@@ -1569,14 +1582,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "581055251",
-        "name": "Uno...Dos...Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno...Dos...Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -1866,7 +1879,7 @@
       {
         "id": "1440831203",
         "name": "Smoke + Mirrors",
-        "releaseDate": "2015-02-13",
+        "releaseDate": "2015-10-30",
         "releaseYear": 2015
       },
       {
@@ -2614,7 +2627,7 @@
       {
         "id": "721262479",
         "name": "Anthology: Set the World Afire",
-        "releaseDate": "2008-09-30",
+        "releaseDate": "2008-01-01",
         "releaseYear": 2008
       },
       {
@@ -2690,14 +2703,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -3162,7 +3175,7 @@
       {
         "id": "1440785585",
         "name": "Metamorphosis",
-        "releaseDate": "2009-03-24",
+        "releaseDate": "2009-01-01",
         "releaseYear": 2009
       },
       {
@@ -3214,14 +3227,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3794,7 +3807,7 @@
       {
         "id": "1440859595",
         "name": "The Black Market",
-        "releaseDate": "2014-07-11",
+        "releaseDate": "2014-01-01",
         "releaseYear": 2014
       },
       {
@@ -3931,21 +3944,21 @@
         "releaseYear": 2017
       },
       {
-        "id": "1440944503",
-        "name": "Isolate and Medicate",
-        "releaseDate": "2014-07-01",
-        "releaseYear": 2014
-      },
-      {
         "id": "1440668769",
         "name": "Seether: 2002-2013",
         "releaseDate": "2014-06-24",
         "releaseYear": 2014
       },
       {
+        "id": "1440944503",
+        "name": "Isolate and Medicate",
+        "releaseDate": "2014-01-01",
+        "releaseYear": 2014
+      },
+      {
         "id": "1440639548",
         "name": "Holding Onto Strings Better Left to Fray",
-        "releaseDate": "2011-05-17",
+        "releaseDate": "2011-01-01",
         "releaseYear": 2011
       },
       {
@@ -4043,14 +4056,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4106,14 +4119,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4153,13 +4166,13 @@
       {
         "id": "712988292",
         "name": "Polar Opposite",
-        "releaseDate": "2011-03-01",
+        "releaseDate": "2011-01-01",
         "releaseYear": 2011
       },
       {
         "id": "716753510",
         "name": "Tri-Polar",
-        "releaseDate": "2010-10-26",
+        "releaseDate": "2010-01-01",
         "releaseYear": 2010
       },
       {
@@ -4208,14 +4221,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4319,26 +4332,26 @@
     "id": "1750802",
     "albums": [
       {
-        "id": "1462648219",
-        "name": "Victorious",
-        "releaseDate": "2019-08-02",
-        "releaseYear": 2019
-      },
-      {
         "id": "1524357475",
         "name": "Victorious: The Aftermath",
         "releaseDate": "2019-08-02",
         "releaseYear": 2019
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
-        "releaseDate": "2016-08-05",
-        "releaseYear": 2016
+        "id": "1462648219",
+        "name": "Victorious",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019
       },
       {
         "id": "1114195788",
         "name": "Unleashed",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4522,7 +4535,7 @@
       {
         "id": "516527355",
         "name": "Songs for Polarbears",
-        "releaseDate": "1998-08-25",
+        "releaseDate": "1998",
         "releaseYear": 1998
       }
     ],
@@ -4738,7 +4751,7 @@
       {
         "id": "713228116",
         "name": "The Exies",
-        "releaseDate": "2000-03-28",
+        "releaseDate": "2000-01-01",
         "releaseYear": 2000
       }
     ],
@@ -4804,7 +4817,7 @@
       {
         "id": "1440891236",
         "name": "Sam's Town",
-        "releaseDate": "2006-09-27",
+        "releaseDate": "2006-10-02",
         "releaseYear": 2006
       },
       {
@@ -4843,7 +4856,7 @@
       {
         "id": "1440891317",
         "name": "Splinter",
-        "releaseDate": "2003-11-27",
+        "releaseDate": "2003-12-09",
         "releaseYear": 2003
       },
       {
@@ -4861,8 +4874,8 @@
       {
         "id": "1440901407",
         "name": "Ixnay on the Hombre",
-        "releaseDate": "1997-02-04",
-        "releaseYear": 1997
+        "releaseDate": "1996-09-17",
+        "releaseYear": 1996
       },
       {
         "id": "1485034772",
@@ -4927,7 +4940,7 @@
       {
         "id": "1440839104",
         "name": "A Beautiful Lie",
-        "releaseDate": "2005-08-16",
+        "releaseDate": "2005-01-01",
         "releaseYear": 2005
       },
       {
