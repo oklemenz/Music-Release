@@ -7,8 +7,7 @@
         "id": "1521307470",
         "name": "Violent Allies",
         "releaseDate": "2020-09-18",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "964076092",
@@ -103,7 +102,7 @@
       {
         "id": "1443265822",
         "name": "Time of My Life",
-        "releaseDate": "2011-07-15",
+        "releaseDate": "2011-01-01",
         "releaseYear": 2011
       },
       {
@@ -127,8 +126,8 @@
       {
         "id": "1440664882",
         "name": "The Better Life",
-        "releaseDate": "2000-02-08",
-        "releaseYear": 2000
+        "releaseDate": "1999-01-01",
+        "releaseYear": 1999
       }
     ],
     "albumCount": 6,
@@ -143,8 +142,7 @@
         "id": "1523116917",
         "name": "Labyrinth",
         "releaseDate": "2020-08-14",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1244665675",
@@ -216,8 +214,7 @@
         "id": "1515822190",
         "name": "Shine On",
         "releaseDate": "2020-08-14",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1292104281",
@@ -240,7 +237,7 @@
       {
         "id": "713042698",
         "name": "Home School Valedictorian",
-        "releaseDate": "2011-06-03",
+        "releaseDate": "2011-01-01",
         "releaseYear": 2011
       },
       {
@@ -259,14 +256,14 @@
     "id": "73789273",
     "albums": [
       {
-        "id": "1468535263",
-        "name": "Walk the Sky",
+        "id": "1528784850",
+        "name": "Walk The Sky 2.0 ",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
       {
-        "id": "1528784850",
-        "name": "Walk The Sky 2.0 ",
+        "id": "1468535263",
+        "name": "Walk the Sky",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
@@ -279,7 +276,7 @@
       {
         "id": "1440820954",
         "name": "Fortress",
-        "releaseDate": "2013-09-25",
+        "releaseDate": "2013-01-01",
         "releaseYear": 2013
       },
       {
@@ -310,23 +307,28 @@
     "id": "16269045",
     "albums": [
       {
+        "id": "1539195229",
+        "name": "Tear Us Apart",
+        "releaseDate": "2020-12-11",
+        "releaseYear": 2020
+      },
+      {
         "id": "1538247613",
         "name": "We Are the Lost Ones",
         "releaseDate": "2020-11-27",
-        "releaseYear": 2020,
-        "new": true
-      },
-      {
-        "id": "1443552084",
-        "name": "Devotion",
-        "releaseDate": "2015-06-09",
-        "releaseYear": 2015
+        "releaseYear": 2020
       },
       {
         "id": "875862108",
         "name": "Lowborn",
         "releaseDate": "2014-07-22",
         "releaseYear": 2014
+      },
+      {
+        "id": "1443552084",
+        "name": "Devotion",
+        "releaseDate": "2013-10-15",
+        "releaseYear": 2013
       },
       {
         "id": "1443239310",
@@ -373,7 +375,7 @@
       {
         "id": "724255907",
         "name": "Never Take Friendship Personal",
-        "releaseDate": "2005-01-17",
+        "releaseDate": "2005-01-01",
         "releaseYear": 2005
       },
       {
@@ -383,7 +385,7 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 12,
+    "albumCount": 13,
     "avgReleaseYear": 2,
     "nextReleaseYear": 2022
   },
@@ -437,8 +439,7 @@
         "id": "1501357162",
         "name": "A Celebration of Endings",
         "releaseDate": "2020-08-14",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1463046316",
@@ -471,14 +472,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -558,8 +559,7 @@
         "id": "1501802139",
         "name": "Human Design",
         "releaseDate": "2020-04-24",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1155415819",
@@ -688,8 +688,7 @@
         "id": "1484422635",
         "name": "Aurora",
         "releaseDate": "2020-01-24",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1428765348",
@@ -724,7 +723,7 @@
       {
         "id": "1440809386",
         "name": "We Are Not Alone",
-        "releaseDate": "2004-06-29",
+        "releaseDate": "2004-01-01",
         "releaseYear": 2004
       },
       {
@@ -767,8 +766,7 @@
         "id": "1502425001",
         "name": "The Kingdom",
         "releaseDate": "2020-07-17",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1295165227",
@@ -783,14 +781,26 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306252385",
+        "name": "Razorblade Suitcase",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306283987",
+        "name": "Deconstructed",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
         "id": "1306255070",
         "name": "Sixteen Stone",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -811,23 +821,11 @@
         "name": "Golden State",
         "releaseDate": "2001-10-23",
         "releaseYear": 2001
-      },
-      {
-        "id": "1306283987",
-        "name": "Deconstructed",
-        "releaseDate": "1997-11-11",
-        "releaseYear": 1997
-      },
-      {
-        "id": "1306252385",
-        "name": "Razorblade Suitcase",
-        "releaseDate": "1996-11-19",
-        "releaseYear": 1996
       }
     ],
     "albumCount": 10,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2023
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2024
   },
   "Chevelle": {
     "name": "Chevelle",
@@ -953,13 +951,13 @@
       {
         "id": "1440788031",
         "name": "Full Circle",
-        "releaseDate": "2009-10-27",
+        "releaseDate": "2009-01-01",
         "releaseYear": 2009
       },
       {
         "id": "1440738578",
         "name": "Weathered",
-        "releaseDate": "2001-11-20",
+        "releaseDate": "2001-01-01",
         "releaseYear": 2001
       },
       {
@@ -971,7 +969,7 @@
       {
         "id": "1440666225",
         "name": "My Own Prison",
-        "releaseDate": "1997-08-26",
+        "releaseDate": "1997-01-01",
         "releaseYear": 1997
       }
     ],
@@ -1181,7 +1179,7 @@
       {
         "id": "1440806665",
         "name": "Ukulele Songs",
-        "releaseDate": "2011-05-31",
+        "releaseDate": "2011-01-01",
         "releaseYear": 2011
       },
       {
@@ -1259,7 +1257,7 @@
       {
         "id": "1440641905",
         "name": "Evanescence",
-        "releaseDate": "2011-10-07",
+        "releaseDate": "2011-01-01",
         "releaseYear": 2011
       },
       {
@@ -1271,7 +1269,7 @@
       {
         "id": "1440665838",
         "name": "Fallen",
-        "releaseDate": "2003-03-04",
+        "releaseDate": "2003-01-01",
         "releaseYear": 2003
       }
     ],
@@ -1337,7 +1335,7 @@
       {
         "id": "1440837029",
         "name": "The Reminder",
-        "releaseDate": "2007-05-01",
+        "releaseDate": "2007",
         "releaseYear": 2007
       },
       {
@@ -1566,8 +1564,7 @@
         "id": "1478976850",
         "name": "Father of All M***********s",
         "releaseDate": "2020-02-07",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1140560324",
@@ -1582,14 +1579,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno...Dos...Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "581055251",
-        "name": "Uno...Dos...Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -1729,8 +1726,7 @@
         "id": "1515584564",
         "name": "Street Science Vol. 1",
         "releaseDate": "2020-05-27",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "714906890",
@@ -1759,7 +1755,7 @@
       {
         "id": "723523305",
         "name": "Vol. 1",
-        "releaseDate": "2006-03-21",
+        "releaseDate": "2006-01-01",
         "releaseYear": 2006
       }
     ],
@@ -1810,19 +1806,19 @@
       {
         "id": "1458652174",
         "name": "The Glorious Burden",
-        "releaseDate": "2004-01-13",
+        "releaseDate": "2004",
         "releaseYear": 2004
       },
       {
         "id": "1045657795",
         "name": "Horror Show",
-        "releaseDate": "2001-06-26",
+        "releaseDate": "2001",
         "releaseYear": 2001
       },
       {
         "id": "1045626556",
         "name": "Something Wicked This Way Comes",
-        "releaseDate": "1998-07-07",
+        "releaseDate": "1998",
         "releaseYear": 1998
       },
       {
@@ -1840,18 +1836,18 @@
       {
         "id": "1045610534",
         "name": "Burnt Offerings",
-        "releaseDate": "1995-04-18",
+        "releaseDate": "1995",
         "releaseYear": 1995
-      },
-      {
-        "id": "1119632172",
-        "name": "Night of the Stormrider",
-        "releaseDate": "1992",
-        "releaseYear": 1992
       },
       {
         "id": "1045560453",
         "name": "Iced Earth",
+        "releaseDate": "1991",
+        "releaseYear": 1991
+      },
+      {
+        "id": "1119632172",
+        "name": "Night of the Stormrider",
         "releaseDate": "1991",
         "releaseYear": 1991
       }
@@ -2383,7 +2379,7 @@
       {
         "id": "1440760192",
         "name": "The Distance to Here",
-        "releaseDate": "1999-10-05",
+        "releaseDate": "1999-01-01",
         "releaseYear": 1999
       },
       {
@@ -2419,8 +2415,7 @@
         "id": "1512753618",
         "name": "I solnedgången",
         "releaseDate": "2020-03-12",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1465880731",
@@ -2522,8 +2517,7 @@
         "id": "1494371579",
         "name": "Moving Walls",
         "releaseDate": "2020-02-21",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1277896178",
@@ -2703,14 +2697,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -2910,8 +2904,7 @@
         "id": "1514639763",
         "name": "Out of Body",
         "releaseDate": "2020-08-28",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1096811069",
@@ -2962,8 +2955,7 @@
         "id": "1485591743",
         "name": "Never Not Together",
         "releaseDate": "2020-02-07",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1450991412",
@@ -3029,6 +3021,12 @@
     "id": "112018",
     "albums": [
       {
+        "id": "1440858699",
+        "name": "In Utero",
+        "releaseDate": "2013-01-01",
+        "releaseYear": 2013
+      },
+      {
         "id": "1440833316",
         "name": "With the Lights Out",
         "releaseDate": "2004-11-23",
@@ -3039,12 +3037,6 @@
         "name": "Nirvana",
         "releaseDate": "2002-10-29",
         "releaseYear": 2002
-      },
-      {
-        "id": "1440858699",
-        "name": "In Utero",
-        "releaseDate": "1993-09-21",
-        "releaseYear": 1993
       },
       {
         "id": "1434917065",
@@ -3066,13 +3058,19 @@
       }
     ],
     "albumCount": 6,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2007
+    "avgReleaseYear": 5,
+    "nextReleaseYear": 2018
   },
   "Nonpoint": {
     "name": "Nonpoint",
     "id": "39213",
     "albums": [
+      {
+        "id": "1544785725",
+        "name": "Separate Yourself 1997",
+        "releaseDate": "2020-12-25",
+        "releaseYear": 2020
+      },
       {
         "id": "1397016868",
         "name": "X",
@@ -3140,14 +3138,20 @@
         "releaseYear": 1998
       }
     ],
-    "albumCount": 11,
+    "albumCount": 12,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2022
   },
   "Papa Roach": {
     "name": "Papa Roach",
     "id": "3445763",
     "albums": [
+      {
+        "id": "1546438789",
+        "name": "20/20",
+        "releaseDate": "2020-12-25",
+        "releaseYear": 2020
+      },
       {
         "id": "1439662793",
         "name": "Who Do You Trust?",
@@ -3175,19 +3179,19 @@
       {
         "id": "1440785585",
         "name": "Metamorphosis",
-        "releaseDate": "2009-01-01",
+        "releaseDate": "2009-03-24",
         "releaseYear": 2009
       },
       {
         "id": "1440825400",
-        "name": "Getting Away With Murder",
+        "name": "Getting Away with Murder",
         "releaseDate": "2004-08-31",
         "releaseYear": 2004
       },
       {
         "id": "1440825451",
         "name": "Lovehatetragedy",
-        "releaseDate": "2002-05-31",
+        "releaseDate": "2002-06-18",
         "releaseYear": 2002
       },
       {
@@ -3197,9 +3201,9 @@
         "releaseYear": 2000
       }
     ],
-    "albumCount": 8,
+    "albumCount": 9,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2022
+    "nextReleaseYear": 2023
   },
   "Papercut Massacre": {
     "name": "Papercut Massacre",
@@ -3227,14 +3231,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3272,11 +3276,17 @@
     "id": "396255033",
     "albums": [
       {
+        "id": "1535780033",
+        "name": "Songs for the Drunk and Broken Hearted",
+        "releaseDate": "2021-01-08",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1521939508",
         "name": "Patchwork",
         "releaseDate": "2020-07-10",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1458925643",
@@ -3345,9 +3355,9 @@
         "releaseYear": 2007
       }
     ],
-    "albumCount": 12,
+    "albumCount": 13,
     "avgReleaseYear": 1,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2022
   },
   "Pearl Jam": {
     "name": "Pearl Jam",
@@ -3357,8 +3367,7 @@
         "id": "1495374767",
         "name": "Gigaton",
         "releaseDate": "2020-03-27",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "791394126",
@@ -3369,7 +3378,7 @@
       {
         "id": "1440820350",
         "name": "Lightning Bolt",
-        "releaseDate": "2013-10-15",
+        "releaseDate": "2013-01-01",
         "releaseYear": 2013
       },
       {
@@ -3496,15 +3505,13 @@
         "id": "1531072149",
         "name": "Reborn",
         "releaseDate": "2020-09-27",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1510699287",
         "name": "Rêvolution",
         "releaseDate": "2020-04-19",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1472387761",
@@ -3651,8 +3658,7 @@
         "id": "1492345522",
         "name": "Declaration",
         "releaseDate": "2020-04-03",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1285528018",
@@ -3813,13 +3819,13 @@
       {
         "id": "1440859030",
         "name": "Endgame",
-        "releaseDate": "2011-03-11",
+        "releaseDate": "2011",
         "releaseYear": 2011
       },
       {
         "id": "1440851524",
         "name": "Appeal to Reason",
-        "releaseDate": "2008-10-07",
+        "releaseDate": "2008",
         "releaseYear": 2008
       },
       {
@@ -3831,7 +3837,7 @@
       {
         "id": "1440852654",
         "name": "Siren Song of the Counter Culture",
-        "releaseDate": "2004-08-10",
+        "releaseDate": "2004-01-01",
         "releaseYear": 2004
       },
       {
@@ -3934,8 +3940,7 @@
         "id": "1517736358",
         "name": "Si Vis Pacem, Para Bellum",
         "releaseDate": "2020-08-28",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1440941290",
@@ -3944,26 +3949,26 @@
         "releaseYear": 2017
       },
       {
-        "id": "1440668769",
-        "name": "Seether: 2002-2013",
-        "releaseDate": "2014-06-24",
+        "id": "1440944503",
+        "name": "Isolate and Medicate",
+        "releaseDate": "2014-07-01",
         "releaseYear": 2014
       },
       {
-        "id": "1440944503",
-        "name": "Isolate and Medicate",
-        "releaseDate": "2014-01-01",
-        "releaseYear": 2014
+        "id": "1440668769",
+        "name": "Seether: 2002-2013",
+        "releaseDate": "2013-10-29",
+        "releaseYear": 2013
       },
       {
         "id": "1440639548",
         "name": "Holding Onto Strings Better Left to Fray",
-        "releaseDate": "2011-01-01",
+        "releaseDate": "2011-05-17",
         "releaseYear": 2011
       },
       {
         "id": "1440746793",
-        "name": "Finding Beauty in Negative Spaces",
+        "name": "Finding Beauty In Negative Spaces",
         "releaseDate": "2007-10-23",
         "releaseYear": 2007
       },
@@ -3987,8 +3992,8 @@
       }
     ],
     "albumCount": 9,
-    "avgReleaseYear": 3,
-    "nextReleaseYear": 2023
+    "avgReleaseYear": 2,
+    "nextReleaseYear": 2022
   },
   "Sevendust": {
     "name": "Sevendust",
@@ -3998,8 +4003,7 @@
         "id": "1524378508",
         "name": "Blood & Stone",
         "releaseDate": "2020-10-23",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1355510081",
@@ -4056,14 +4060,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4119,14 +4123,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4221,14 +4225,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4332,26 +4336,26 @@
     "id": "1750802",
     "albums": [
       {
-        "id": "1524357475",
-        "name": "Victorious: The Aftermath",
-        "releaseDate": "2019-08-02",
-        "releaseYear": 2019
-      },
-      {
         "id": "1462648219",
         "name": "Victorious",
         "releaseDate": "2019-08-02",
         "releaseYear": 2019
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
-        "releaseDate": "2016-08-05",
-        "releaseYear": 2016
+        "id": "1524357475",
+        "name": "Victorious: The Aftermath",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019
       },
       {
         "id": "1312026642",
         "name": "Unleashed Beyond",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4487,7 +4491,7 @@
       {
         "id": "1479031083",
         "name": "Reworked",
-        "releaseDate": "2019-11-01",
+        "releaseDate": "2019-11-08",
         "releaseYear": 2019
       },
       {
@@ -4499,25 +4503,25 @@
       {
         "id": "1440795336",
         "name": "Fallen Empires",
-        "releaseDate": "2011-11-11",
+        "releaseDate": "2011-01-01",
         "releaseYear": 2011
       },
       {
         "id": "1440791018",
         "name": "Up to Now",
-        "releaseDate": "2009-11-06",
+        "releaseDate": "2009-01-01",
         "releaseYear": 2009
       },
       {
         "id": "1444119533",
         "name": "A Hundred Million Suns",
-        "releaseDate": "2008-10-24",
+        "releaseDate": "2008-01-01",
         "releaseYear": 2008
       },
       {
         "id": "1443301051",
         "name": "Eyes Open",
-        "releaseDate": "2006-05-01",
+        "releaseDate": "2006-01-01",
         "releaseYear": 2006
       },
       {
@@ -4739,13 +4743,13 @@
       {
         "id": "723757245",
         "name": "Head For the Door",
-        "releaseDate": "2004-11-30",
+        "releaseDate": "2004-01-01",
         "releaseYear": 2004
       },
       {
         "id": "712722550",
         "name": "Inertia",
-        "releaseDate": "2003-01-07",
+        "releaseDate": "2003-01-01",
         "releaseYear": 2003
       },
       {
@@ -4775,8 +4779,7 @@
         "id": "1502453888",
         "name": "Imploding the Mirage",
         "releaseDate": "2020-08-21",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1440865475",
@@ -4799,7 +4802,7 @@
       {
         "id": "1440852306",
         "name": "Battle Born",
-        "releaseDate": "2012-09-14",
+        "releaseDate": "2012-01-01",
         "releaseYear": 2012
       },
       {
@@ -4868,7 +4871,7 @@
       {
         "id": "1440880887",
         "name": "Americana",
-        "releaseDate": "1998-11-17",
+        "releaseDate": "1998-11-16",
         "releaseYear": 1998
       },
       {
@@ -4892,7 +4895,7 @@
       {
         "id": "1440951299",
         "name": "The Offspring",
-        "releaseDate": "1989-06-15",
+        "releaseDate": "1989",
         "releaseYear": 1989
       }
     ],
@@ -5019,8 +5022,7 @@
         "id": "1511241593",
         "name": "Shadow Work",
         "releaseDate": "2020-06-19",
-        "releaseYear": 2020,
-        "new": true
+        "releaseYear": 2020
       },
       {
         "id": "1124670249",
@@ -5238,7 +5240,7 @@
       {
         "id": "724535035",
         "name": "Lights and Sounds",
-        "releaseDate": "2006-01-24",
+        "releaseDate": "2006-01-01",
         "releaseYear": 2006
       },
       {
