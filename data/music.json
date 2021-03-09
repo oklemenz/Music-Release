@@ -114,7 +114,7 @@
       {
         "id": "1440784079",
         "name": "Seventeen Days",
-        "releaseDate": "2005-02-08",
+        "releaseDate": "2005-01-01",
         "releaseYear": 2005
       },
       {
@@ -192,7 +192,7 @@
       {
         "id": "723637755",
         "name": "Thirteenth Step",
-        "releaseDate": "2003-09-16",
+        "releaseDate": "2003-01-01",
         "releaseYear": 2003
       },
       {
@@ -256,14 +256,14 @@
     "id": "73789273",
     "albums": [
       {
-        "id": "1528784850",
-        "name": "Walk The Sky 2.0 ",
+        "id": "1468535263",
+        "name": "Walk the Sky",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
       {
-        "id": "1468535263",
-        "name": "Walk the Sky",
+        "id": "1528784850",
+        "name": "Walk The Sky 2.0 ",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
@@ -472,14 +472,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -781,14 +781,8 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306252385",
-        "name": "Razorblade Suitcase",
-        "releaseDate": "2014-10-14",
-        "releaseYear": 2014
-      },
-      {
-        "id": "1306283987",
-        "name": "Deconstructed",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -799,8 +793,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
+        "id": "1306283987",
+        "name": "Deconstructed",
+        "releaseDate": "2014-10-14",
+        "releaseYear": 2014
+      },
+      {
+        "id": "1306252385",
+        "name": "Razorblade Suitcase",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -831,6 +831,13 @@
     "name": "Chevelle",
     "id": "519486",
     "albums": [
+      {
+        "id": "1545068576",
+        "name": "NIRATIAS",
+        "releaseDate": "2021-03-05",
+        "releaseYear": 2021,
+        "new": true
+      },
       {
         "id": "1112312335",
         "name": "The North Corridor",
@@ -880,9 +887,9 @@
         "releaseYear": 1999
       }
     ],
-    "albumCount": 8,
-    "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "albumCount": 9,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2024
   },
   "Chris Volz": {
     "name": "Chris Volz",
@@ -1269,7 +1276,7 @@
       {
         "id": "1440665838",
         "name": "Fallen",
-        "releaseDate": "2003-01-01",
+        "releaseDate": "2003-03-04",
         "releaseYear": 2003
       }
     ],
@@ -1302,7 +1309,7 @@
       {
         "id": "1444222282",
         "name": "The Pursuit Begins When This Portrayal of Life Ends",
-        "releaseDate": "2007-07-24",
+        "releaseDate": "2007-01-01",
         "releaseYear": 2007
       },
       {
@@ -1368,7 +1375,7 @@
       {
         "id": "1444002662",
         "name": "Life Turns Electric",
-        "releaseDate": "2010-01-01",
+        "releaseDate": "2010-10-05",
         "releaseYear": 2010
       },
       {
@@ -1453,6 +1460,13 @@
     "id": "6906197",
     "albums": [
       {
+        "id": "1538671506",
+        "name": "Medicine At Midnight",
+        "releaseDate": "2021-02-05",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1249068417",
         "name": "Concrete and Gold",
         "releaseDate": "2017-09-15",
@@ -1507,9 +1521,9 @@
         "releaseYear": 1995
       }
     ],
-    "albumCount": 9,
+    "albumCount": 10,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2024
   },
   "Fuel": {
     "name": "Fuel",
@@ -1579,14 +1593,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "581055251",
-        "name": "Uno...Dos...Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno...Dos...Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -1749,7 +1763,7 @@
       {
         "id": "716170523",
         "name": "Vol. II",
-        "releaseDate": "2007-09-25",
+        "releaseDate": "2007-01-01",
         "releaseYear": 2007
       },
       {
@@ -1840,14 +1854,14 @@
         "releaseYear": 1995
       },
       {
-        "id": "1045560453",
-        "name": "Iced Earth",
+        "id": "1119632172",
+        "name": "Night of the Stormrider",
         "releaseDate": "1991",
         "releaseYear": 1991
       },
       {
-        "id": "1119632172",
-        "name": "Night of the Stormrider",
+        "id": "1045560453",
+        "name": "Iced Earth",
         "releaseDate": "1991",
         "releaseYear": 1991
       }
@@ -2227,6 +2241,13 @@
     "id": "1883403",
     "albums": [
       {
+        "id": "1547474568",
+        "name": "When You See Yourself",
+        "releaseDate": "2021-03-05",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1487726834",
         "name": "Walls",
         "releaseDate": "2016-10-14",
@@ -2269,9 +2290,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 7,
-    "avgReleaseYear": 2,
-    "nextReleaseYear": 2018
+    "albumCount": 8,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2024
   },
   "Linkin Park": {
     "name": "Linkin Park",
@@ -2697,14 +2718,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -3231,14 +3252,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3987,7 +4008,7 @@
       {
         "id": "1443487545",
         "name": "Disclaimer",
-        "releaseDate": "2002-08-20",
+        "releaseDate": "2002-01-01",
         "releaseYear": 2002
       }
     ],
@@ -4060,14 +4081,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4123,14 +4144,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4225,14 +4246,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4336,26 +4357,26 @@
     "id": "1750802",
     "albums": [
       {
-        "id": "1462648219",
-        "name": "Victorious",
-        "releaseDate": "2019-08-02",
-        "releaseYear": 2019
-      },
-      {
         "id": "1524357475",
         "name": "Victorious: The Aftermath",
         "releaseDate": "2019-08-02",
         "releaseYear": 2019
       },
       {
-        "id": "1312026642",
-        "name": "Unleashed Beyond",
-        "releaseDate": "2016-08-05",
-        "releaseYear": 2016
+        "id": "1462648219",
+        "name": "Victorious",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019
       },
       {
         "id": "1114195788",
         "name": "Unleashed",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1312026642",
+        "name": "Unleashed Beyond",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -5076,6 +5097,13 @@
     "id": "115234",
     "albums": [
       {
+        "id": "1549768766",
+        "name": "OK Human",
+        "releaseDate": "2021-01-29",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1442329821",
         "name": "Weezer",
         "releaseDate": "2019-03-01",
@@ -5106,15 +5134,15 @@
         "releaseYear": 2010
       },
       {
-        "id": "1440797971",
-        "name": "Blue / Green / Red",
-        "releaseDate": "2009-11-17",
-        "releaseYear": 2009
-      },
-      {
         "id": "1440892329",
         "name": "Raditude",
         "releaseDate": "2009-11-03",
+        "releaseYear": 2009
+      },
+      {
+        "id": "1440797971",
+        "name": "Blue / Green / Red",
+        "releaseDate": "2009-01-01",
         "releaseYear": 2009
       },
       {
@@ -5136,9 +5164,9 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 10,
+    "albumCount": 11,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2022
+    "nextReleaseYear": 2024
   },
   "William Fitzsimmons": {
     "name": "William Fitzsimmons",
