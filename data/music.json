@@ -256,14 +256,14 @@
     "id": "73789273",
     "albums": [
       {
-        "id": "1468535263",
-        "name": "Walk the Sky",
+        "id": "1528784850",
+        "name": "Walk The Sky 2.0 ",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
       {
-        "id": "1528784850",
-        "name": "Walk The Sky 2.0 ",
+        "id": "1468535263",
+        "name": "Walk the Sky",
         "releaseDate": "2019-10-18",
         "releaseYear": 2019
       },
@@ -307,6 +307,20 @@
     "id": "16269045",
     "albums": [
       {
+        "id": "1574451791",
+        "name": "As You Found Me",
+        "releaseDate": "2021-07-23",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
+        "id": "1561854509",
+        "name": "Paper Tigers",
+        "releaseDate": "2021-04-23",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1539195229",
         "name": "Tear Us Apart",
         "releaseDate": "2020-12-11",
@@ -331,15 +345,15 @@
         "releaseYear": 2013
       },
       {
-        "id": "1443239310",
-        "name": "Vital",
-        "releaseDate": "2012-10-12",
+        "id": "714698841",
+        "name": "Dancing Between the Fibers of Time",
+        "releaseDate": "2012-01-01",
         "releaseYear": 2012
       },
       {
-        "id": "714698841",
-        "name": "Dancing Between the Fibers of Time",
-        "releaseDate": "2012-03-23",
+        "id": "1443239310",
+        "name": "Vital",
+        "releaseDate": "2012-01-01",
         "releaseYear": 2012
       },
       {
@@ -361,14 +375,14 @@
         "releaseYear": 2007
       },
       {
-        "id": "724680592",
-        "name": "Cities",
-        "releaseDate": "2007-02-20",
+        "id": "714815279",
+        "name": "Lost Songs",
+        "releaseDate": "2007-01-01",
         "releaseYear": 2007
       },
       {
-        "id": "714815279",
-        "name": "Lost Songs",
+        "id": "724680592",
+        "name": "Cities",
         "releaseDate": "2007-01-01",
         "releaseYear": 2007
       },
@@ -381,13 +395,13 @@
       {
         "id": "724469774",
         "name": "Blueprints For the Black Market",
-        "releaseDate": "2003-04-24",
+        "releaseDate": "2003-01-01",
         "releaseYear": 2003
       }
     ],
-    "albumCount": 13,
+    "albumCount": 15,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2022
+    "nextReleaseYear": 2023
   },
   "Atomship": {
     "name": "Atomship",
@@ -472,14 +486,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "263497052",
-        "name": "Puzzle",
+        "id": "316135200",
+        "name": "Missing Pieces",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
       {
-        "id": "316135200",
-        "name": "Missing Pieces",
+        "id": "263497052",
+        "name": "Puzzle",
         "releaseDate": "2007-05-28",
         "releaseYear": 2007
       },
@@ -781,26 +795,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1306260912",
-        "name": "The Science of Things",
-        "releaseDate": "2014-10-14",
-        "releaseYear": 2014
-      },
-      {
         "id": "1306255070",
         "name": "Sixteen Stone",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
       {
-        "id": "1306283987",
-        "name": "Deconstructed",
-        "releaseDate": "2014-10-14",
-        "releaseYear": 2014
-      },
-      {
-        "id": "1306252385",
-        "name": "Razorblade Suitcase",
+        "id": "1306260912",
+        "name": "The Science of Things",
         "releaseDate": "2014-10-14",
         "releaseYear": 2014
       },
@@ -821,11 +823,23 @@
         "name": "Golden State",
         "releaseDate": "2001-10-23",
         "releaseYear": 2001
+      },
+      {
+        "id": "1306283987",
+        "name": "Deconstructed",
+        "releaseDate": "1997-11-11",
+        "releaseYear": 1997
+      },
+      {
+        "id": "1306252385",
+        "name": "Razorblade Suitcase",
+        "releaseDate": "1996-11-19",
+        "releaseYear": 1996
       }
     ],
     "albumCount": 10,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2024
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2023
   },
   "Chevelle": {
     "name": "Chevelle",
@@ -943,8 +957,8 @@
       {
         "id": "1452849904",
         "name": "Cold",
-        "releaseDate": "1998-06-02",
-        "releaseYear": 1998
+        "releaseDate": "1997-01-01",
+        "releaseYear": 1997
       }
     ],
     "albumCount": 6,
@@ -1184,6 +1198,13 @@
     "id": "267320",
     "albums": [
       {
+        "id": "1580813128",
+        "name": "Flag Day",
+        "releaseDate": "2021-08-20",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1440806665",
         "name": "Ukulele Songs",
         "releaseDate": "2011-01-01",
@@ -1196,9 +1217,9 @@
         "releaseYear": 2007
       }
     ],
-    "albumCount": 2,
-    "avgReleaseYear": 4,
-    "nextReleaseYear": 2015
+    "albumCount": 3,
+    "avgReleaseYear": 7,
+    "nextReleaseYear": 2028
   },
   "Emarosa": {
     "name": "Emarosa",
@@ -1250,6 +1271,13 @@
     "id": "42102393",
     "albums": [
       {
+        "id": "1540650197",
+        "name": "The Bitter Truth",
+        "releaseDate": "2021-03-26",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1281271863",
         "name": "Synthesis",
         "releaseDate": "2017-11-08",
@@ -1280,9 +1308,9 @@
         "releaseYear": 2003
       }
     ],
-    "albumCount": 5,
+    "albumCount": 6,
     "avgReleaseYear": 4,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2025
   },
   "Evans Blue": {
     "name": "Evans Blue",
@@ -1315,7 +1343,7 @@
       {
         "id": "1440905041",
         "name": "The Melody and the Energetic Nature of Volume",
-        "releaseDate": "2006-02-21",
+        "releaseDate": "2006-01-01",
         "releaseYear": 2006
       }
     ],
@@ -1342,7 +1370,7 @@
       {
         "id": "1440837029",
         "name": "The Reminder",
-        "releaseDate": "2007",
+        "releaseDate": "2007-05-01",
         "releaseYear": 2007
       },
       {
@@ -1387,13 +1415,13 @@
       {
         "id": "1440630288",
         "name": "Finger Eleven",
-        "releaseDate": "2003-06-17",
+        "releaseDate": "2003-01-01",
         "releaseYear": 2003
       },
       {
         "id": "1440664674",
         "name": "The Greyest of Blue Skies",
-        "releaseDate": "2000-07-25",
+        "releaseDate": "2000-01-01",
         "releaseYear": 2000
       },
       {
@@ -1593,14 +1621,14 @@
         "releaseYear": 2014
       },
       {
-        "id": "1156539533",
-        "name": "¡Tré!",
+        "id": "581055251",
+        "name": "Uno...Dos...Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
       {
-        "id": "581055251",
-        "name": "Uno...Dos...Tré!",
+        "id": "1156539533",
+        "name": "¡Tré!",
         "releaseDate": "2012-12-07",
         "releaseYear": 2012
       },
@@ -1743,15 +1771,15 @@
         "releaseYear": 2020
       },
       {
-        "id": "714906890",
-        "name": "The Crux",
-        "releaseDate": "2012-05-01",
-        "releaseYear": 2012
-      },
-      {
         "id": "513705048",
         "name": "The Re-Consumation",
         "releaseDate": "2012-03-27",
+        "releaseYear": 2012
+      },
+      {
+        "id": "714906890",
+        "name": "The Crux",
+        "releaseDate": "2012-01-01",
         "releaseYear": 2012
       },
       {
@@ -1820,7 +1848,7 @@
       {
         "id": "1458652174",
         "name": "The Glorious Burden",
-        "releaseDate": "2004",
+        "releaseDate": "2004-01-13",
         "releaseYear": 2004
       },
       {
@@ -1854,14 +1882,14 @@
         "releaseYear": 1995
       },
       {
-        "id": "1119632172",
-        "name": "Night of the Stormrider",
+        "id": "1045560453",
+        "name": "Iced Earth",
         "releaseDate": "1991",
         "releaseYear": 1991
       },
       {
-        "id": "1045560453",
-        "name": "Iced Earth",
+        "id": "1119632172",
+        "name": "Night of the Stormrider",
         "releaseDate": "1991",
         "releaseYear": 1991
       }
@@ -1923,6 +1951,12 @@
     "id": "72086807",
     "albums": [
       {
+        "id": "1576861615",
+        "name": "Jumpstart Hope",
+        "releaseDate": "2020-01-03",
+        "releaseYear": 2020
+      },
+      {
         "id": "983522661",
         "name": "Trilogy: Dawn",
         "releaseDate": "2015-05-04",
@@ -1959,9 +1993,9 @@
         "releaseYear": 2005
       }
     ],
-    "albumCount": 6,
-    "avgReleaseYear": 2,
-    "nextReleaseYear": 2017
+    "albumCount": 7,
+    "avgReleaseYear": 3,
+    "nextReleaseYear": 2023
   },
   "Incubus": {
     "name": "Incubus",
@@ -2150,7 +2184,7 @@
       {
         "id": "636268673",
         "name": "Damage",
-        "releaseDate": "2013-06-10",
+        "releaseDate": "2013-06-11",
         "releaseYear": 2013
       },
       {
@@ -2174,7 +2208,7 @@
       {
         "id": "1450030107",
         "name": "Bleed American",
-        "releaseDate": "2001-07-17",
+        "releaseDate": "2001-07-24",
         "releaseYear": 2001
       },
       {
@@ -2624,7 +2658,7 @@
       {
         "id": "1440855391",
         "name": "Super Collider",
-        "releaseDate": "2013-06-04",
+        "releaseDate": "2013-01-01",
         "releaseYear": 2013
       },
       {
@@ -2718,14 +2752,14 @@
         "releaseYear": 1986
       },
       {
-        "id": "268441837",
-        "name": "Killing Is My Business... And Business Is Good!",
+        "id": "1366017479",
+        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       },
       {
-        "id": "1366017479",
-        "name": "Killing Is My Business... And Business Is Good! The Final Kill",
+        "id": "268441837",
+        "name": "Killing Is My Business... And Business Is Good!",
         "releaseDate": "1985-06-12",
         "releaseYear": 1985
       }
@@ -2922,6 +2956,13 @@
     "id": "113247214",
     "albums": [
       {
+        "id": "1566670096",
+        "name": "Into The Mystery",
+        "releaseDate": "2021-07-30",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1514639763",
         "name": "Out of Body",
         "releaseDate": "2020-08-28",
@@ -2964,9 +3005,9 @@
         "releaseYear": 2006
       }
     ],
-    "albumCount": 7,
+    "albumCount": 8,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2022
+    "nextReleaseYear": 2023
   },
   "Nada Surf": {
     "name": "Nada Surf",
@@ -3252,14 +3293,14 @@
         "releaseYear": 2019
       },
       {
-        "id": "1164979795",
-        "name": "The Kill Plan",
+        "id": "1169200337",
+        "name": "A Summit Borderline",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
       {
-        "id": "1169200337",
-        "name": "A Summit Borderline",
+        "id": "1164979795",
+        "name": "The Kill Plan",
         "releaseDate": "2016-10-25",
         "releaseYear": 2016
       },
@@ -3523,6 +3564,13 @@
     "id": "92738",
     "albums": [
       {
+        "id": "1557286383",
+        "name": "Intercorrupted",
+        "releaseDate": "2021-03-19",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1531072149",
         "name": "Reborn",
         "releaseDate": "2020-09-27",
@@ -3667,8 +3715,8 @@
         "releaseYear": 2002
       }
     ],
-    "albumCount": 24,
-    "avgReleaseYear": 2,
+    "albumCount": 25,
+    "avgReleaseYear": 1,
     "nextReleaseYear": 2022
   },
   "Red": {
@@ -3820,6 +3868,13 @@
     "id": "16252655",
     "albums": [
       {
+        "id": "1556349375",
+        "name": "Nowhere Generation",
+        "releaseDate": "2021-06-04",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1388910724",
         "name": "The Ghost Note Symphonies, Vol. 1",
         "releaseDate": "2018-07-27",
@@ -3874,9 +3929,9 @@
         "releaseYear": 2001
       }
     ],
-    "albumCount": 9,
+    "albumCount": 10,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2023
   },
   "Ryan Star": {
     "name": "Ryan Star",
@@ -4081,14 +4136,14 @@
         "releaseYear": 2005
       },
       {
-        "id": "311283083",
-        "name": "Seasons",
+        "id": "311276737",
+        "name": "Seasons - Clean",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
       {
-        "id": "311276737",
-        "name": "Seasons - Clean",
+        "id": "311283083",
+        "name": "Seasons",
         "releaseDate": "2003-10-07",
         "releaseYear": 2003
       },
@@ -4144,14 +4199,14 @@
         "releaseYear": 2010
       },
       {
-        "id": "403180313",
-        "name": "The Sound of Madness",
+        "id": "339589646",
+        "name": "The Sight of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
       {
-        "id": "339589646",
-        "name": "The Sight of Madness",
+        "id": "403180313",
+        "name": "The Sound of Madness",
         "releaseDate": "2008-06-24",
         "releaseYear": 2008
       },
@@ -4246,14 +4301,14 @@
         "releaseYear": 1997
       },
       {
-        "id": "977670791",
-        "name": "Frogstomp",
+        "id": "977669545",
+        "name": "Frogstomp 20th Anniversary",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       },
       {
-        "id": "977669545",
-        "name": "Frogstomp 20th Anniversary",
+        "id": "977670791",
+        "name": "Frogstomp",
         "releaseDate": "1995-03-27",
         "releaseYear": 1995
       }
@@ -4357,26 +4412,26 @@
     "id": "1750802",
     "albums": [
       {
-        "id": "1524357475",
-        "name": "Victorious: The Aftermath",
-        "releaseDate": "2019-08-02",
-        "releaseYear": 2019
-      },
-      {
         "id": "1462648219",
         "name": "Victorious",
         "releaseDate": "2019-08-02",
         "releaseYear": 2019
       },
       {
-        "id": "1114195788",
-        "name": "Unleashed",
-        "releaseDate": "2016-08-05",
-        "releaseYear": 2016
+        "id": "1524357475",
+        "name": "Victorious: The Aftermath",
+        "releaseDate": "2019-08-02",
+        "releaseYear": 2019
       },
       {
         "id": "1312026642",
         "name": "Unleashed Beyond",
+        "releaseDate": "2016-08-05",
+        "releaseYear": 2016
+      },
+      {
+        "id": "1114195788",
+        "name": "Unleashed",
         "releaseDate": "2016-08-05",
         "releaseYear": 2016
       },
@@ -4460,11 +4515,23 @@
         "name": "Post Orgasmic Chill",
         "releaseDate": "1999-03-22",
         "releaseYear": 1999
+      },
+      {
+        "id": "1505331433",
+        "name": "Stoosh",
+        "releaseDate": "1996-04-01",
+        "releaseYear": 1996
+      },
+      {
+        "id": "1537828183",
+        "name": "Paranoid & Sunburnt",
+        "releaseDate": "1995",
+        "releaseYear": 1995
       }
     ],
-    "albumCount": 4,
-    "avgReleaseYear": 6,
-    "nextReleaseYear": 2022
+    "albumCount": 6,
+    "avgReleaseYear": 4,
+    "nextReleaseYear": 2020
   },
   "Smile Empty Soul": {
     "name": "Smile Empty Soul",
@@ -4705,6 +4772,13 @@
     "id": "1248961",
     "albums": [
       {
+        "id": "1572347954",
+        "name": "The Sum of All Things",
+        "releaseDate": "2021-07-23",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1419791809",
         "name": "Mercury Retrograde",
         "releaseDate": "2018-10-05",
@@ -4747,9 +4821,9 @@
         "releaseYear": 2001
       }
     ],
-    "albumCount": 7,
+    "albumCount": 8,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2021
+    "nextReleaseYear": 2024
   },
   "The Exies": {
     "name": "The Exies",
@@ -4796,6 +4870,13 @@
     "name": "The Killers",
     "id": "6483093",
     "albums": [
+      {
+        "id": "1579902982",
+        "name": "Pressure Machine",
+        "releaseDate": "2021-08-13",
+        "releaseYear": 2021,
+        "new": true
+      },
       {
         "id": "1502453888",
         "name": "Imploding the Mirage",
@@ -4851,14 +4932,21 @@
         "releaseYear": 2004
       }
     ],
-    "albumCount": 9,
+    "albumCount": 10,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2022
+    "nextReleaseYear": 2023
   },
   "The Offspring": {
     "name": "The Offspring",
     "id": "2820865",
     "albums": [
+      {
+        "id": "1579605726",
+        "name": "Let The Bad Times Roll",
+        "releaseDate": "2021-08-20",
+        "releaseYear": 2021,
+        "new": true
+      },
       {
         "id": "1443734490",
         "name": "Days Go By",
@@ -4920,9 +5008,9 @@
         "releaseYear": 1989
       }
     ],
-    "albumCount": 10,
+    "albumCount": 11,
     "avgReleaseYear": 3,
-    "nextReleaseYear": 2015
+    "nextReleaseYear": 2024
   },
   "The Strive": {
     "name": "The Strive",
@@ -5097,6 +5185,13 @@
     "id": "115234",
     "albums": [
       {
+        "id": "1479227321",
+        "name": "Van Weezer",
+        "releaseDate": "2021-05-07",
+        "releaseYear": 2021,
+        "new": true
+      },
+      {
         "id": "1549768766",
         "name": "OK Human",
         "releaseDate": "2021-01-29",
@@ -5122,15 +5217,15 @@
         "releaseYear": 2014
       },
       {
-        "id": "1443000327",
-        "name": "Death to False Metal",
-        "releaseDate": "2010-11-02",
-        "releaseYear": 2010
-      },
-      {
         "id": "1485046107",
         "name": "Hurley",
         "releaseDate": "2010-09-14",
+        "releaseYear": 2010
+      },
+      {
+        "id": "1443000327",
+        "name": "Death to False Metal",
+        "releaseDate": "2010-01-01",
         "releaseYear": 2010
       },
       {
@@ -5164,7 +5259,7 @@
         "releaseYear": 1996
       }
     ],
-    "albumCount": 11,
+    "albumCount": 12,
     "avgReleaseYear": 3,
     "nextReleaseYear": 2024
   },
@@ -5172,6 +5267,13 @@
     "name": "William Fitzsimmons",
     "id": "213326316",
     "albums": [
+      {
+        "id": "1549301287",
+        "name": "Ready the Astronaut",
+        "releaseDate": "2021-06-25",
+        "releaseYear": 2021,
+        "new": true
+      },
       {
         "id": "1402812327",
         "name": "Mission Bell",
@@ -5227,9 +5329,9 @@
         "releaseYear": 2005
       }
     ],
-    "albumCount": 9,
+    "albumCount": 10,
     "avgReleaseYear": 2,
-    "nextReleaseYear": 2020
+    "nextReleaseYear": 2023
   },
   "Yellowcard": {
     "name": "Yellowcard",
@@ -5262,7 +5364,7 @@
       {
         "id": "720098622",
         "name": "Paper Walls",
-        "releaseDate": "2007-07-17",
+        "releaseDate": "2007-01-01",
         "releaseYear": 2007
       },
       {
